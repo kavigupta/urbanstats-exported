@@ -1,92 +1,92 @@
 longname,Within 10km of Hospital %,Mean distance to nearest Hospital
-"Central District of California, CA, USA",0.9569501853029023,1.0
-"Middle District of Florida, FL, USA",0.8499052615590322,1.0
-"Southern District of Texas, TX, USA",0.8554694277543938,1.0
-"Northern District of Illinois, IL, USA",0.9197864330026833,1.0
-"District of New Jersey, NJ, USA",0.9324105668755743,1.0
-"Eastern District of New York, NY, USA",0.9722827538615161,1.0
-"Northern District of California, CA, USA",0.9420589822673654,1.0
-"Eastern District of California, CA, USA",0.8038695180397587,1.0
-"Western District of Texas, TX, USA",0.8076232646881868,1.0
-"Northern District of Texas, TX, USA",0.8592763189801434,1.0
-"District of Arizona, AZ, USA",0.8348534821865924,1.0
-"Northern District of Georgia, GA, USA",0.7648112029071913,1.0
-"District of Massachusetts, MA, USA",0.9193033042227698,1.0
-"Southern District of Florida, FL, USA",0.9749979560087422,1.0
-"Eastern District of Michigan, MI, USA",0.7873163548497559,1.0
-"Eastern District of Virginia, VA, USA",0.8615103858648863,1.0
-"District of Maryland, MD, USA",0.8142103289008583,1.0
-"Southern District of Ohio, OH, USA",0.7893852403711226,1.0
-"Western District of Washington, WA, USA",0.815029685865652,1.0
-"Eastern District of Pennsylvania, PA, USA",0.9046432940774429,1.0
-"District of Colorado, CO, USA",0.8439628287788414,1.0
-"Northern District of Ohio, OH, USA",0.800717692383022,1.0
-"District of Minnesota, MN, USA",0.7184265021236418,1.0
-"Southern District of New York, NY, USA",0.9386029506012624,1.0
-"District of South Carolina, SC, USA",0.6574717970379221,1.0
-"District of Oregon, OR, USA",0.8133626294784987,1.0
-"Eastern District of Texas, TX, USA",0.7315592351571084,1.0
-"Southern District of Indiana, IN, USA",0.7908655871806095,1.0
-"Eastern District of North Carolina, NC, USA",0.5719334227840199,1.0
-"Western District of Pennsylvania, PA, USA",0.7791530833423792,1.0
-"District of Connecticut, CT, USA",0.8128342127340927,1.0
-"Western District of Michigan, MI, USA",0.6213257252394073,1.0
-"Southern District of California, CA, USA",0.9290380452126512,1.0
-"Eastern District of Wisconsin, WI, USA",0.8048067573255155,1.0
-"Northern District of New York, NY, USA",0.6072812165358414,1.0
-"Middle District of Pennsylvania, PA, USA",0.6822209155946659,1.0
-"Western District of North Carolina, NC, USA",0.7342837196565971,1.0
-"District of Puerto Rico, PR, USA",0.7870982489076217,1.0
-"District of Utah, UT, USA",0.8595366937929145,1.0
-"Western District of Missouri, MO, USA",0.7007301396438554,1.0
-"District of Nevada, NV, USA",0.9352021574802084,1.0
-"Middle District of North Carolina, NC, USA",0.6781781235994951,1.0
-"Northern District of Alabama, AL, USA",0.6161078034066655,1.0
-"District of Kansas, KS, USA",0.8070036897354556,1.0
-"Eastern District of Missouri, MO, USA",0.7638546094604051,1.0
-"Western District of New York, NY, USA",0.7276091567270891,1.0
-"Eastern District of Tennessee, TN, USA",0.6854967019713493,1.0
-"Middle District of Tennessee, TN, USA",0.7051024314989,1.0
-"Northern District of Indiana, IN, USA",0.7966600432359322,1.0
-"Western District of Wisconsin, WI, USA",0.6584294821524265,1.0
-"Western District of Virginia, VA, USA",0.5629519873211364,1.0
-"Western District of Kentucky, KY, USA",0.6693324345034799,1.0
-"Eastern District of Kentucky, KY, USA",0.6682912506812747,1.0
-"Central District of Illinois, IL, USA",0.6742124851675002,1.0
-"Western District of Oklahoma, OK, USA",0.7900457394387497,1.0
-"Western District of Louisiana, LA, USA",0.7318412039215355,1.0
-"District of New Mexico, NM, USA",0.7355380487192105,1.0
-"Middle District of Georgia, GA, USA",0.6953659108625393,1.0
-"District of Nebraska, NE, USA",0.8177520922720525,1.0
-"Northern District of Florida, FL, USA",0.6815749991583059,1.0
-"Southern District of Mississippi, MS, USA",0.6585561243048164,1.0
-"Southern District of Iowa, IA, USA",0.7179498263819467,1.0
-"District of Idaho, ID, USA",0.774843320613385,1.0
-"Eastern District of Louisiana, LA, USA",0.9114533193537626,1.0
-"Eastern District of Washington, WA, USA",0.7792506924651279,1.0
-"Eastern District of Arkansas, AR, USA",0.6604606175990525,1.0
-"Southern District of Georgia, GA, USA",0.66295131753364,1.0
-"Western District of Tennessee, TN, USA",0.7887547979941495,1.0
-"District of Hawaii, HI, USA",0.7783302543003903,1.0
-"District of New Hampshire, NH, USA",0.7170918558110393,1.0
-"Western District of Arkansas, AR, USA",0.6648614298579438,1.0
-"District of Maine, ME, USA",0.5697896272282872,1.0
-"Northern District of Iowa, IA, USA",0.6426548137532608,1.0
-"Southern District of Illinois, IL, USA",0.6918244892579839,1.0
-"Middle District of Alabama, AL, USA",0.6683720843856782,1.0
-"Northern District of Mississippi, MS, USA",0.6141061561706251,1.0
-"District of Rhode Island, RI, USA",0.899453031931232,1.0
-"District of Montana, MT, USA",0.6803864511517443,1.0
-"Northern District of Oklahoma, OK, USA",0.8010241289734155,1.0
-"District of Delaware, DE, USA",0.7636322490306338,1.0
-"Southern District of West Virginia, WV, USA",0.6025483041215529,1.0
-"District of South Dakota, SD, USA",0.6934362054751108,1.0
-"Northern District of West Virginia, WV, USA",0.6537716277429176,1.0
-"Southern District of Alabama, AL, USA",0.6191804626589771,1.0
-"Middle District of Louisiana, LA, USA",0.8440996786458395,1.0
-"District of North Dakota, ND, USA",0.7418263868477762,1.0
-"District of Alaska, AK, USA",0.6350736263826279,1.0
-"Eastern District of Oklahoma, OK, USA",0.5419295733380654,1.0
-"District of District of Columbia, DC, USA",1.0,1.0
-"District of Vermont, VT, USA",0.5127666026483372,1.0
-"District of Wyoming, WY, USA",0.7530575486564122,1.0
+"Central District of California, CA, USA",0.9569501853029023,3.620323192630043
+"Middle District of Florida, FL, USA",0.8499052615590322,6.178644195610704
+"Southern District of Texas, TX, USA",0.8554694277543938,6.041368239872886
+"Northern District of Illinois, IL, USA",0.9197864330026833,4.301820366518352
+"District of New Jersey, NJ, USA",0.9324105668755743,4.157671057404539
+"Eastern District of New York, NY, USA",0.9722827538615161,2.840446561389842
+"Northern District of California, CA, USA",0.9420589822673654,3.9889217706763493
+"Eastern District of California, CA, USA",0.8038695180397587,6.702933480398174
+"Western District of Texas, TX, USA",0.8076232646881868,6.800259124133712
+"Northern District of Texas, TX, USA",0.8592763189801434,5.752731054321204
+"District of Arizona, AZ, USA",0.8348534821865924,6.829499991179241
+"Northern District of Georgia, GA, USA",0.7648112029071913,6.9982690167414034
+"District of Massachusetts, MA, USA",0.9193033042227698,4.2285026300908735
+"Southern District of Florida, FL, USA",0.9749979560087422,3.5889702105262664
+"Eastern District of Michigan, MI, USA",0.7873163548497559,6.932140363806065
+"Eastern District of Virginia, VA, USA",0.8615103858648863,6.188325158036051
+"District of Maryland, MD, USA",0.8142103289008583,6.206199660029891
+"Southern District of Ohio, OH, USA",0.7893852403711226,6.4349652154606405
+"Western District of Washington, WA, USA",0.815029685865652,6.441013763509919
+"Eastern District of Pennsylvania, PA, USA",0.9046432940774429,4.186666522292194
+"District of Colorado, CO, USA",0.8439628287788414,6.508844085497262
+"Northern District of Ohio, OH, USA",0.800717692383022,6.098937749916514
+"District of Minnesota, MN, USA",0.7184265021236418,8.025313103727436
+"Southern District of New York, NY, USA",0.9386029506012624,2.8060864262032634
+"District of South Carolina, SC, USA",0.6574717970379221,8.995122426236588
+"District of Oregon, OR, USA",0.8133626294784987,7.041233182632804
+"Eastern District of Texas, TX, USA",0.7315592351571084,7.588966859199151
+"Southern District of Indiana, IN, USA",0.7908655871806095,6.536411029788443
+"Eastern District of North Carolina, NC, USA",0.5719334227840199,10.167616338067905
+"Western District of Pennsylvania, PA, USA",0.7791530833423792,6.624100127392866
+"District of Connecticut, CT, USA",0.8128342127340927,6.080253073802564
+"Western District of Michigan, MI, USA",0.6213257252394073,9.351137766760646
+"Southern District of California, CA, USA",0.9290380452126512,5.205898597580968
+"Eastern District of Wisconsin, WI, USA",0.8048067573255155,6.430024672096779
+"Northern District of New York, NY, USA",0.6072812165358414,9.47909218174961
+"Middle District of Pennsylvania, PA, USA",0.6822209155946659,8.293953050249621
+"Western District of North Carolina, NC, USA",0.7342837196565971,7.701987493265406
+"District of Puerto Rico, PR, USA",0.7870982489076217,5.981892884396145
+"District of Utah, UT, USA",0.8595366937929145,5.782214770385777
+"Western District of Missouri, MO, USA",0.7007301396438554,8.87827442797658
+"District of Nevada, NV, USA",0.9352021574802084,4.892634270423252
+"Middle District of North Carolina, NC, USA",0.6781781235994951,8.342354213004386
+"Northern District of Alabama, AL, USA",0.6161078034066655,9.334215985010454
+"District of Kansas, KS, USA",0.8070036897354556,6.243694388102009
+"Eastern District of Missouri, MO, USA",0.7638546094604051,7.486803253409702
+"Western District of New York, NY, USA",0.7276091567270891,7.179064072401898
+"Eastern District of Tennessee, TN, USA",0.6854967019713493,7.913698919713829
+"Middle District of Tennessee, TN, USA",0.7051024314989,7.919825430397878
+"Northern District of Indiana, IN, USA",0.7966600432359322,6.404685746242727
+"Western District of Wisconsin, WI, USA",0.6584294821524265,8.612809915451857
+"Western District of Virginia, VA, USA",0.5629519873211364,10.951876603025122
+"Western District of Kentucky, KY, USA",0.6693324345034799,8.4059212527407
+"Eastern District of Kentucky, KY, USA",0.6682912506812747,8.376300620781615
+"Central District of Illinois, IL, USA",0.6742124851675002,8.530531743028318
+"Western District of Oklahoma, OK, USA",0.7900457394387497,6.473993519078146
+"Western District of Louisiana, LA, USA",0.7318412039215355,7.135713557587226
+"District of New Mexico, NM, USA",0.7355380487192105,10.070590361655976
+"Middle District of Georgia, GA, USA",0.6953659108625393,7.86752980834562
+"District of Nebraska, NE, USA",0.8177520922720525,6.291040507339889
+"Northern District of Florida, FL, USA",0.6815749991583059,9.461162664780357
+"Southern District of Mississippi, MS, USA",0.6585561243048164,8.483228216297814
+"Southern District of Iowa, IA, USA",0.7179498263819467,7.302919688286336
+"District of Idaho, ID, USA",0.774843320613385,7.612631714242422
+"Eastern District of Louisiana, LA, USA",0.9114533193537626,4.361849413139246
+"Eastern District of Washington, WA, USA",0.7792506924651279,7.337371825317107
+"Eastern District of Arkansas, AR, USA",0.6604606175990525,9.27738240655889
+"Southern District of Georgia, GA, USA",0.66295131753364,8.686373831645648
+"Western District of Tennessee, TN, USA",0.7887547979941495,6.853587626218628
+"District of Hawaii, HI, USA",0.7783302543003903,6.579271024476275
+"District of New Hampshire, NH, USA",0.7170918558110393,7.476729993875976
+"Western District of Arkansas, AR, USA",0.6648614298579438,8.92409933475413
+"District of Maine, ME, USA",0.5697896272282872,9.995960390988303
+"Northern District of Iowa, IA, USA",0.6426548137532608,8.665293508089569
+"Southern District of Illinois, IL, USA",0.6918244892579839,8.216658547222325
+"Middle District of Alabama, AL, USA",0.6683720843856782,8.556718386897204
+"Northern District of Mississippi, MS, USA",0.6141061561706251,9.024920075347584
+"District of Rhode Island, RI, USA",0.899453031931232,4.635953293372557
+"District of Montana, MT, USA",0.6803864511517443,10.86211640239749
+"Northern District of Oklahoma, OK, USA",0.8010241289734155,6.223720280641533
+"District of Delaware, DE, USA",0.7636322490306338,7.301780915503411
+"Southern District of West Virginia, WV, USA",0.6025483041215529,9.409404615977842
+"District of South Dakota, SD, USA",0.6934362054751108,9.059507546259958
+"Northern District of West Virginia, WV, USA",0.6537716277429176,8.957656208225321
+"Southern District of Alabama, AL, USA",0.6191804626589771,9.652555219081885
+"Middle District of Louisiana, LA, USA",0.8440996786458395,5.757992880757749
+"District of North Dakota, ND, USA",0.7418263868477762,8.95516696601231
+"District of Alaska, AK, USA",0.6350736263826279,30.894852271715866
+"Eastern District of Oklahoma, OK, USA",0.5419295733380654,10.324311001169304
+"District of District of Columbia, DC, USA",1.0,1.7705686727253025
+"District of Vermont, VT, USA",0.5127666026483372,11.109348692493331
+"District of Wyoming, WY, USA",0.7530575486564122,10.527458278949137
