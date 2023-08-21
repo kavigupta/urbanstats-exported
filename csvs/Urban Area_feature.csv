@@ -1,0 +1,2639 @@
+longname,Within 10km of Hospital %,Mean distance to nearest Hospital
+"New York-Jersey City-Newark [Urban Area], NY-NJ, USA",0.9810704982675938,1.0
+"Los Angeles-Long Beach-Anaheim [Urban Area], CA, USA",0.9980800622617136,1.0
+"Chicago [Urban Area], IL-IN, USA",0.9736871905611627,1.0
+"Miami-Fort Lauderdale [Urban Area], FL, USA",0.9936877233846294,1.0
+"Houston [Urban Area], TX, USA",0.9556190874807275,1.0
+"Dallas-Fort Worth-Arlington [Urban Area], TX, USA",0.9745041914717758,1.0
+"Philadelphia [Urban Area], PA-NJ-DE-MD, USA",0.9786604050999583,1.0
+"Washington-Arlington [Urban Area], DC-VA-MD, USA",0.9654494054698972,1.0
+"Atlanta [Urban Area], GA, USA",0.8469931243810332,1.0
+"Boston [Urban Area], MA-NH, USA",0.9722556480372359,1.0
+"Phoenix-Mesa-Scottsdale [Urban Area], AZ, USA",0.9588684291201423,1.0
+"Detroit [Urban Area], MI, USA",0.9368006481523158,1.0
+"Seattle-Tacoma [Urban Area], WA, USA",0.917455391645229,1.0
+"San Francisco-Oakland [Urban Area], CA, USA",0.9985304043052015,1.0
+"San Diego [Urban Area], CA, USA",0.9903002963879751,1.0
+"Minneapolis-St. Paul [Urban Area], MN, USA",0.8509989824575126,1.0
+"Tampa-St. Petersburg [Urban Area], FL, USA",0.9896580903291179,1.0
+"Denver-Aurora [Urban Area], CO, USA",0.9824413928202738,1.0
+"Riverside-San Bernardino [Urban Area], CA, USA",0.9522432218870884,1.0
+"Baltimore [Urban Area], MD, USA",0.946756791700685,1.0
+"Las Vegas-Henderson-Paradise [Urban Area], NV, USA",0.9994163768657617,1.0
+"St. Louis [Urban Area], MO-IL, USA",0.9654114898370977,1.0
+"Portland [Urban Area], OR-WA, USA",0.9810344647326016,1.0
+"San Antonio [Urban Area], TX, USA",0.9713537837565219,1.0
+"Sacramento [Urban Area], CA, USA",0.9249580554582357,1.0
+"Orlando [Urban Area], FL, USA",0.9673870594682765,1.0
+"San Juan [Urban Area], PR, USA",0.8719411627566539,1.0
+"San Jose [Urban Area], CA, USA",0.983682785779827,1.0
+"Austin [Urban Area], TX, USA",0.9451883210452802,1.0
+"Pittsburgh [Urban Area], PA, USA",0.9715204072802958,1.0
+"Cleveland [Urban Area], OH, USA",0.9022858604654422,1.0
+"Indianapolis [Urban Area], IN, USA",0.963618041498199,1.0
+"Cincinnati [Urban Area], OH-KY, USA",0.9515047926656327,1.0
+"Kansas City [Urban Area], MO-KS, USA",0.9883509793826133,1.0
+"Columbus [Urban Area], OH, USA",0.9655499363855508,1.0
+"Virginia Beach-Norfolk [Urban Area], VA, USA",0.9796511107222623,1.0
+"Charlotte [Urban Area], NC-SC, USA",0.8636280295360516,1.0
+"Milwaukee [Urban Area], WI, USA",0.993419778924774,1.0
+"Providence [Urban Area], RI-MA, USA",0.9616411807068873,1.0
+"Jacksonville [Urban Area], FL, USA",0.888805602810384,1.0
+"Salt Lake City [Urban Area], UT, USA",0.999404344214375,1.0
+"Nashville-Davidson [Urban Area], TN, USA",0.9175500283953111,1.0
+"Raleigh [Urban Area], NC, USA",0.7124943297133862,1.0
+"Richmond [Urban Area], VA, USA",0.9062502950479158,1.0
+"Memphis [Urban Area], TN-MS-AR, USA",0.9823923725844782,1.0
+"Oklahoma City [Urban Area], OK, USA",0.963259816996445,1.0
+"Hartford [Urban Area], CT, USA",0.8764631717695603,1.0
+"Louisville/Jefferson County [Urban Area], KY-IN, USA",0.8474471904162266,1.0
+"Buffalo [Urban Area], NY, USA",0.9662290907864562,1.0
+"Bridgeport-Stamford [Urban Area], CT-NY, USA",0.9454849804890398,1.0
+"New Orleans [Urban Area], LA, USA",0.9908094968896626,1.0
+"Tucson [Urban Area], AZ, USA",0.9356998358541581,1.0
+"El Paso [Urban Area], TX-NM, USA",0.8328812615260759,1.0
+"Honolulu [Urban Area], HI, USA",0.914192993394683,1.0
+"Omaha [Urban Area], NE-IA, USA",0.9839830727704916,1.0
+"McAllen [Urban Area], TX, USA",0.8514482017258609,1.0
+"Bradenton-Sarasota-Venice [Urban Area], FL, USA",0.898104803773706,1.0
+"Birmingham [Urban Area], AL, USA",0.8057851026380852,1.0
+"Albuquerque [Urban Area], NM, USA",0.9345718639140493,1.0
+"Tulsa [Urban Area], OK, USA",0.9401447129951163,1.0
+"Fresno [Urban Area], CA, USA",0.9747891899123314,1.0
+"Rochester [Urban Area], NY, USA",0.7836331703881861,1.0
+"Charleston [Urban Area], SC, USA",0.92970517237099,1.0
+"Dayton [Urban Area], OH, USA",0.9251920492073241,1.0
+"Mission Viejo-Lake Forest-Laguna Niguel [Urban Area], CA, USA",0.9327580262907692,1.0
+"Colorado Springs [Urban Area], CO, USA",0.9233747671914674,1.0
+"Baton Rouge [Urban Area], LA, USA",0.9465505935127019,1.0
+"Allentown-Bethlehem [Urban Area], PA-NJ, USA",0.9596881469125933,1.0
+"Ogden-Layton [Urban Area], UT, USA",0.8324828325863052,1.0
+"Grand Rapids [Urban Area], MI, USA",0.8205264948007648,1.0
+"Cape Coral [Urban Area], FL, USA",0.9078202128689244,1.0
+"Knoxville [Urban Area], TN, USA",0.9291125930713244,1.0
+"Albany-Schenectady [Urban Area], NY, USA",0.9189721854125994,1.0
+"Columbia [Urban Area], SC, USA",0.8171413956812843,1.0
+"Provo-Orem [Urban Area], UT, USA",0.8790827187487789,1.0
+"Bakersfield [Urban Area], CA, USA",1.0,1.0
+"New Haven [Urban Area], CT, USA",0.8201640021657975,1.0
+"Des Moines [Urban Area], IA, USA",0.8062125105532677,1.0
+"Akron [Urban Area], OH, USA",0.9114045755602266,1.0
+"Concord-Walnut Creek [Urban Area], CA, USA",0.9917932797730341,1.0
+"Temecula-Murrieta-Menifee [Urban Area], CA, USA",0.8826898756311544,1.0
+"Palm Bay-Melbourne [Urban Area], FL, USA",0.8793185489792921,1.0
+"McKinney-Frisco [Urban Area], TX, USA",0.9689879022113577,1.0
+"Wichita [Urban Area], KS, USA",0.8984029378427166,1.0
+"Toledo [Urban Area], OH-MI, USA",0.986460542381595,1.0
+"Harrisburg [Urban Area], PA, USA",0.9423317082909756,1.0
+"Worcester [Urban Area], MA-CT, USA",0.8682804899550909,1.0
+"Little Rock [Urban Area], AR, USA",0.91498796182426,1.0
+"Madison [Urban Area], WI, USA",0.9466494931213288,1.0
+"Spokane [Urban Area], WA, USA",0.9439030224982617,1.0
+"Reno [Urban Area], NV-CA, USA",0.8745814941470766,1.0
+"Springfield [Urban Area], MA-CT, USA",0.9961302287711045,1.0
+"Port St. Lucie [Urban Area], FL, USA",0.9919587887925618,1.0
+"Boise City [Urban Area], ID, USA",0.9951359711898056,1.0
+"Augusta-Richmond County [Urban Area], GA-SC, USA",0.8616366923148234,1.0
+"Denton-Lewisville [Urban Area], TX, USA",1.0,1.0
+"Bonita Springs-Estero [Urban Area], FL, USA",0.7984330768778998,1.0
+"Winston-Salem [Urban Area], NC, USA",0.8415295872889168,1.0
+"Phoenix West-Goodyear-Avondale [Urban Area], AZ, USA",0.8668376410300372,1.0
+"Kissimmee-St. Cloud [Urban Area], FL, USA",0.9942591371019398,1.0
+"Stockton [Urban Area], CA, USA",0.9844641518439329,1.0
+"Syracuse [Urban Area], NY, USA",0.7619832712855968,1.0
+"The Woodlands-Conroe [Urban Area], TX, USA",0.8901340277398162,1.0
+"Daytona Beach-Palm Coast-Port Orange [Urban Area], FL, USA",0.8807140050630897,1.0
+"Chattanooga [Urban Area], TN-GA, USA",0.8956868195971086,1.0
+"Durham [Urban Area], NC, USA",0.8485426059911441,1.0
+"Lancaster-Manheim [Urban Area], PA, USA",0.7908067827541632,1.0
+"Pensacola [Urban Area], FL-AL, USA",0.8497713828772951,1.0
+"Greenville [Urban Area], SC, USA",0.9521213827010027,1.0
+"Oxnard-San Buenaventura (Ventura) [Urban Area], CA, USA",0.9961341816509225,1.0
+"Fayetteville-Springdale-Rogers [Urban Area], AR-MO, USA",0.9080620947477435,1.0
+"Trenton [Urban Area], NJ, USA",0.9217055142513134,1.0
+"Scranton [Urban Area], PA, USA",0.9657061516771972,1.0
+"Indio-Palm Desert-Palm Springs [Urban Area], CA, USA",0.9875926054143876,1.0
+"Palmdale-Lancaster [Urban Area], CA, USA",0.930203388039237,1.0
+"Modesto [Urban Area], CA, USA",1.0,1.0
+"Victorville-Hesperia-Apple Valley [Urban Area], CA, USA",0.8354992468017177,1.0
+"Jackson [Urban Area], MS, USA",0.9024513004288266,1.0
+"Corpus Christi [Urban Area], TX, USA",0.901582582742003,1.0
+"Greensboro [Urban Area], NC, USA",0.9187231506396639,1.0
+"Fort Wayne [Urban Area], IN, USA",0.999157572618431,1.0
+"Huntsville [Urban Area], AL, USA",0.8614259753362548,1.0
+"Fort Collins [Urban Area], CO, USA",0.9641132343748084,1.0
+"Antioch [Urban Area], CA, USA",0.9460891157401021,1.0
+"Fayetteville [Urban Area], NC, USA",0.9373984640378084,1.0
+"Mobile [Urban Area], AL, USA",0.8819783353577275,1.0
+"Youngstown [Urban Area], OH, USA",0.974571596847626,1.0
+"Lansing [Urban Area], MI, USA",0.8398429154885328,1.0
+"Ann Arbor [Urban Area], MI, USA",0.9612451170799114,1.0
+"Lexington-Fayette [Urban Area], KY, USA",1.0,1.0
+"Poughkeepsie-Newburgh [Urban Area], NY, USA",0.8512164592109694,1.0
+"Savannah [Urban Area], GA, USA",0.7187962490225097,1.0
+"Barnstable Town [Urban Area], MA, USA",0.7084865251641282,1.0
+"Flint [Urban Area], MI, USA",0.760606628222796,1.0
+"Myrtle Beach-North Myrtle Beach [Urban Area], SC-NC, USA",0.7433183700502418,1.0
+"Santa Rosa [Urban Area], CA, USA",0.8978606190448964,1.0
+"Canton [Urban Area], OH, USA",0.8290560377083763,1.0
+"Atlantic City-Ocean City-Villas [Urban Area], NJ, USA",0.8326568809952496,1.0
+"Lincoln [Urban Area], NE, USA",0.9864190620739861,1.0
+"Shreveport [Urban Area], LA, USA",0.9481413078194215,1.0
+"Asheville [Urban Area], NC, USA",0.8081714349700465,1.0
+"Davenport [Urban Area], IA-IL, USA",0.9608921114543268,1.0
+"Springfield [Urban Area], MO, USA",0.9579693685852871,1.0
+"South Bend [Urban Area], IN-MI, USA",0.9829915997719785,1.0
+"Concord [Urban Area], NC, USA",0.7978909738274016,1.0
+"Santa Clarita [Urban Area], CA, USA",0.8635871539504587,1.0
+"Lakeland [Urban Area], FL, USA",0.733645179281435,1.0
+"Rockford [Urban Area], IL, USA",0.8897566586963678,1.0
+"Reading [Urban Area], PA, USA",0.9161641534975641,1.0
+"Lubbock [Urban Area], TX, USA",0.9462208021154693,1.0
+"Eugene [Urban Area], OR, USA",0.9988563137771626,1.0
+"Salem [Urban Area], OR, USA",0.9770470053776865,1.0
+"Columbus [Urban Area], GA-AL, USA",0.996612461063844,1.0
+"Gainesville [Urban Area], GA, USA",0.4729543243671244,1.0
+"Round Lake Beach-McHenry-Grayslake [Urban Area], IL-WI, USA",0.29029350545190674,1.0
+"Peoria [Urban Area], IL, USA",0.8269773386044399,1.0
+"Killeen [Urban Area], TX, USA",0.9150694730621798,1.0
+"Kennewick-Richland-Pasco [Urban Area], WA, USA",0.9872514203155038,1.0
+"Wilmington [Urban Area], NC, USA",0.8115372715202739,1.0
+"Montgomery [Urban Area], AL, USA",0.9827165930142954,1.0
+"Winter Haven [Urban Area], FL, USA",0.8868632305499288,1.0
+"Tallahassee [Urban Area], FL, USA",0.9143847802193458,1.0
+"Laredo [Urban Area], TX, USA",0.9370958633908901,1.0
+"Anchorage [Urban Area], AK, USA",0.9770112175629483,1.0
+"Nashua [Urban Area], NH-MA, USA",0.9556390544233365,1.0
+"Livermore-Pleasanton-Dublin [Urban Area], CA, USA",1.0,1.0
+"York [Urban Area], PA, USA",0.9386289609262667,1.0
+"Gulfport-Biloxi [Urban Area], MS, USA",0.972193074501574,1.0
+"Aguadilla-Isabela-San Sebastián [Urban Area], PR, USA",0.5739660235710938,1.0
+"Appleton [Urban Area], WI, USA",0.9470660310780328,1.0
+"Lafayette [Urban Area], LA, USA",0.9868597019127558,1.0
+"Navarre-Miramar Beach-Destin [Urban Area], FL, USA",0.7796855176316126,1.0
+"Bremerton [Urban Area], WA, USA",0.8811444916217047,1.0
+"Green Bay [Urban Area], WI, USA",0.9580069237495316,1.0
+"Rock Hill [Urban Area], SC, USA",0.7497470736073026,1.0
+"Roanoke [Urban Area], VA, USA",0.9417795611839199,1.0
+"Brownsville [Urban Area], TX, USA",0.9169253940973184,1.0
+"Fargo [Urban Area], ND-MN, USA",0.9968364675737926,1.0
+"Bel Air-Aberdeen [Urban Area], MD, USA",0.7929018341742489,1.0
+"Thousand Oaks [Urban Area], CA, USA",0.9802370248520931,1.0
+"Gainesville [Urban Area], FL, USA",0.99363736736718,1.0
+"Deltona [Urban Area], FL, USA",0.8954497133528229,1.0
+"Olympia-Lacey [Urban Area], WA, USA",0.9625042636087184,1.0
+"Evansville [Urban Area], IN, USA",0.9569360179836117,1.0
+"College Station-Bryan [Urban Area], TX, USA",1.0,1.0
+"Amarillo [Urban Area], TX, USA",0.8745409501603031,1.0
+"Portland [Urban Area], ME, USA",0.9522877344708701,1.0
+"Kalamazoo [Urban Area], MI, USA",0.819580371721043,1.0
+"Santa Barbara [Urban Area], CA, USA",0.9157306982794008,1.0
+"Hickory [Urban Area], NC, USA",0.9343112782925002,1.0
+"Clarksville [Urban Area], TN-KY, USA",0.5609737891085709,1.0
+"Huntington [Urban Area], WV-KY-OH, USA",0.9474562468462258,1.0
+"Port Charlotte-North Port [Urban Area], FL, USA",0.6695516955169551,1.0
+"Waterbury [Urban Area], CT, USA",0.9693402971146465,1.0
+"Lorain-Elyria [Urban Area], OH, USA",0.9650770845996574,1.0
+"Hagerstown [Urban Area], MD-WV-PA-VA, USA",0.8366142429779759,1.0
+"Spartanburg [Urban Area], SC, USA",0.7875324332421055,1.0
+"Sioux Falls [Urban Area], SD, USA",1.0,1.0
+"Cedar Rapids [Urban Area], IA, USA",0.9207338574184315,1.0
+"Waco [Urban Area], TX, USA",0.9018170127149405,1.0
+"Galveston-Texas City [Urban Area], TX, USA",0.8975154146448246,1.0
+"Erie [Urban Area], PA, USA",0.9280215099563411,1.0
+"Ocala [Urban Area], FL, USA",0.8294141157533385,1.0
+"Nampa [Urban Area], ID, USA",1.0,1.0
+"Salinas [Urban Area], CA, USA",0.9661751120924679,1.0
+"Murfreesboro [Urban Area], TN, USA",0.9710229932379465,1.0
+"Gastonia [Urban Area], NC, USA",0.9431420544158465,1.0
+"Frederick [Urban Area], MD, USA",0.802392664460262,1.0
+"Vallejo [Urban Area], CA, USA",1.0,1.0
+"Vero Beach-Sebastian [Urban Area], FL, USA",0.7801103894613637,1.0
+"Hemet [Urban Area], CA, USA",1.0,1.0
+"Danbury [Urban Area], CT-NY, USA",0.9197518639328984,1.0
+"Medford [Urban Area], OR, USA",0.8948322069447682,1.0
+"Spring Hill [Urban Area], FL, USA",0.9856551316178646,1.0
+"Santa Cruz [Urban Area], CA, USA",0.90971260899916,1.0
+"High Point [Urban Area], NC, USA",0.9501161890007745,1.0
+"Fredericksburg [Urban Area], VA, USA",0.9752861121547719,1.0
+"Norwich-New London [Urban Area], CT, USA",0.8230565244397726,1.0
+"Muskegon-Norton Shores [Urban Area], MI, USA",0.9848690614972297,1.0
+"Manchester [Urban Area], NH, USA",0.9449993569683199,1.0
+"Lake Charles [Urban Area], LA, USA",0.9063513455301814,1.0
+"Panama City-Panama City Beach [Urban Area], FL, USA",0.6935147476243366,1.0
+"The Villages-Lady Lake [Urban Area], FL, USA",0.8427746451006579,1.0
+"Visalia [Urban Area], CA, USA",1.0,1.0
+"Marysville [Urban Area], WA, USA",0.8850972326103216,1.0
+"Mauldin-Simpsonville [Urban Area], SC, USA",0.9984451995536218,1.0
+"Springfield [Urban Area], IL, USA",0.9520107996107117,1.0
+"Lafayette [Urban Area], IN, USA",1.0,1.0
+"Tuscaloosa [Urban Area], AL, USA",0.9611633109619687,1.0
+"Binghamton [Urban Area], NY, USA",0.9102871580459402,1.0
+"New Bedford [Urban Area], MA, USA",0.9813815590612962,1.0
+"Odessa [Urban Area], TX, USA",0.8304783681484065,1.0
+"Leesburg-Eustis-Tavares [Urban Area], FL, USA",0.9068920229932089,1.0
+"Fairfield [Urban Area], CA, USA",0.9213772798124192,1.0
+"Merced [Urban Area], CA, USA",0.705228853997281,1.0
+"Topeka [Urban Area], KS, USA",0.9864725153736674,1.0
+"Elkhart [Urban Area], IN-MI, USA",0.9697298902151836,1.0
+"Champaign [Urban Area], IL, USA",1.0,1.0
+"Beaumont [Urban Area], TX, USA",0.9088094702316415,1.0
+"South Lyon-Hamburg-Genoa [Urban Area], MI, USA",0.6919013722655741,1.0
+"Houma [Urban Area], LA, USA",0.9488321579301907,1.0
+"Burlington [Urban Area], NC, USA",0.6699974537371569,1.0
+"Santa Maria [Urban Area], CA, USA",0.9606292084757919,1.0
+"Athens-Clarke County [Urban Area], GA, USA",0.9223464350303394,1.0
+"Midland [Urban Area], TX, USA",0.9986549011598836,1.0
+"Columbia [Urban Area], MO, USA",0.9981456804224746,1.0
+"Warner Robins [Urban Area], GA, USA",0.9746407618399796,1.0
+"Charleston [Urban Area], WV, USA",0.7468820499723322,1.0
+"Macon-Bibb County [Urban Area], GA, USA",0.9475415920234671,1.0
+"Las Cruces [Urban Area], NM, USA",0.9674604199859335,1.0
+"Greeley [Urban Area], CO, USA",0.9962178076401743,1.0
+"Grand Junction [Urban Area], CO, USA",0.9759952343479955,1.0
+"Yuma [Urban Area], AZ-CA, USA",0.6731065378692426,1.0
+"Racine [Urban Area], WI, USA",1.0,1.0
+"St. George [Urban Area], UT, USA",0.9176938162241162,1.0
+"Bloomington-Normal [Urban Area], IL, USA",0.9972110365398956,1.0
+"Yakima [Urban Area], WA, USA",0.9767096023132675,1.0
+"Tyler [Urban Area], TX, USA",0.994940012821687,1.0
+"Bellingham [Urban Area], WA, USA",0.8582637483621365,1.0
+"Billings [Urban Area], MT, USA",0.9861088463897754,1.0
+"Johnson City [Urban Area], TN, USA",0.9187746558874563,1.0
+"Simi Valley [Urban Area], CA, USA",1.0,1.0
+"Iowa City [Urban Area], IA, USA",1.0,1.0
+"Kenosha [Urban Area], WI, USA",1.0,1.0
+"Fort Smith [Urban Area], AR-OK, USA",0.9513476564052428,1.0
+"Yuba City [Urban Area], CA, USA",1.0,1.0
+"Lynchburg [Urban Area], VA, USA",0.7838306952450715,1.0
+"Arecibo [Urban Area], PR, USA",0.5926740163589926,1.0
+"Seaside-Monterey-Pacific Grove [Urban Area], CA, USA",0.7517146443175837,1.0
+"Dover [Urban Area], DE, USA",0.6483294205571035,1.0
+"Coeur d'Alene [Urban Area], ID, USA",0.9877453193358012,1.0
+"Rochester [Urban Area], MN, USA",0.9976313257173876,1.0
+"Tracy-Mountain House [Urban Area], CA, USA",0.8443496096334524,1.0
+"Boulder [Urban Area], CO, USA",1.0,1.0
+"Pueblo [Urban Area], CO, USA",0.9893900963180319,1.0
+"Redding [Urban Area], CA, USA",0.8418102519029536,1.0
+"Norman [Urban Area], OK, USA",0.9747235649923871,1.0
+"Greenville [Urban Area], NC, USA",0.8917270079067832,1.0
+"Monroe [Urban Area], LA, USA",0.9956403587742989,1.0
+"Duluth [Urban Area], MN-WI, USA",0.9573489879491839,1.0
+"Utica [Urban Area], NY, USA",0.9638750535448811,1.0
+"Harlingen [Urban Area], TX, USA",0.9283562496844444,1.0
+"Waldorf [Urban Area], MD, USA",0.5030396033760255,1.0
+"Anderson-Clemson [Urban Area], SC, USA",0.650347641696728,1.0
+"Ponce [Urban Area], PR, USA",1.0,1.0
+"Abilene [Urban Area], TX, USA",0.9978753660972761,1.0
+"Kailua (Honolulu County)-Kaneohe [Urban Area], HI, USA",0.9993056261220066,1.0
+"Burlington [Urban Area], VT, USA",0.9237156025484614,1.0
+"St. Cloud [Urban Area], MN, USA",0.9288410207585984,1.0
+"Port Arthur [Urban Area], TX, USA",1.0,1.0
+"Saginaw [Urban Area], MI, USA",0.9997328921746024,1.0
+"Gilroy-Morgan Hill [Urban Area], CA, USA",0.6249510158229777,1.0
+"Temple [Urban Area], TX, USA",0.9658821271547212,1.0
+"Waterloo [Urban Area], IA, USA",0.9802521486958884,1.0
+"Logan [Urban Area], UT, USA",0.8767280802619221,1.0
+"Mandeville-Covington [Urban Area], LA, USA",0.9843446463261342,1.0
+"Sioux City [Urban Area], IA-NE-SD, USA",0.9547963136575097,1.0
+"Leominster-Fitchburg [Urban Area], MA, USA",0.9981662044905627,1.0
+"Chico [Urban Area], CA, USA",1.0,1.0
+"Jacksonville [Urban Area], NC, USA",0.8846921527727829,1.0
+"Bloomington [Urban Area], IN, USA",1.0,1.0
+"Longview [Urban Area], TX, USA",0.8603721790119422,1.0
+"Holland [Urban Area], MI, USA",0.9842853672664761,1.0
+"Bend [Urban Area], OR, USA",0.9525460799341983,1.0
+"Eau Claire [Urban Area], WI, USA",1.0,1.0
+"Idaho Falls [Urban Area], ID, USA",1.0,1.0
+"Charlottesville [Urban Area], VA, USA",0.9459646226641456,1.0
+"Vacaville [Urban Area], CA, USA",1.0,1.0
+"Auburn [Urban Area], AL, USA",0.7642946391384542,1.0
+"Longmont [Urban Area], CO, USA",1.0,1.0
+"New Braunfels [Urban Area], TX, USA",0.986588707115629,1.0
+"San Angelo [Urban Area], TX, USA",0.9990998379708348,1.0
+"La Crosse [Urban Area], WI-MN, USA",0.7518609919896432,1.0
+"Kingsport [Urban Area], TN-VA, USA",0.8059058438589182,1.0
+"Bismarck [Urban Area], ND, USA",1.0,1.0
+"Bowling Green [Urban Area], KY, USA",1.0,1.0
+"San Germán-Cabo Rojo-Sabana Grande [Urban Area], PR, USA",0.9920198270276941,1.0
+"Wichita Falls [Urban Area], TX, USA",1.0,1.0
+"Beverly Hills-Homosassa Springs-Pine Ridge [Urban Area], FL, USA",0.32724415635435083,1.0
+"Lafayette-Erie-Louisville [Urban Area], CO, USA",0.972866248639685,1.0
+"Portsmouth [Urban Area], NH-ME, USA",0.6873067620149332,1.0
+"Lawrence [Urban Area], KS, USA",1.0,1.0
+"Santa Fe [Urban Area], NM, USA",0.9636994514065004,1.0
+"Middletown [Urban Area], OH, USA",0.8504508161695582,1.0
+"Prescott-Prescott Valley [Urban Area], AZ, USA",1.0,1.0
+"Four Corners [Urban Area], FL, USA",0.4120091778864886,1.0
+"Lee's Summit [Urban Area], MO, USA",0.9999021313614616,1.0
+"St. Augustine [Urban Area], FL, USA",0.8364783300285447,1.0
+"Slidell [Urban Area], LA, USA",0.9945843842466726,1.0
+"Mayagüez [Urban Area], PR, USA",0.9991701516657021,1.0
+"Amherst Town-Northampton-Easthampton Town [Urban Area], MA, USA",0.5543557469360716,1.0
+"Williamsburg [Urban Area], VA, USA",0.9875425573477703,1.0
+"Florence [Urban Area], SC, USA",0.9249071962073439,1.0
+"Missoula [Urban Area], MT, USA",0.9844056793290129,1.0
+"Lawton [Urban Area], OK, USA",1.0,1.0
+"Vineland [Urban Area], NJ, USA",0.9295622864742163,1.0
+"Joplin [Urban Area], MO, USA",0.7605071585966613,1.0
+"Manteca [Urban Area], CA, USA",1.0,1.0
+"Decatur [Urban Area], IL, USA",0.9952484151726216,1.0
+"Albany [Urban Area], GA, USA",0.9805607259190321,1.0
+"Rapid City [Urban Area], SD, USA",0.9949345814026774,1.0
+"Castle Rock [Urban Area], CO, USA",0.9841124780316345,1.0
+"Napa [Urban Area], CA, USA",1.0,1.0
+"Muncie [Urban Area], IN, USA",0.9865492640610557,1.0
+"Jackson [Urban Area], MI, USA",0.9941760470660799,1.0
+"State College [Urban Area], PA, USA",0.9936180892511414,1.0
+"Winchester [Urban Area], VA, USA",0.8294493685308898,1.0
+"Springfield [Urban Area], OH, USA",1.0,1.0
+"Port Huron [Urban Area], MI, USA",0.9588451341424854,1.0
+"Madera [Urban Area], CA, USA",1.0,1.0
+"Newark [Urban Area], OH, USA",0.8738411533678884,1.0
+"Hattiesburg [Urban Area], MS, USA",0.9814157211615793,1.0
+"Terre Haute [Urban Area], IN, USA",0.9785504996118304,1.0
+"Flagstaff [Urban Area], AZ, USA",0.9703414243130182,1.0
+"Anderson [Urban Area], IN, USA",0.9785831960461285,1.0
+"Alton [Urban Area], IL, USA",0.8848599545798638,1.0
+"Cheyenne [Urban Area], WY, USA",1.0,1.0
+"Turlock [Urban Area], CA, USA",1.0,1.0
+"Florence [Urban Area], AL, USA",0.9673867595818816,1.0
+"Texarkana [Urban Area], TX-AR, USA",0.9866021538148938,1.0
+"Alexandria [Urban Area], LA, USA",0.9929761828746568,1.0
+"Anniston-Oxford [Urban Area], AL, USA",0.9288396209547649,1.0
+"Wenatchee [Urban Area], WA, USA",0.9192751657239385,1.0
+"Salisbury [Urban Area], MD-DE, USA",0.9990778097982709,1.0
+"Morgantown [Urban Area], WV, USA",0.9899510435454779,1.0
+"Wausau [Urban Area], WI, USA",0.9382143641271359,1.0
+"St. Joseph [Urban Area], MO-KS, USA",0.9743091453223989,1.0
+"Davis [Urban Area], CA, USA",1.0,1.0
+"Fairhope-Daphne [Urban Area], AL, USA",0.9812386891819757,1.0
+"Valdosta [Urban Area], GA, USA",0.9902304315544035,1.0
+"Elizabethtown-Radcliff [Urban Area], KY, USA",0.8923875930456169,1.0
+"Owensboro [Urban Area], KY, USA",0.9993458322975678,1.0
+"Camarillo [Urban Area], CA, USA",1.0,1.0
+"Oshkosh [Urban Area], WI, USA",1.0,1.0
+"Saratoga Springs [Urban Area], NY, USA",0.8401511548015432,1.0
+"Battle Creek [Urban Area], MI, USA",0.9989273370148186,1.0
+"Lebanon [Urban Area], PA, USA",0.9290720010598132,1.0
+"Altoona [Urban Area], PA, USA",0.9986966920162309,1.0
+"El Centro [Urban Area], CA, USA",1.0,1.0
+"Sheboygan [Urban Area], WI, USA",0.9885301671395339,1.0
+"Cleveland [Urban Area], TN, USA",0.982521172109635,1.0
+"Jonesboro [Urban Area], AR, USA",1.0,1.0
+"Mansfield [Urban Area], OH, USA",0.9789924535998369,1.0
+"Harrisonburg [Urban Area], VA, USA",0.9410850811562206,1.0
+"Lodi [Urban Area], CA, USA",0.9821863456013135,1.0
+"Jackson [Urban Area], TN, USA",0.9932425936354022,1.0
+"Hammond [Urban Area], LA, USA",0.9928990982544191,1.0
+"Dothan [Urban Area], AL, USA",0.9992267649779766,1.0
+"Blacksburg-Christiansburg [Urban Area], VA, USA",0.9988674033149171,1.0
+"Dover-Rochester [Urban Area], NH-ME, USA",0.9994750728681743,1.0
+"Janesville [Urban Area], WI, USA",0.9513453690253856,1.0
+"Pocatello [Urban Area], ID, USA",0.9993075847170099,1.0
+"Bluffton East-Hilton Head Island [Urban Area], SC, USA",0.49594842949431944,1.0
+"Kiryas Joel [Urban Area], NY, USA",0.03369562180436422,1.0
+"Fairbanks [Urban Area], AK, USA",0.798041907109642,1.0
+"Michigan City-La Porte [Urban Area], IN-MI, USA",0.9449325318424482,1.0
+"Glens Falls [Urban Area], NY, USA",0.953407031787726,1.0
+"San Marcos [Urban Area], TX, USA",1.0,1.0
+"Bristol [Urban Area], TN-VA, USA",0.9575016280189134,1.0
+"Tulare [Urban Area], CA, USA",1.0,1.0
+"Dubuque [Urban Area], IA-IL, USA",0.9992748677700051,1.0
+"Porterville [Urban Area], CA, USA",1.0,1.0
+"Longview [Urban Area], WA-OR, USA",0.9543248235277273,1.0
+"Sumter [Urban Area], SC, USA",0.8540646567381038,1.0
+"Brunswick-St. Simons [Urban Area], GA, USA",0.8570036363636364,1.0
+"Watsonville [Urban Area], CA, USA",1.0,1.0
+"Lima [Urban Area], OH, USA",0.9982514935159551,1.0
+"Fajardo [Urban Area], PR, USA",0.7868983918235234,1.0
+"Bay City [Urban Area], MI, USA",0.998875452739806,1.0
+"Grand Forks [Urban Area], ND-MN, USA",1.0,1.0
+"Dalton [Urban Area], GA, USA",0.9811587793011942,1.0
+"El Paso de Robles (Paso Robles)-Atascadero [Urban Area], CA, USA",0.9056692820482567,1.0
+"Casper [Urban Area], WY, USA",0.9643990494605246,1.0
+"Great Falls [Urban Area], MT, USA",1.0,1.0
+"Mount Vernon [Urban Area], WA, USA",1.0,1.0
+"Corvallis [Urban Area], OR, USA",0.9298857630519082,1.0
+"Sherman-Denison [Urban Area], TX, USA",1.0,1.0
+"Hanford [Urban Area], CA, USA",1.0,1.0
+"Conway [Urban Area], AR, USA",0.9916990648313544,1.0
+"Morristown [Urban Area], TN, USA",0.837493800628203,1.0
+"Kankakee [Urban Area], IL, USA",1.0,1.0
+"Ames [Urban Area], IA, USA",1.0,1.0
+"Victoria [Urban Area], TX, USA",0.9989240141848271,1.0
+"Petaluma [Urban Area], CA, USA",1.0,1.0
+"Barceloneta-Florida-Bajadero [Urban Area], PR, USA",0.6975872137697864,1.0
+"Juana Díaz [Urban Area], PR, USA",0.8068990972425142,1.0
+"Steubenville-Weirton [Urban Area], OH-WV-PA, USA",0.932934242316985,1.0
+"DeKalb [Urban Area], IL, USA",1.0,1.0
+"Yauco [Urban Area], PR, USA",0.759787117476716,1.0
+"Sebring-Avon Park [Urban Area], FL, USA",0.9386384820765598,1.0
+"Rocky Mount [Urban Area], NC, USA",0.9278006856565082,1.0
+"Beloit [Urban Area], WI-IL, USA",0.8525359504066716,1.0
+"Kokomo [Urban Area], IN, USA",1.0,1.0
+"Parkersburg [Urban Area], WV-OH, USA",0.952704,1.0
+"Elmira [Urban Area], NY, USA",0.9492220016648524,1.0
+"Titusville [Urban Area], FL, USA",0.9258873821226725,1.0
+"Lexington Park-California-Chesapeake Ranch Estates [Urban Area], MD, USA",0.14463048498845266,1.0
+"Albany [Urban Area], OR, USA",0.9955053645648742,1.0
+"Benton Harbor-Lincoln-St. Joseph [Urban Area], MI, USA",0.9032607290589452,1.0
+"Sandusky-Port Clinton [Urban Area], OH, USA",0.8093063181251315,1.0
+"Carson City [Urban Area], NV, USA",0.9939476545132974,1.0
+"Bangor [Urban Area], ME, USA",0.748062204455711,1.0
+"Johnstown [Urban Area], PA, USA",1.0,1.0
+"Middletown [Urban Area], NY, USA",1.0,1.0
+"Woodland [Urban Area], CA, USA",1.0,1.0
+"Columbus [Urban Area], IN, USA",0.9013479387360205,1.0
+"Lewiston [Urban Area], ME, USA",0.8893864313583458,1.0
+"Decatur [Urban Area], AL, USA",1.0,1.0
+"Manhattan [Urban Area], KS, USA",1.0,1.0
+"Rome [Urban Area], GA, USA",0.9832624207406917,1.0
+"Spring Hill [Urban Area], TN, USA",0.0,1.0
+"Mankato [Urban Area], MN, USA",1.0,1.0
+"Hot Springs [Urban Area], AR, USA",0.9703549625420662,1.0
+"Ithaca [Urban Area], NY, USA",1.0,1.0
+"Bozeman [Urban Area], MT, USA",1.0,1.0
+"Staunton-Waynesboro [Urban Area], VA, USA",0.913366629983916,1.0
+"Lake Havasu City [Urban Area], AZ, USA",0.999745835945575,1.0
+"Twin Falls [Urban Area], ID, USA",0.9353999455856347,1.0
+"Gadsden [Urban Area], AL, USA",0.8873652436394998,1.0
+"Kahului-Wailuku [Urban Area], HI, USA",1.0,1.0
+"Maricopa [Urban Area], AZ, USA",0.0,1.0
+"Wheeling [Urban Area], WV-OH, USA",0.892001039951469,1.0
+"Beckley [Urban Area], WV, USA",0.938122085334447,1.0
+"Monroe [Urban Area], MI, USA",0.8923856095005239,1.0
+"San Luis Obispo [Urban Area], CA, USA",1.0,1.0
+"Traverse City-Garfield [Urban Area], MI, USA",0.7625944805765512,1.0
+"Hanover [Urban Area], PA, USA",0.9986069967555368,1.0
+"Lake Jackson [Urban Area], TX, USA",0.8459164377207693,1.0
+"Grants Pass [Urban Area], OR, USA",0.8696611872801665,1.0
+"Cape Girardeau [Urban Area], MO-IL, USA",0.7695243581896086,1.0
+"Williamsport [Urban Area], PA, USA",0.9922846198323215,1.0
+"Zephyrhills [Urban Area], FL, USA",1.0,1.0
+"Grand Island [Urban Area], NE, USA",0.9892920016697218,1.0
+"Lewiston [Urban Area], ID-WA, USA",1.0,1.0
+"Fond du Lac [Urban Area], WI, USA",1.0,1.0
+"Goldsboro [Urban Area], NC, USA",0.8293851917144116,1.0
+"Bullhead City [Urban Area], AZ-NV, USA",1.0,1.0
+"Lompoc [Urban Area], CA, USA",1.0,1.0
+"Sierra Vista [Urban Area], AZ, USA",0.955577256144747,1.0
+"Eagle Pass [Urban Area], TX, USA",0.9740214115341235,1.0
+"Wasilla-Knik-Fairview-North Lakes [Urban Area], AK, USA",0.5903936831075518,1.0
+"Los Lunas [Urban Area], NM, USA",0.0,1.0
+"Poinciana [Urban Area], FL, USA",1.0,1.0
+"Hinesville [Urban Area], GA, USA",0.979174120172482,1.0
+"Beaufort-Port Royal [Urban Area], SC, USA",0.9219270684566314,1.0
+"Helena [Urban Area], MT, USA",0.9343260786559756,1.0
+"Cartersville [Urban Area], GA, USA",0.9748046837691735,1.0
+"Midland [Urban Area], MI, USA",0.8880588460068781,1.0
+"Guayama [Urban Area], PR, USA",0.9781028877414419,1.0
+"Clayton [Urban Area], NC, USA",0.3044818682800879,1.0
+"Valparaiso-Shorewood Forest [Urban Area], IN, USA",1.0,1.0
+"Watertown [Urban Area], NY, USA",0.6036618305294027,1.0
+"Farmington [Urban Area], NM, USA",0.8788323706122133,1.0
+"Pascagoula-Gautier [Urban Area], MS, USA",0.6951451782174369,1.0
+"Riverhead-Southold [Urban Area], NY, USA",0.8467527386541471,1.0
+"Casa Grande [Urban Area], AZ, USA",1.0,1.0
+"Minot [Urban Area], ND, USA",0.975139911634757,1.0
+"Arroyo Grande-Grover Beach-Pismo Beach [Urban Area], CA, USA",0.9595951655694213,1.0
+"Hazleton [Urban Area], PA, USA",0.9849587101848211,1.0
+"Paducah [Urban Area], KY-IL, USA",0.9059862687624182,1.0
+"Fernandina Beach-Yulee [Urban Area], FL, USA",0.6299576813305777,1.0
+"Jefferson City [Urban Area], MO, USA",0.9820384047267356,1.0
+"Pittsfield [Urban Area], MA, USA",0.9736593059936909,1.0
+"Pinehurst-Southern Pines [Urban Area], NC, USA",0.9310995846499335,1.0
+"Kingston [Urban Area], NY, USA",0.7996378397739483,1.0
+"Enid [Urban Area], OK, USA",1.0,1.0
+"Winder [Urban Area], GA, USA",0.6852497559226125,1.0
+"Chambersburg [Urban Area], PA, USA",0.9831516748512796,1.0
+"Walla Walla [Urban Area], WA-OR, USA",1.0,1.0
+"Monessen [Urban Area], PA, USA",0.8444818061726912,1.0
+"Reedley-Dinuba [Urban Area], CA, USA",0.8808602410609908,1.0
+"Hollister [Urban Area], CA, USA",1.0,1.0
+"Cookeville [Urban Area], TN, USA",0.9735174886430769,1.0
+"Roswell [Urban Area], NM, USA",1.0,1.0
+"Laplace-Lutcher-Gramercy [Urban Area], LA, USA",1.0,1.0
+"Wilson [Urban Area], NC, USA",1.0,1.0
+"Stillwater [Urban Area], OK, USA",1.0,1.0
+"Findlay [Urban Area], OH, USA",0.9992314722499169,1.0
+"Weatherford [Urban Area], TX, USA",0.7083679747256402,1.0
+"New Bern [Urban Area], NC, USA",0.9712011336167375,1.0
+"East Stroudsburg-Stroudsburg [Urban Area], PA, USA",1.0,1.0
+"Leavenworth [Urban Area], KS, USA",1.0,1.0
+"Rio Grande City-Roma [Urban Area], TX, USA",0.5496919481623115,1.0
+"Kingman [Urban Area], AZ, USA",1.0,1.0
+"Crestview [Urban Area], FL, USA",0.956766917293233,1.0
+"New Philadelphia-Dover [Urban Area], OH, USA",0.9431546092012998,1.0
+"Danville [Urban Area], VA-NC, USA",0.962341751815436,1.0
+"Pine Bluff [Urban Area], AR, USA",0.9829916672021936,1.0
+"Manitowoc [Urban Area], WI, USA",1.0,1.0
+"Salina [Urban Area], KS, USA",1.0,1.0
+"Cumberland [Urban Area], MD-WV-PA, USA",0.7288750648004148,1.0
+"Medina [Urban Area], OH, USA",1.0,1.0
+"Eureka [Urban Area], CA, USA",1.0,1.0
+"Desert Hot Springs [Urban Area], CA, USA",0.029868682675290057,1.0
+"Los Banos [Urban Area], CA, USA",1.0,1.0
+"Statesboro [Urban Area], GA, USA",1.0,1.0
+"Jamestown [Urban Area], NY, USA",0.9235323248694399,1.0
+"Delano [Urban Area], CA, USA",1.0,1.0
+"Morehead City-Emerald Isle-Atlantic Beach [Urban Area], NC, USA",0.5231376975169301,1.0
+"Stevens Point [Urban Area], WI, USA",0.9978952133076836,1.0
+"Hobbs [Urban Area], NM, USA",0.9777838168353828,1.0
+"Grafton-Port Washington-Cedarburg [Urban Area], WI, USA",0.9542258313296739,1.0
+"Cleburne [Urban Area], TX, USA",0.6686863624974374,1.0
+"Lancaster [Urban Area], OH, USA",1.0,1.0
+"Roseburg [Urban Area], OR, USA",0.8542452396283691,1.0
+"Quincy [Urban Area], IL, USA",1.0,1.0
+"Huntsville [Urban Area], TX, USA",1.0,1.0
+"Troy [Urban Area], OH, USA",0.6986754201437851,1.0
+"Klamath Falls-Altamont [Urban Area], OR, USA",0.9688946491390483,1.0
+"Richmond [Urban Area], IN-OH, USA",1.0,1.0
+"Richmond [Urban Area], KY, USA",0.930951882601921,1.0
+"Marion [Urban Area], OH, USA",1.0,1.0
+"Del Rio [Urban Area], TX, USA",0.9758434864104967,1.0
+"Concord [Urban Area], NH, USA",0.9690474511739406,1.0
+"Suffolk [Urban Area], VA, USA",1.0,1.0
+"Hutchinson [Urban Area], KS, USA",1.0,1.0
+"Columbia [Urban Area], TN, USA",0.908469462319968,1.0
+"Centralia [Urban Area], WA, USA",0.7231328829892768,1.0
+"Zanesville [Urban Area], OH, USA",0.9946809768090589,1.0
+"Sharon-Hermitage [Urban Area], PA-OH, USA",1.0,1.0
+"Greenwood [Urban Area], SC, USA",0.9992618696128387,1.0
+"Middletown [Urban Area], DE, USA",0.9930467611287663,1.0
+"McMinnville [Urban Area], OR, USA",1.0,1.0
+"Lufkin [Urban Area], TX, USA",1.0,1.0
+"Hilo [Urban Area], HI, USA",0.9969089591886018,1.0
+"Rexburg [Urban Area], ID, USA",1.0,1.0
+"Fallbrook [Urban Area], CA, USA",0.9476334584190776,1.0
+"Forney [Urban Area], TX, USA",0.09058182525783226,1.0
+"Marion [Urban Area], IN, USA",1.0,1.0
+"Foley-Gulf Shores [Urban Area], AL, USA",0.5738025415444771,1.0
+"Cedar City [Urban Area], UT, USA",1.0,1.0
+"Orange [Urban Area], TX, USA",0.8012060005882929,1.0
+"Bluefield [Urban Area], WV-VA, USA",1.0,1.0
+"Junction City [Urban Area], KS, USA",1.0,1.0
+"New Castle [Urban Area], PA, USA",1.0,1.0
+"Tupelo [Urban Area], MS, USA",0.9941838789053762,1.0
+"Oroville [Urban Area], CA, USA",1.0,1.0
+"Danville [Urban Area], IL, USA",0.9638148037159125,1.0
+"Westminster [Urban Area], MD, USA",0.9722777222777222,1.0
+"Statesville [Urban Area], NC, USA",0.9850611363579301,1.0
+"Lewes-Rehoboth Beach [Urban Area], DE, USA",0.9445830498223331,1.0
+"Bartlesville [Urban Area], OK, USA",1.0,1.0
+"Marion-Herrin [Urban Area], IL, USA",1.0,1.0
+"Clovis [Urban Area], NM, USA",1.0,1.0
+"Bloomsburg-Berwick [Urban Area], PA, USA",1.0,1.0
+"Georgetown [Urban Area], KY, USA",1.0,1.0
+"Moses Lake [Urban Area], WA, USA",1.0,1.0
+"Kingsland-St. Marys [Urban Area], GA, USA",0.9978219721523582,1.0
+"Calexico [Urban Area], CA, USA",0.0,1.0
+"Albertville [Urban Area], AL, USA",0.801330699656929,1.0
+"Carrollton [Urban Area], GA, USA",0.9787937996613261,1.0
+"Griffin [Urban Area], GA, USA",1.0,1.0
+"Fenton [Urban Area], MI, USA",0.15109026103365134,1.0
+"Butler [Urban Area], PA, USA",1.0,1.0
+"Ocean Pines-Ocean City [Urban Area], MD-DE, USA",0.6271016707953407,1.0
+"New Iberia [Urban Area], LA, USA",1.0,1.0
+"Frankfort [Urban Area], KY, USA",0.9049254835641053,1.0
+"Asheboro [Urban Area], NC, USA",0.8684540148708791,1.0
+"Pahrump [Urban Area], NV, USA",0.7768147634540509,1.0
+"Oak Harbor [Urban Area], WA, USA",1.0,1.0
+"Green Valley [Urban Area], AZ, USA",0.6612086292375721,1.0
+"London-Corbin [Urban Area], KY, USA",0.9704837090692059,1.0
+"Grass Valley [Urban Area], CA, USA",0.8945261437908497,1.0
+"Lebanon [Urban Area], TN, USA",0.9992365995964884,1.0
+"Sanford [Urban Area], NC, USA",0.9661308370404738,1.0
+"Kalispell [Urban Area], MT, USA",1.0,1.0
+"Lockport [Urban Area], NY, USA",0.9949107291840481,1.0
+"Muskogee [Urban Area], OK, USA",1.0,1.0
+"Bridgeton [Urban Area], NJ, USA",1.0,1.0
+"Firestone-Frederick [Urban Area], CO, USA",0.025700341354698564,1.0
+"LaGrange [Urban Area], GA, USA",1.0,1.0
+"Portsmouth [Urban Area], OH-KY, USA",0.7506365642505517,1.0
+"Torrington [Urban Area], CT, USA",0.9690730432806998,1.0
+"Tooele [Urban Area], UT, USA",1.0,1.0
+"Putnam-Killingly [Urban Area], CT, USA",0.4109074084783992,1.0
+"West Bend [Urban Area], WI, USA",0.9429266033804121,1.0
+"Kearney [Urban Area], NE, USA",1.0,1.0
+"Melissa-Anna [Urban Area], TX, USA",0.008025263645845404,1.0
+"Carlsbad [Urban Area], NM, USA",0.9918123221647988,1.0
+"Gillette [Urban Area], WY, USA",1.0,1.0
+"Shawnee [Urban Area], OK, USA",1.0,1.0
+"Sevierville [Urban Area], TN, USA",0.8776151857075694,1.0
+"Galesburg [Urban Area], IL, USA",0.9958637397701421,1.0
+"Meridian [Urban Area], MS, USA",1.0,1.0
+"Nacogdoches [Urban Area], TX, USA",1.0,1.0
+"Oxford [Urban Area], MS, USA",1.0,1.0
+"Redmond [Urban Area], OR, USA",1.0,1.0
+"Kailua (Hawaii County) [Urban Area], HI, USA",0.11576429263565892,1.0
+"Clarksburg [Urban Area], WV, USA",1.0,1.0
+"Starkville [Urban Area], MS, USA",1.0,1.0
+"Farmington [Urban Area], MO, USA",1.0,1.0
+"Pullman [Urban Area], WA, USA",1.0,1.0
+"Uniontown [Urban Area], PA, USA",0.9966523341523341,1.0
+"Selma [Urban Area], CA, USA",0.9060406808824433,1.0
+"Wooster [Urban Area], OH, USA",1.0,1.0
+"Laramie [Urban Area], WY, USA",1.0,1.0
+"Key West [Urban Area], FL, USA",1.0,1.0
+"Russellville [Urban Area], AR, USA",0.9967681204894886,1.0
+"Kerrville [Urban Area], TX, USA",0.9761650546413767,1.0
+"Chillicothe [Urban Area], OH, USA",1.0,1.0
+"Hopkinsville [Urban Area], KY, USA",1.0,1.0
+"Fairmont [Urban Area], WV, USA",1.0,1.0
+"Coos Bay [Urban Area], OR, USA",1.0,1.0
+"Fort Leonard Wood-St. Robert-Waynesville [Urban Area], MO, USA",0.8097688810305633,1.0
+"Carbondale [Urban Area], IL, USA",1.0,1.0
+"Sonoma [Urban Area], CA, USA",1.0,1.0
+"Stillwater [Urban Area], MN-WI, USA",1.0,1.0
+"Nicholasville [Urban Area], KY, USA",0.04695552586371445,1.0
+"Auburn [Urban Area], NY, USA",0.9920147615563262,1.0
+"Auburn [Urban Area], CA, USA",1.0,1.0
+"South Lake Tahoe [Urban Area], CA-NV, USA",0.9718458055670695,1.0
+"Brunswick [Urban Area], ME, USA",1.0,1.0
+"Martinsville [Urban Area], VA, USA",0.9166053784414671,1.0
+"Enterprise [Urban Area], AL, USA",1.0,1.0
+"Payson-Santaquin [Urban Area], UT, USA",0.9136579725041758,1.0
+"Clinton-Fulton [Urban Area], IA-IL, USA",1.0,1.0
+"Bluffton West [Urban Area], SC, USA",0.5084576794443015,1.0
+"Bowling Green [Urban Area], OH, USA",1.0,1.0
+"Garden City [Urban Area], KS, USA",1.0,1.0
+"Westerly [Urban Area], RI-CT, USA",0.9844936197706348,1.0
+"Alliance [Urban Area], OH, USA",1.0,1.0
+"Midlothian [Urban Area], TX, USA",0.15646434580044002,1.0
+"Newberg [Urban Area], OR, USA",1.0,1.0
+"Somerset [Urban Area], KY, USA",0.9076284379865075,1.0
+"Alamogordo [Urban Area], NM, USA",0.9970780169475018,1.0
+"Connellsville [Urban Area], PA, USA",1.0,1.0
+"Mount Pleasant [Urban Area], MI, USA",1.0,1.0
+"Santa Paula [Urban Area], CA, USA",1.0,1.0
+"Camden-Lugoff [Urban Area], SC, USA",0.5620290327842113,1.0
+"Barstow [Urban Area], CA, USA",1.0,1.0
+"Eldersburg [Urban Area], MD, USA",1.0,1.0
+"Coamo [Urban Area], PR, USA",0.014533350909570262,1.0
+"Lebanon [Urban Area], NH-VT, USA",0.939106901217862,1.0
+"Butte-Silver Bow [Urban Area], MT, USA",1.0,1.0
+"Morgan City [Urban Area], LA, USA",0.7351832252943511,1.0
+"Warsaw [Urban Area], IN, USA",1.0,1.0
+"Peru-LaSalle [Urban Area], IL, USA",1.0,1.0
+"Granbury [Urban Area], TX, USA",0.8827846226351579,1.0
+"Winona [Urban Area], MN, USA",0.9694597239564,1.0
+"Pottsville [Urban Area], PA, USA",1.0,1.0
+"Geneva [Urban Area], NY, USA",0.584607060733126,1.0
+"Anchorage Northeast [Urban Area], AK, USA",0.0,1.0
+"Wisconsin Rapids [Urban Area], WI, USA",0.9804060913705583,1.0
+"Williston [Urban Area], ND, USA",0.998407319552694,1.0
+"Lake Conroe Westshore [Urban Area], TX, USA",0.02844280744833231,1.0
+"Ridgecrest [Urban Area], CA, USA",1.0,1.0
+"Greenville [Urban Area], MS, USA",1.0,1.0
+"Rome [Urban Area], NY, USA",1.0,1.0
+"Adrian [Urban Area], MI, USA",1.0,1.0
+"Seaford-Laurel-Bridgeville [Urban Area], DE, USA",0.8388856486087762,1.0
+"Cottonwood (Yavapai County)-Verde Village [Urban Area], AZ, USA",1.0,1.0
+"Orangeburg [Urban Area], SC, USA",0.9894056136488718,1.0
+"Sonora-Twain Harte [Urban Area], CA, USA",0.780064109192431,1.0
+"Seguin [Urban Area], TX, USA",0.9725843161597352,1.0
+"Ukiah [Urban Area], CA, USA",0.9281057025563183,1.0
+"Plattsburgh [Urban Area], NY, USA",0.9979625664755853,1.0
+"Big Spring [Urban Area], TX, USA",0.9434294595061302,1.0
+"Hermiston [Urban Area], OR, USA",1.0,1.0
+"Ruston [Urban Area], LA, USA",1.0,1.0
+"Branson [Urban Area], MO, USA",0.9852653631284917,1.0
+"Lares [Urban Area], PR, USA",0.012406080726891491,1.0
+"Milton [Urban Area], PA, USA",0.8430618664802516,1.0
+"Shamokin-Mount Carmel [Urban Area], PA, USA",0.7591792277151189,1.0
+"Burlington [Urban Area], IA-IL, USA",1.0,1.0
+"Henderson [Urban Area], KY, USA",1.0,1.0
+"Fremont [Urban Area], NE, USA",1.0,1.0
+"Hamburg-Vernon-Highland Lakes [Urban Area], NJ, USA",0.6476106194690265,1.0
+"Sunbury [Urban Area], PA, USA",0.835250805338242,1.0
+"Aberdeen [Urban Area], SD, USA",1.0,1.0
+"Ontario-Payette [Urban Area], OR-ID, USA",1.0,1.0
+"Dodge City [Urban Area], KS, USA",1.0,1.0
+"Indiana-White [Urban Area], PA, USA",1.0,1.0
+"Sterling [Urban Area], IL, USA",1.0,1.0
+"Woodburn [Urban Area], OR, USA",0.0,1.0
+"Ashtabula [Urban Area], OH, USA",1.0,1.0
+"Norfolk [Urban Area], NE, USA",1.0,1.0
+"Marshalltown [Urban Area], IA, USA",1.0,1.0
+"Athens [Urban Area], OH, USA",1.0,1.0
+"Sanger [Urban Area], CA, USA",0.0,1.0
+"Laconia [Urban Area], NH, USA",0.9406608721164778,1.0
+"Browns Mills [Urban Area], NJ, USA",1.0,1.0
+"Greenville [Urban Area], TX, USA",1.0,1.0
+"Lemoore [Urban Area], CA, USA",0.6615350372815966,1.0
+"Columbus [Urban Area], MS, USA",0.9930098531325525,1.0
+"Kihei [Urban Area], HI, USA",0.35895527941067046,1.0
+"Okeechobee-Taylor Creek [Urban Area], FL, USA",0.8655043119610049,1.0
+"Searcy [Urban Area], AR, USA",1.0,1.0
+"Galt [Urban Area], CA, USA",0.0,1.0
+"Xenia [Urban Area], OH, USA",1.0,1.0
+"Aberdeen [Urban Area], WA, USA",1.0,1.0
+"Boone [Urban Area], NC, USA",1.0,1.0
+"Paris [Urban Area], TX, USA",1.0,1.0
+"Gloversville [Urban Area], NY, USA",0.9947881001293464,1.0
+"Owatonna [Urban Area], MN, USA",1.0,1.0
+"Brawley [Urban Area], CA, USA",1.0,1.0
+"Canton [Urban Area], MS, USA",1.0,1.0
+"Winchester [Urban Area], KY, USA",1.0,1.0
+"Sedalia [Urban Area], MO, USA",1.0,1.0
+"Shelby [Urban Area], NC, USA",1.0,1.0
+"Mason City [Urban Area], IA, USA",1.0,1.0
+"Moscow [Urban Area], ID, USA",1.0,1.0
+"Natchez [Urban Area], MS-LA, USA",1.0,1.0
+"Vicksburg [Urban Area], MS-LA, USA",0.9688272558714462,1.0
+"Rock Springs [Urban Area], WY, USA",1.0,1.0
+"Brigham City [Urban Area], UT, USA",0.9847833662446277,1.0
+"Ridgefield [Urban Area], CT, USA",0.3829381302807304,1.0
+"Marysville [Urban Area], OH, USA",1.0,1.0
+"Dickinson [Urban Area], ND, USA",1.0,1.0
+"Waterville [Urban Area], ME, USA",1.0,1.0
+"Austin [Urban Area], MN, USA",1.0,1.0
+"North Adams [Urban Area], MA, USA",0.9194715319282794,1.0
+"Claremore [Urban Area], OK, USA",0.9527444422585087,1.0
+"Pueblo West [Urban Area], CO, USA",0.38366190532404676,1.0
+"Oakdale [Urban Area], CA, USA",1.0,1.0
+"Lake City [Urban Area], FL, USA",1.0,1.0
+"Woodstock [Urban Area], IL, USA",1.0,1.0
+"Thomasville [Urban Area], GA, USA",1.0,1.0
+"Laurel [Urban Area], MS, USA",0.8619499226221182,1.0
+"Muscatine [Urban Area], IA, USA",0.974228444161629,1.0
+"Scottsbluff [Urban Area], NE, USA",1.0,1.0
+"Allendale [Urban Area], MI, USA",0.0,1.0
+"Paragould [Urban Area], AR, USA",1.0,1.0
+"Heber [Urban Area], UT, USA",1.0,1.0
+"Ottumwa [Urban Area], IA, USA",1.0,1.0
+"Ponca City [Urban Area], OK, USA",1.0,1.0
+"Waycross [Urban Area], GA, USA",1.0,1.0
+"Kingsville [Urban Area], TX, USA",1.0,1.0
+"Coolbaugh-Pocono Pines [Urban Area], PA, USA",0.0,1.0
+"Cortland [Urban Area], NY, USA",1.0,1.0
+"Sequim [Urban Area], WA, USA",0.941521879021879,1.0
+"Columbus [Urban Area], NE, USA",1.0,1.0
+"Hastings [Urban Area], NE, USA",1.0,1.0
+"San Luis [Urban Area], AZ, USA",0.0,1.0
+"Juneau [Urban Area], AK, USA",0.8831394409436096,1.0
+"Cañon City [Urban Area], CO, USA",1.0,1.0
+"Fort Dodge [Urban Area], IA, USA",1.0,1.0
+"Marquette [Urban Area], MI, USA",0.9986629932744511,1.0
+"Monroe [Urban Area], WA, USA",1.0,1.0
+"Tifton [Urban Area], GA, USA",1.0,1.0
+"La Grange [Urban Area], KY, USA",1.0,1.0
+"Montrose [Urban Area], CO, USA",1.0,1.0
+"Gallup [Urban Area], NM, USA",0.9520206151832461,1.0
+"Port Angeles [Urban Area], WA, USA",0.0,1.0
+"Warrenton-New Baltimore [Urban Area], VA, USA",0.9799484388427385,1.0
+"Oswego [Urban Area], NY, USA",1.0,1.0
+"Flemington-Raritan [Urban Area], NJ, USA",0.9804106389082414,1.0
+"Corsicana [Urban Area], TX, USA",1.0,1.0
+"Willimantic [Urban Area], CT, USA",1.0,1.0
+"Waynesville [Urban Area], NC, USA",0.8449248507309038,1.0
+"Seymour [Urban Area], IN, USA",1.0,1.0
+"Freeport [Urban Area], IL, USA",1.0,1.0
+"Burlington [Urban Area], WI, USA",1.0,1.0
+"Emporia [Urban Area], KS, USA",1.0,1.0
+"Faribault [Urban Area], MN, USA",1.0,1.0
+"Augusta [Urban Area], ME, USA",0.9956259112684858,1.0
+"Española [Urban Area], NM, USA",0.8074046216204922,1.0
+"Buckeye [Urban Area], AZ, USA",0.0,1.0
+"Kill Devil Hills-Nags Head [Urban Area], NC, USA",0.2621273741142929,1.0
+"Rockingham [Urban Area], NC, USA",1.0,1.0
+"Hartford [Urban Area], WI, USA",1.0,1.0
+"Hudson [Urban Area], WI-MN, USA",1.0,1.0
+"Brookings [Urban Area], SD, USA",1.0,1.0
+"Patterson [Urban Area], CA, USA",0.0,1.0
+"Asbury Lake-Middleburg [Urban Area], FL, USA",0.8020635121992473,1.0
+"North Platte [Urban Area], NE, USA",1.0,1.0
+"Kuna [Urban Area], ID, USA",0.3154254190536813,1.0
+"Marinette-Menominee [Urban Area], WI-MI, USA",0.8906628168655258,1.0
+"Opelousas [Urban Area], LA, USA",1.0,1.0
+"Immokalee [Urban Area], FL, USA",0.0,1.0
+"Dunkirk-Fredonia [Urban Area], NY, USA",1.0,1.0
+"Roanoke Rapids [Urban Area], NC, USA",1.0,1.0
+"Hampstead [Urban Area], NC, USA",0.0,1.0
+"Pukalani-Haiku-Pauwela-Makawao [Urban Area], HI, USA",0.0,1.0
+"Placerville-Diamond Springs [Urban Area], CA, USA",1.0,1.0
+"Oxford [Urban Area], OH, USA",1.0,1.0
+"Athens [Urban Area], AL, USA",1.0,1.0
+"Villa Rica [Urban Area], GA, USA",1.0,1.0
+"Shelbyville [Urban Area], KY, USA",1.0,1.0
+"Pittsburg [Urban Area], KS, USA",0.9944636678200692,1.0
+"Seneca [Urban Area], SC, USA",0.8982904133304479,1.0
+"Mystic Island-Little Egg Harbor [Urban Area], NJ, USA",0.038138164167461214,1.0
+"Calhoun [Urban Area], GA, USA",1.0,1.0
+"Belle Glade [Urban Area], FL, USA",1.0,1.0
+"Greeneville [Urban Area], TN, USA",1.0,1.0
+"Elizabeth City [Urban Area], NC, USA",1.0,1.0
+"Watertown [Urban Area], WI, USA",1.0,1.0
+"Lancaster [Urban Area], SC, USA",1.0,1.0
+"Keene [Urban Area], NH, USA",1.0,1.0
+"Northfield [Urban Area], MN, USA",1.0,1.0
+"Lincolnton [Urban Area], NC, USA",1.0,1.0
+"Plainview [Urban Area], TX, USA",1.0,1.0
+"Culpeper [Urban Area], VA, USA",1.0,1.0
+"Shelbyville [Urban Area], TN, USA",1.0,1.0
+"Milledgeville [Urban Area], GA, USA",1.0,1.0
+"Corcoran [Urban Area], CA, USA",1.0,1.0
+"Harriman-Kingston-Rockwood [Urban Area], TN, USA",0.7854394129228567,1.0
+"Owosso [Urban Area], MI, USA",1.0,1.0
+"Lebanon [Urban Area], OR, USA",1.0,1.0
+"Greenfield [Urban Area], MA, USA",0.9942136897820041,1.0
+"Crestline-Lake Arrowhead [Urban Area], CA, USA",0.7004310344827587,1.0
+"Ilion-Herkimer [Urban Area], NY, USA",0.03143665513989312,1.0
+"Waynesboro [Urban Area], PA-MD, USA",1.0,1.0
+"Lumberton [Urban Area], NC, USA",1.0,1.0
+"Wasco [Urban Area], CA, USA",0.0,1.0
+"Fremont [Urban Area], OH, USA",1.0,1.0
+"Smithfield [Urban Area], NC, USA",0.9139637790246795,1.0
+"Forest Lake [Urban Area], MN, USA",0.9769216707796362,1.0
+"Hays [Urban Area], KS, USA",1.0,1.0
+"Aransas Pass-Port Aransas-Ingleside [Urban Area], TX, USA",0.8384854582037681,1.0
+"East Hampton North-Springs-Northwest Harbor [Urban Area], NY, USA",0.007472950669356318,1.0
+"Amsterdam [Urban Area], NY, USA",1.0,1.0
+"Marietta [Urban Area], OH-WV, USA",1.0,1.0
+"Elko [Urban Area], NV, USA",1.0,1.0
+"Half Moon Bay [Urban Area], CA, USA",0.7950018443378827,1.0
+"Key Largo [Urban Area], FL, USA",0.43177940701802925,1.0
+"Hastings [Urban Area], MN, USA",1.0,1.0
+"Willmar [Urban Area], MN, USA",1.0,1.0
+"Ranson-Charles Town [Urban Area], WV, USA",1.0,1.0
+"Brownwood [Urban Area], TX, USA",0.9659122530377516,1.0
+"Ellensburg [Urban Area], WA, USA",1.0,1.0
+"Mount Washington [Urban Area], KY, USA",0.0,1.0
+"Ardmore [Urban Area], OK, USA",1.0,1.0
+"Lahaina-Napili-Honokowai [Urban Area], HI, USA",0.0,1.0
+"Marshall [Urban Area], TX, USA",1.0,1.0
+"Falcon [Urban Area], CO, USA",0.37600712010492787,1.0
+"Gardnerville [Urban Area], NV, USA",1.0,1.0
+"Madisonville [Urban Area], KY, USA",1.0,1.0
+"Shelbyville [Urban Area], IN, USA",1.0,1.0
+"Selma [Urban Area], AL, USA",0.9628896119205923,1.0
+"Cullman [Urban Area], AL, USA",1.0,1.0
+"Escanaba [Urban Area], MI, USA",0.7308001323313956,1.0
+"Olean [Urban Area], NY, USA",0.986568293605751,1.0
+"East Liverpool [Urban Area], OH-WV-PA, USA",1.0,1.0
+"Kinston [Urban Area], NC, USA",1.0,1.0
+"Jacksonville [Urban Area], IL, USA",1.0,1.0
+"Lewistown [Urban Area], PA, USA",0.9201866755559789,1.0
+"Monmouth-Independence [Urban Area], OR, USA",0.2616679418515685,1.0
+"Piqua [Urban Area], OH, USA",0.981665868836764,1.0
+"Stephenville [Urban Area], TX, USA",1.0,1.0
+"Dublin [Urban Area], GA, USA",1.0,1.0
+"Southbridge Town [Urban Area], MA, USA",0.998605031507047,1.0
+"Forest City-Spindale [Urban Area], NC, USA",0.7464354527938343,1.0
+"Sidney [Urban Area], OH, USA",1.0,1.0
+"Brainerd [Urban Area], MN, USA",1.0,1.0
+"Meadville [Urban Area], PA, USA",0.9939957389114855,1.0
+"Watertown [Urban Area], SD, USA",1.0,1.0
+"Rolla [Urban Area], MO, USA",1.0,1.0
+"Swansboro-Cedar Point [Urban Area], NC, USA",0.0,1.0
+"Valley-Lanett [Urban Area], AL-GA, USA",1.0,1.0
+"Poplar Bluff [Urban Area], MO, USA",1.0,1.0
+"Newton [Urban Area], KS, USA",1.0,1.0
+"Logansport [Urban Area], IN, USA",1.0,1.0
+"Duncan [Urban Area], OK, USA",1.0,1.0
+"Auburn [Urban Area], IN, USA",0.9923326452373931,1.0
+"Dade City [Urban Area], FL, USA",0.9927600472813238,1.0
+"Nipomo [Urban Area], CA, USA",0.2351376643845737,1.0
+"Tiffin [Urban Area], OH, USA",1.0,1.0
+"Aibonito [Urban Area], PR, USA",1.0,1.0
+"Long Neck [Urban Area], DE, USA",0.006197630026277951,1.0
+"Huntsville Southeast [Urban Area], AL, USA",0.48093230845524426,1.0
+"Ottawa [Urban Area], IL, USA",1.0,1.0
+"La Follette [Urban Area], TN, USA",0.7595207318285772,1.0
+"Greendale-Lawrenceburg-Hidden Valley [Urban Area], IN-OH, USA",0.9739632598197839,1.0
+"Galliano-Larose-Cut Off [Urban Area], LA, USA",0.6831372157957718,1.0
+"Palatka [Urban Area], FL, USA",0.9693989616613419,1.0
+"Barre-Montpelier [Urban Area], VT, USA",0.9731687818527031,1.0
+"Crossville [Urban Area], TN, USA",0.9686701087773824,1.0
+"Warrensburg [Urban Area], MO, USA",1.0,1.0
+"Henderson [Urban Area], NC, USA",1.0,1.0
+"Wilkesboro-North Wilkesboro [Urban Area], NC, USA",0.9973353443941679,1.0
+"Angleton [Urban Area], TX, USA",1.0,1.0
+"Liberal [Urban Area], KS, USA",1.0,1.0
+"Red Bluff [Urban Area], CA, USA",1.0,1.0
+"Danville [Urban Area], KY, USA",1.0,1.0
+"Vincennes [Urban Area], IN, USA",1.0,1.0
+"Johnstown [Urban Area], CO, USA",0.45663278207656904,1.0
+"Ennis [Urban Area], TX, USA",1.0,1.0
+"Arcata [Urban Area], CA, USA",1.0,1.0
+"World Golf Village [Urban Area], FL, USA",0.0,1.0
+"Vernal [Urban Area], UT, USA",1.0,1.0
+"Peoria [Urban Area], AZ, USA",0.36849895370795693,1.0
+"Rutland [Urban Area], VT, USA",1.0,1.0
+"McAlester [Urban Area], OK, USA",1.0,1.0
+"Corning [Urban Area], NY, USA",1.0,1.0
+"Radford [Urban Area], VA, USA",0.9960555299421137,1.0
+"Cornelia-Baldwin [Urban Area], GA, USA",0.73328544307045,1.0
+"Greenwood [Urban Area], MS, USA",1.0,1.0
+"Marshfield [Urban Area], WI, USA",1.0,1.0
+"Incline Village [Urban Area], NV-CA, USA",0.7121032868679594,1.0
+"Sheridan [Urban Area], WY, USA",1.0,1.0
+"Alice [Urban Area], TX, USA",1.0,1.0
+"Arvin [Urban Area], CA, USA",0.0,1.0
+"Bastrop [Urban Area], TX, USA",0.0,1.0
+"Hurricane [Urban Area], UT, USA",0.0,1.0
+"Durant [Urban Area], OK, USA",1.0,1.0
+"Bay City [Urban Area], TX, USA",0.9518409196830822,1.0
+"Tullahoma [Urban Area], TN, USA",1.0,1.0
+"Shafter [Urban Area], CA, USA",0.0,1.0
+"Norwalk [Urban Area], OH, USA",1.0,1.0
+"Fernley [Urban Area], NV, USA",0.0,1.0
+"Moultrie [Urban Area], GA, USA",1.0,1.0
+"Mesquite [Urban Area], NV-AZ, USA",1.0,1.0
+"Ashland [Urban Area], OH, USA",1.0,1.0
+"Nogales [Urban Area], AZ, USA",1.0,1.0
+"Durango [Urban Area], CO, USA",0.9767186355550905,1.0
+"St. Helens [Urban Area], OR, USA",0.0,1.0
+"Marion Oaks [Urban Area], FL, USA",0.0,1.0
+"Canby [Urban Area], OR, USA",0.013959590658619785,1.0
+"Gaffney [Urban Area], SC, USA",1.0,1.0
+"Mount Vernon [Urban Area], OH, USA",1.0,1.0
+"Murray [Urban Area], KY, USA",1.0,1.0
+"Alexandria [Urban Area], MN, USA",0.9935643825499816,1.0
+"Soledad [Urban Area], CA, USA",0.0,1.0
+"Natchitoches [Urban Area], LA, USA",1.0,1.0
+"Dixon [Urban Area], CA, USA",0.0,1.0
+"Stevensville-Chester-Romancoke [Urban Area], MD, USA",0.0,1.0
+"Altus [Urban Area], OK, USA",1.0,1.0
+"Greenfield [Urban Area], CA, USA",0.0,1.0
+"Beaver Dam [Urban Area], WI, USA",1.0,1.0
+"Sebastopol [Urban Area], CA, USA",1.0,1.0
+"El Dorado [Urban Area], AR, USA",1.0,1.0
+"Palestine [Urban Area], TX, USA",1.0,1.0
+"New Castle [Urban Area], IN, USA",1.0,1.0
+"Belgrade [Urban Area], MT, USA",0.0,1.0
+"Anacortes [Urban Area], WA, USA",1.0,1.0
+"Lehighton-Palmerton-Jim Thorpe [Urban Area], PA, USA",1.0,1.0
+"Republic [Urban Area], MO, USA",0.0,1.0
+"Springfield [Urban Area], TN, USA",1.0,1.0
+"Iron Mountain-Kingsford [Urban Area], MI-WI, USA",0.8576025305410122,1.0
+"Safford [Urban Area], AZ, USA",0.9873438437619333,1.0
+"Boerne [Urban Area], TX, USA",0.0,1.0
+"Gun Barrel City [Urban Area], TX, USA",0.0,1.0
+"Yucca Valley [Urban Area], CA, USA",0.06609085442518996,1.0
+"Spout Springs [Urban Area], NC, USA",0.0,1.0
+"Kapaa [Urban Area], HI, USA",1.0,1.0
+"Princeton [Urban Area], TX, USA",0.17867355917289926,1.0
+"Abbeville [Urban Area], LA, USA",0.8779179112733709,1.0
+"Canandaigua [Urban Area], NY, USA",0.9968419303008477,1.0
+"Easton [Urban Area], MD, USA",1.0,1.0
+"Siloam Springs [Urban Area], AR-OK, USA",1.0,1.0
+"Ocean View [Urban Area], DE, USA",0.0,1.0
+"Albert Lea [Urban Area], MN, USA",1.0,1.0
+"Tahlequah [Urban Area], OK, USA",1.0,1.0
+"Crawfordsville [Urban Area], IN, USA",1.0,1.0
+"Lake Placid [Urban Area], FL, USA",0.9622810956443646,1.0
+"Mountain Home [Urban Area], ID, USA",1.0,1.0
+"Mountain Home [Urban Area], AR, USA",0.9270651746049597,1.0
+"Defiance [Urban Area], OH, USA",1.0,1.0
+"Milford [Urban Area], DE, USA",1.0,1.0
+"Storrs [Urban Area], CT, USA",0.829548656110892,1.0
+"Burley [Urban Area], ID, USA",1.0,1.0
+"Sikeston [Urban Area], MO, USA",1.0,1.0
+"Bardstown [Urban Area], KY, USA",0.8946386155412284,1.0
+"Hannibal [Urban Area], MO, USA",0.9994341330918968,1.0
+"West Milford [Urban Area], NJ-NY, USA",0.3207429639277422,1.0
+"Dallas [Urban Area], OR, USA",1.0,1.0
+"Huntington [Urban Area], IN, USA",1.0,1.0
+"Breaux Bridge [Urban Area], LA, USA",0.9604948124501197,1.0
+"Rosamond [Urban Area], CA, USA",0.0,1.0
+"Pendleton [Urban Area], OR, USA",1.0,1.0
+"Batavia [Urban Area], NY, USA",1.0,1.0
+"Madison [Urban Area], IN, USA",1.0,1.0
+"Alma-St. Louis [Urban Area], MI, USA",1.0,1.0
+"Charleston [Urban Area], IL, USA",0.9491243181165662,1.0
+"Americus [Urban Area], GA, USA",1.0,1.0
+"The Dalles [Urban Area], OR, USA",1.0,1.0
+"Brenham [Urban Area], TX, USA",1.0,1.0
+"Mount Airy [Urban Area], NC, USA",1.0,1.0
+"Clearlake [Urban Area], CA, USA",0.9995389314736903,1.0
+"Tehachapi-Golden Hills [Urban Area], CA, USA",1.0,1.0
+"Sahuarita [Urban Area], AZ, USA",0.0,1.0
+"Ada [Urban Area], OK, USA",1.0,1.0
+"Sayre-Waverly [Urban Area], PA-NY, USA",1.0,1.0
+"Pennsburg-Upper Hanover-East Greenville [Urban Area], PA, USA",0.0,1.0
+"Sunnyside [Urban Area], WA, USA",1.0,1.0
+"Mattoon [Urban Area], IL, USA",0.7560633510607212,1.0
+"Havelock [Urban Area], NC, USA",1.0,1.0
+"Snoqualmie [Urban Area], WA, USA",1.0,1.0
+"Menomonie [Urban Area], WI, USA",1.0,1.0
+"Payson [Urban Area], AZ, USA",1.0,1.0
+"Shippensburg [Urban Area], PA, USA",0.9826025625955096,1.0
+"Manor [Urban Area], TX, USA",0.0,1.0
+"Birdsboro-Amity [Urban Area], PA, USA",0.22848402847226307,1.0
+"Albemarle [Urban Area], NC, USA",0.9875794678596657,1.0
+"Sylacauga [Urban Area], AL, USA",0.715547703180212,1.0
+"Poinciana Southwest [Urban Area], FL, USA",0.5687256866674526,1.0
+"Bartow [Urban Area], FL, USA",1.0,1.0
+"Chesapeake Beach [Urban Area], MD, USA",0.0,1.0
+"Pampa [Urban Area], TX, USA",1.0,1.0
+"Versailles [Urban Area], KY, USA",1.0,1.0
+"Kirksville [Urban Area], MO, USA",1.0,1.0
+"Dyersburg [Urban Area], TN, USA",1.0,1.0
+"Frankfort [Urban Area], IN, USA",1.0,1.0
+"Fallon [Urban Area], NV, USA",0.9819136871008177,1.0
+"Jasper [Urban Area], IN, USA",1.0,1.0
+"Kilgore [Urban Area], TX, USA",0.8892278246306597,1.0
+"Troy [Urban Area], MO, USA",1.0,1.0
+"Monroe [Urban Area], GA, USA",1.0,1.0
+"Zachary [Urban Area], LA, USA",1.0,1.0
+"Pulaski [Urban Area], VA, USA",0.9304919218712322,1.0
+"Douglas [Urban Area], AZ, USA",1.0,1.0
+"Terrell [Urban Area], TX, USA",1.0,1.0
+"Gainesville [Urban Area], TX, USA",1.0,1.0
+"Dickson [Urban Area], TN, USA",1.0,1.0
+"Edwards-Avon [Urban Area], CO, USA",0.07815716188400533,1.0
+"Washington [Urban Area], NC, USA",1.0,1.0
+"Big Bear [Urban Area], CA, USA",1.0,1.0
+"Purcellville [Urban Area], VA, USA",0.033990895295902886,1.0
+"Lebanon [Urban Area], IN, USA",1.0,1.0
+"Buffalo [Urban Area], MN, USA",1.0,1.0
+"Fillmore [Urban Area], CA, USA",0.0,1.0
+"River Falls [Urban Area], WI, USA",1.0,1.0
+"Eden [Urban Area], NC, USA",1.0,1.0
+"Picayune [Urban Area], MS, USA",1.0,1.0
+"Carthage [Urban Area], MO, USA",1.0,1.0
+"Laurinburg [Urban Area], NC, USA",1.0,1.0
+"Rockport [Urban Area], TX, USA",0.0,1.0
+"Streator [Urban Area], IL, USA",1.0,1.0
+"Front Royal [Urban Area], VA, USA",0.9978385722225653,1.0
+"Port Jervis [Urban Area], NY-PA, USA",0.9052943720269352,1.0
+"Canyon [Urban Area], TX, USA",0.0,1.0
+"Hood River [Urban Area], OR-WA, USA",1.0,1.0
+"Park City-Snyderville [Urban Area], UT, USA",1.0,1.0
+"Exeter [Urban Area], NH, USA",1.0,1.0
+"Berea [Urban Area], KY, USA",1.0,1.0
+"Clinton [Urban Area], NJ, USA",0.173834903321765,1.0
+"Arcadia [Urban Area], FL, USA",0.9964657738095238,1.0
+"Goodyear South [Urban Area], AZ, USA",0.0,1.0
+"Oneonta [Urban Area], NY, USA",1.0,1.0
+"Yankton [Urban Area], SD, USA",1.0,1.0
+"Kerman [Urban Area], CA, USA",0.0,1.0
+"Lynden [Urban Area], WA, USA",0.0,1.0
+"Dixon [Urban Area], IL, USA",1.0,1.0
+"Newton [Urban Area], IA, USA",1.0,1.0
+"Discovery Bay [Urban Area], CA, USA",0.0,1.0
+"Uvalde [Urban Area], TX, USA",1.0,1.0
+"Salem [Urban Area], OH, USA",1.0,1.0
+"Lihue [Urban Area], HI, USA",1.0,1.0
+"Blytheville [Urban Area], AR, USA",1.0,1.0
+"Coal City-Braidwood [Urban Area], IL, USA",0.0,1.0
+"Birch Bay [Urban Area], WA, USA",0.0,1.0
+"Ripon [Urban Area], CA, USA",1.0,1.0
+"Astoria [Urban Area], OR, USA",0.9068562401263823,1.0
+"Hillsborough [Urban Area], NC, USA",0.0,1.0
+"Walden [Urban Area], NY, USA",0.0,1.0
+"Loíza-Vieques (Loíza Municipio) [Urban Area], PR, USA",0.0,1.0
+"Monticello [Urban Area], MN, USA",1.0,1.0
+"Morris [Urban Area], IL, USA",1.0,1.0
+"Athens [Urban Area], TN, USA",0.9916051895192063,1.0
+"McMinnville [Urban Area], TN, USA",0.9955445229457068,1.0
+"Mitchell [Urban Area], SD, USA",1.0,1.0
+"Circleville [Urban Area], OH, USA",1.0,1.0
+"Taos [Urban Area], NM, USA",0.9552505585700607,1.0
+"Macomb [Urban Area], IL, USA",1.0,1.0
+"Crescent City [Urban Area], CA, USA",1.0,1.0
+"Hartselle [Urban Area], AL, USA",0.5810464221595281,1.0
+"Oak Island [Urban Area], NC, USA",0.7258850692662904,1.0
+"Bellefonte [Urban Area], PA, USA",0.9604824223761869,1.0
+"White House [Urban Area], TN, USA",0.004619233977032142,1.0
+"Gatesville [Urban Area], TX, USA",0.9965306778027626,1.0
+"Hereford [Urban Area], TX, USA",1.0,1.0
+"Stoughton [Urban Area], WI, USA",1.0,1.0
+"Pupukea [Urban Area], HI, USA",0.21587465342704237,1.0
+"Alpena [Urban Area], MI, USA",0.9611669367909238,1.0
+"Mount Pleasant [Urban Area], TX, USA",1.0,1.0
+"Houghton-Hancock [Urban Area], MI, USA",1.0,1.0
+"Miami [Urban Area], OK, USA",1.0,1.0
+"Indianola [Urban Area], IA, USA",0.0,1.0
+"McComb [Urban Area], MS, USA",1.0,1.0
+"Centralia [Urban Area], IL, USA",1.0,1.0
+"Mount Vernon [Urban Area], IL, USA",1.0,1.0
+"Mukwonago [Urban Area], WI, USA",0.0,1.0
+"Lamont [Urban Area], CA, USA",0.019514111715015388,1.0
+"Chickasha [Urban Area], OK, USA",1.0,1.0
+"Litchfield Beach [Urban Area], SC, USA",0.06614121510673235,1.0
+"Seymour [Urban Area], TN, USA",0.0,1.0
+"Jamestown [Urban Area], ND, USA",1.0,1.0
+"Andrews [Urban Area], TX, USA",1.0,1.0
+"Ionia [Urban Area], MI, USA",1.0,1.0
+"Tamaqua [Urban Area], PA, USA",1.0,1.0
+"Taylor [Urban Area], TX, USA",1.0,1.0
+"Sanford [Urban Area], ME, USA",1.0,1.0
+"Yazoo City [Urban Area], MS, USA",1.0,1.0
+"Washington Court House [Urban Area], OH, USA",1.0,1.0
+"Taft [Urban Area], CA, USA",0.0,1.0
+"Harrison [Urban Area], OH-IN, USA",0.0,1.0
+"McKinleyville [Urban Area], CA, USA",0.9864495027034244,1.0
+"Cambridge [Urban Area], MD, USA",1.0,1.0
+"La Grande [Urban Area], OR, USA",1.0,1.0
+"Yelm [Urban Area], WA, USA",0.0,1.0
+"Henderson [Urban Area], TX, USA",1.0,1.0
+"Deming [Urban Area], NM, USA",1.0,1.0
+"Shelton [Urban Area], WA, USA",1.0,1.0
+"Perry [Urban Area], GA, USA",1.0,1.0
+"Red Wing [Urban Area], MN, USA",1.0,1.0
+"Bemidji [Urban Area], MN, USA",1.0,1.0
+"Glasgow [Urban Area], KY, USA",1.0,1.0
+"Ramona [Urban Area], CA, USA",0.0,1.0
+"Great Bend [Urban Area], KS, USA",1.0,1.0
+"Thomaston [Urban Area], GA, USA",1.0,1.0
+"Pierre [Urban Area], SD, USA",1.0,1.0
+"Gettysburg-Cumberland [Urban Area], PA, USA",1.0,1.0
+"Lebanon [Urban Area], MO, USA",1.0,1.0
+"Sulphur Springs [Urban Area], TX, USA",1.0,1.0
+"Hutchinson [Urban Area], MN, USA",1.0,1.0
+"The Pinery [Urban Area], CO, USA",0.36918564997953895,1.0
+"Reidsville [Urban Area], NC, USA",1.0,1.0
+"Dumas [Urban Area], TX, USA",1.0,1.0
+"Lock Haven [Urban Area], PA, USA",1.0,1.0
+"Washington [Urban Area], MO, USA",1.0,1.0
+"Kittanning-Ford City [Urban Area], PA, USA",1.0,1.0
+"Whitewater [Urban Area], WI, USA",0.0,1.0
+"Hampstead-Manchester [Urban Area], MD, USA",0.0,1.0
+"Las Vegas [Urban Area], NM, USA",1.0,1.0
+"Parlier [Urban Area], CA, USA",1.0,1.0
+"Troy [Urban Area], AL, USA",1.0,1.0
+"Steamboat Springs [Urban Area], CO, USA",1.0,1.0
+"Bedford [Urban Area], IN, USA",1.0,1.0
+"Cambridge [Urban Area], OH, USA",0.9612532057946905,1.0
+"Clarksdale [Urban Area], MS, USA",1.0,1.0
+"Connersville [Urban Area], IN, USA",1.0,1.0
+"Cleveland [Urban Area], MS, USA",1.0,1.0
+"El Reno [Urban Area], OK, USA",1.0,1.0
+"Monticello [Urban Area], NY, USA",0.8086962590731435,1.0
+"Fostoria [Urban Area], OH, USA",1.0,1.0
+"Warren [Urban Area], PA, USA",1.0,1.0
+"Huron [Urban Area], SD, USA",1.0,1.0
+"Schuylkill Haven-Orwigsburg [Urban Area], PA, USA",0.9086575534525061,1.0
+"Douglas [Urban Area], GA, USA",1.0,1.0
+"Livingston [Urban Area], CA, USA",0.0,1.0
+"Blackfoot [Urban Area], ID, USA",1.0,1.0
+"Arlington [Urban Area], TN, USA",0.0,1.0
+"Beeville [Urban Area], TX, USA",1.0,1.0
+"Mineral Wells [Urban Area], TX, USA",1.0,1.0
+"Baraboo [Urban Area], WI, USA",1.0,1.0
+"Boulder City [Urban Area], NV, USA",1.0,1.0
+"McFarland [Urban Area], CA, USA",0.7410417697363771,1.0
+"Artesia [Urban Area], NM, USA",1.0,1.0
+"Rincon [Urban Area], GA, USA",1.0,1.0
+"Denton Southwest [Urban Area], TX, USA",0.024104927330733782,1.0
+"Vineyard Haven-Edgartown-Oak Bluffs [Urban Area], MA, USA",0.944254835039818,1.0
+"Florence East [Urban Area], AZ, USA",1.0,1.0
+"McPherson [Urban Area], KS, USA",1.0,1.0
+"Eureka [Urban Area], MO, USA",0.0,1.0
+"Bellefontaine [Urban Area], OH, USA",1.0,1.0
+"Lincoln [Urban Area], IL, USA",1.0,1.0
+"Effingham [Urban Area], IL, USA",1.0,1.0
+"Pleasanton [Urban Area], TX, USA",1.0,1.0
+"Los Osos [Urban Area], CA, USA",0.0,1.0
+"Harrison [Urban Area], AR, USA",1.0,1.0
+"Hartsville [Urban Area], SC, USA",0.9815000717051484,1.0
+"Lindsay [Urban Area], CA, USA",0.0,1.0
+"Salinas-Coco [Urban Area], PR, USA",0.0,1.0
+"Royse City [Urban Area], TX, USA",0.0,1.0
+"Mount Sterling [Urban Area], KY, USA",1.0,1.0
+"Wildwood [Urban Area], FL, USA",0.0,1.0
+"Jacksonville [Urban Area], TX, USA",1.0,1.0
+"Silverthorne-Keystone [Urban Area], CO, USA",0.9335833273238624,1.0
+"Bainbridge [Urban Area], GA, USA",1.0,1.0
+"Fort Atkinson [Urban Area], WI, USA",1.0,1.0
+"Somerton [Urban Area], AZ, USA",0.0,1.0
+"Worthington [Urban Area], MN, USA",1.0,1.0
+"King City [Urban Area], CA, USA",1.0,1.0
+"Bennington [Urban Area], VT, USA",1.0,1.0
+"Coldwater [Urban Area], MI, USA",1.0,1.0
+"Vidalia [Urban Area], GA, USA",1.0,1.0
+"Dunn [Urban Area], NC, USA",1.0,1.0
+"Tecumseh [Urban Area], MI, USA",1.0,1.0
+"Oil City [Urban Area], PA, USA",0.9488511634713889,1.0
+"Rantoul [Urban Area], IL, USA",0.0,1.0
+"Middlesborough [Urban Area], KY-TN, USA",0.8715145289110654,1.0
+"Newark [Urban Area], NY, USA",0.9994103773584906,1.0
+"Athol [Urban Area], MA, USA",0.9906321457549605,1.0
+"Lawrenceburg [Urban Area], KY, USA",0.09960865391715278,1.0
+"Marshall [Urban Area], MN, USA",1.0,1.0
+"Fort Morgan [Urban Area], CO, USA",1.0,1.0
+"Marshall [Urban Area], MO, USA",1.0,1.0
+"New Ulm [Urban Area], MN, USA",1.0,1.0
+"Mendota [Urban Area], CA, USA",0.0,1.0
+"Price [Urban Area], UT, USA",0.9848643788401019,1.0
+"Chino Valley [Urban Area], AZ, USA",0.0,1.0
+"Alpine [Urban Area], CA, USA",0.0,1.0
+"Avenal [Urban Area], CA, USA",0.0,1.0
+"El Campo [Urban Area], TX, USA",1.0,1.0
+"Los Alamos [Urban Area], NM, USA",1.0,1.0
+"Jasper [Urban Area], AL, USA",1.0,1.0
+"Inman [Urban Area], SC, USA",0.0,1.0
+"Cloquet [Urban Area], MN, USA",1.0,1.0
+"Spearfish [Urban Area], SD, USA",1.0,1.0
+"Chowchilla [Urban Area], CA, USA",0.0,1.0
+"Canton [Urban Area], IL, USA",1.0,1.0
+"Cheney [Urban Area], WA, USA",0.0,1.0
+"Sandy [Urban Area], OR, USA",0.0,1.0
+"Crowley [Urban Area], LA, USA",1.0,1.0
+"Lake Mohawk [Urban Area], NJ, USA",0.30758128228501974,1.0
+"Morro Bay [Urban Area], CA, USA",0.0,1.0
+"Ellwood City [Urban Area], PA, USA",1.0,1.0
+"Fergus Falls [Urban Area], MN, USA",1.0,1.0
+"Lakes of the Four Seasons [Urban Area], IN, USA",0.8145351940822085,1.0
+"Ciales [Urban Area], PR, USA",0.3656283402046114,1.0
+"Pecos [Urban Area], TX, USA",1.0,1.0
+"Brockport [Urban Area], NY, USA",1.0,1.0
+"Brevard [Urban Area], NC, USA",0.9852974959797841,1.0
+"Atoka [Urban Area], TN, USA",0.10707720588235294,1.0
+"LaBelle [Urban Area], FL, USA",0.0,1.0
+"Coalinga [Urban Area], CA, USA",1.0,1.0
+"Waconia [Urban Area], MN, USA",1.0,1.0
+"Charlotte [Urban Area], MI, USA",0.8714877936434823,1.0
+"Utuado [Urban Area], PR, USA",1.0,1.0
+"Raymondville [Urban Area], TX, USA",0.0,1.0
+"Elsa [Urban Area], TX, USA",0.0,1.0
+"Greenville [Urban Area], OH, USA",1.0,1.0
+"Urbana [Urban Area], MD, USA",0.0008483726669751659,1.0
+"Spirit Lake [Urban Area], IA, USA",0.845862920654523,1.0
+"Manchester [Urban Area], TN, USA",1.0,1.0
+"Sugarmill Woods [Urban Area], FL, USA",0.0,1.0
+"Washington [Urban Area], IN, USA",1.0,1.0
+"Millington [Urban Area], TN, USA",0.3598854311812974,1.0
+"Lockhart [Urban Area], TX, USA",0.0,1.0
+"Twentynine Palms [Urban Area], CA, USA",0.5387780451828275,1.0
+"Sault Ste. Marie [Urban Area], MI, USA",0.9901374543760193,1.0
+"Clewiston [Urban Area], FL, USA",1.0,1.0
+"Borger [Urban Area], TX, USA",1.0,1.0
+"Vail [Urban Area], AZ, USA",0.0,1.0
+"Cedartown [Urban Area], GA, USA",1.0,1.0
+"Sandpoint [Urban Area], ID, USA",1.0,1.0
+"Newton [Urban Area], NJ, USA",1.0,1.0
+"Chatsworth [Urban Area], GA, USA",1.0,1.0
+"Stansbury Park [Urban Area], UT, USA",1.0,1.0
+"Orosi [Urban Area], CA, USA",0.0,1.0
+"Campbellsville [Urban Area], KY, USA",1.0,1.0
+"Fulton [Urban Area], NY, USA",0.0,1.0
+"Fortuna [Urban Area], CA, USA",1.0,1.0
+"El Dorado [Urban Area], KS, USA",1.0,1.0
+"Jesup [Urban Area], GA, USA",0.9935797056060132,1.0
+"Truckee [Urban Area], CA, USA",1.0,1.0
+"Hot Springs Village [Urban Area], AR, USA",0.0,1.0
+"Virginia [Urban Area], MN, USA",1.0,1.0
+"Winchester [Urban Area], TN, USA",1.0,1.0
+"Angola [Urban Area], IN, USA",0.9280309002049504,1.0
+"Montesano-Elma [Urban Area], WA, USA",0.495505440782211,1.0
+"Minden [Urban Area], LA, USA",0.9755904889801722,1.0
+"Globe [Urban Area], AZ, USA",1.0,1.0
+"Kings Mountain [Urban Area], NC, USA",1.0,1.0
+"Talladega [Urban Area], AL, USA",1.0,1.0
+"Bastrop [Urban Area], LA, USA",1.0,1.0
+"Twin Lakes [Urban Area], WI-IL, USA",0.0,1.0
+"Kingsburg [Urban Area], CA, USA",1.0,1.0
+"Levelland [Urban Area], TX, USA",1.0,1.0
+"Neosho [Urban Area], MO, USA",1.0,1.0
+"Martinsville [Urban Area], IN, USA",1.0,1.0
+"Wilmington [Urban Area], OH, USA",1.0,1.0
+"Kewanee [Urban Area], IL, USA",1.0,1.0
+"Oskaloosa [Urban Area], IA, USA",1.0,1.0
+"Greensburg [Urban Area], IN, USA",1.0,1.0
+"Guymon [Urban Area], OK, USA",1.0,1.0
+"Laie-Hauula [Urban Area], HI, USA",0.7994875080076874,1.0
+"Oneida [Urban Area], NY, USA",1.0,1.0
+"Fulton [Urban Area], MO, USA",1.0,1.0
+"Corinth [Urban Area], MS, USA",1.0,1.0
+"Donaldsonville [Urban Area], LA, USA",0.9598748094053446,1.0
+"Ottawa [Urban Area], KS, USA",1.0,1.0
+"Peru [Urban Area], IN, USA",1.0,1.0
+"Port Isabel-South Padre Island-Laguna Vista [Urban Area], TX, USA",0.0,1.0
+"Prineville [Urban Area], OR, USA",1.0,1.0
+"Jerome [Urban Area], ID, USA",1.0,1.0
+"Lapeer [Urban Area], MI, USA",1.0,1.0
+"Newman [Urban Area], CA, USA",0.0,1.0
+"Boone [Urban Area], IA, USA",1.0,1.0
+"Delavan [Urban Area], WI, USA",0.7048729156548487,1.0
+"Keokuk [Urban Area], IA-IL, USA",1.0,1.0
+"Newberry [Urban Area], SC, USA",1.0,1.0
+"Coshocton [Urban Area], OH, USA",1.0,1.0
+"Castroville-Prunedale [Urban Area], CA, USA",0.0,1.0
+"Portland [Urban Area], TN-KY, USA",1.0,1.0
+"Plymouth [Urban Area], IN, USA",1.0,1.0
+"Sterling [Urban Area], CO, USA",1.0,1.0
+"Mayfield [Urban Area], KY, USA",1.0,1.0
+"Petoskey [Urban Area], MI, USA",0.9714706122782637,1.0
+"Shawano [Urban Area], WI, USA",0.880121023795895,1.0
+"Ozark [Urban Area], AL, USA",1.0,1.0
+"Cadillac [Urban Area], MI, USA",1.0,1.0
+"Portales [Urban Area], NM, USA",1.0,1.0
+"Lake Conroe Eastshore [Urban Area], TX, USA",0.0,1.0
+"Mont Belvieu [Urban Area], TX, USA",0.0,1.0
+"Show Low [Urban Area], AZ, USA",1.0,1.0
+"Moberly [Urban Area], MO, USA",1.0,1.0
+"West Point-Highland Falls [Urban Area], NY, USA",1.0,1.0
+"St. Peter [Urban Area], MN, USA",1.0,1.0
+"Beatrice [Urban Area], NE, USA",1.0,1.0
+"Brooksville [Urban Area], FL, USA",0.9789742744063324,1.0
+"DeRidder [Urban Area], LA, USA",1.0,1.0
+"Durham [Urban Area], NH, USA",0.6222662375175373,1.0
+"New Freedom-Shrewsbury [Urban Area], PA, USA",0.0,1.0
+"Hammonton [Urban Area], NJ, USA",1.0,1.0
+"Weatherford [Urban Area], OK, USA",1.0,1.0
+"Conneaut [Urban Area], OH, USA",1.0,1.0
+"Tarboro [Urban Area], NC, USA",1.0,1.0
+"Port Lavaca [Urban Area], TX, USA",0.9918705931148901,1.0
+"Athens [Urban Area], TX, USA",1.0,1.0
+"Hailey [Urban Area], ID, USA",0.0,1.0
+"Celina [Urban Area], OH, USA",0.3689239717490652,1.0
+"Hibbing [Urban Area], MN, USA",1.0,1.0
+"Marion [Urban Area], NC, USA",1.0,1.0
+"Shenandoah-Frackville [Urban Area], PA, USA",0.10128898128898128,1.0
+"Union [Urban Area], MO, USA",0.07454863133372161,1.0
+"Nantucket [Urban Area], MA, USA",1.0,1.0
+"Coolidge [Urban Area], AZ, USA",0.0313124583610926,1.0
+"Ketchikan [Urban Area], AK, USA",0.7588308977035491,1.0
+"Sturgis [Urban Area], MI, USA",1.0,1.0
+"Lewisburg [Urban Area], TN, USA",1.0,1.0
+"Mahomet [Urban Area], IL, USA",0.0,1.0
+"Tremonton [Urban Area], UT, USA",1.0,1.0
+"Ludington [Urban Area], MI, USA",1.0,1.0
+"Arkansas City [Urban Area], KS, USA",0.9685974069708705,1.0
+"Elkhorn [Urban Area], WI, USA",0.9166385988548332,1.0
+"Green River [Urban Area], WY, USA",0.0,1.0
+"Big Lake [Urban Area], MN, USA",1.0,1.0
+"Storm Lake [Urban Area], IA, USA",1.0,1.0
+"West Plains [Urban Area], MO, USA",1.0,1.0
+"Jefferson [Urban Area], GA, USA",0.0,1.0
+"Platteville [Urban Area], WI, USA",1.0,1.0
+"Cottage Grove [Urban Area], OR, USA",1.0,1.0
+"Otsego-Plainwell [Urban Area], MI, USA",1.0,1.0
+"Silver City [Urban Area], NM, USA",1.0,1.0
+"Toccoa [Urban Area], GA, USA",1.0,1.0
+"Mechanicville [Urban Area], NY, USA",0.0,1.0
+"Blythe [Urban Area], CA-AZ, USA",1.0,1.0
+"Bucyrus [Urban Area], OH, USA",1.0,1.0
+"Lindale-Hideaway [Urban Area], TX, USA",0.020475785896346643,1.0
+"Lovington [Urban Area], NM, USA",1.0,1.0
+"North Bend [Urban Area], WA, USA",0.9861418126169019,1.0
+"Newport [Urban Area], OR, USA",0.9457846730883983,1.0
+"Coquí-Jobos [Urban Area], PR, USA",0.46004264392324096,1.0
+"Lawrenceburg [Urban Area], TN, USA",1.0,1.0
+"Waupun [Urban Area], WI, USA",1.0,1.0
+"Twentynine Palms North [Urban Area], CA, USA",1.0,1.0
+"Vermillion [Urban Area], SD, USA",1.0,1.0
+"DuBois [Urban Area], PA, USA",1.0,1.0
+"Fredericksburg [Urban Area], TX, USA",1.0,1.0
+"Florence West [Urban Area], AZ, USA",1.0,1.0
+"Winfield [Urban Area], KS, USA",1.0,1.0
+"Franklin [Urban Area], KY, USA",1.0,1.0
+"Newport [Urban Area], TN, USA",1.0,1.0
+"Oregon [Urban Area], WI, USA",0.0,1.0
+"Woodland Park [Urban Area], CO, USA",0.945012123311396,1.0
+"Snyder [Urban Area], TX, USA",1.0,1.0
+"Taylorville [Urban Area], IL, USA",1.0,1.0
+"Pell City [Urban Area], AL, USA",0.9416521739130435,1.0
+"Florence [Urban Area], OR, USA",1.0,1.0
+"Rifle [Urban Area], CO, USA",1.0,1.0
+"Woodward [Urban Area], OK, USA",1.0,1.0
+"Evanston [Urban Area], WY, USA",1.0,1.0
+"Moundsville [Urban Area], WV, USA",0.9989471837164415,1.0
+"Box Elder [Urban Area], SD, USA",0.1096082908835412,1.0
+"St. Albans [Urban Area], VT, USA",1.0,1.0
+"Galion [Urban Area], OH, USA",1.0,1.0
+"Georgetown [Urban Area], SC, USA",1.0,1.0
+"Mexico [Urban Area], MO, USA",1.0,1.0
+"Hornsby Bend [Urban Area], TX, USA",0.07021257828349652,1.0
+"Laurens [Urban Area], SC, USA",0.927279145706469,1.0
+"Huntingdon [Urban Area], PA, USA",1.0,1.0
+"Ishpeming [Urban Area], MI, USA",1.0,1.0
+"Brookings [Urban Area], OR, USA",1.0,1.0
+"Wahpeton [Urban Area], ND-MN, USA",1.0,1.0
+"Fitzgerald [Urban Area], GA, USA",1.0,1.0
+"Paris [Urban Area], KY, USA",1.0,1.0
+"Riverton [Urban Area], WY, USA",1.0,1.0
+"Maryville [Urban Area], MO, USA",1.0,1.0
+"Grandview [Urban Area], WA, USA",0.13158129972289265,1.0
+"Bradford [Urban Area], PA-NY, USA",1.0,1.0
+"Elk City [Urban Area], OK, USA",1.0,1.0
+"Stayton [Urban Area], OR, USA",1.0,1.0
+"Urbana [Urban Area], OH, USA",1.0,1.0
+"Elkins [Urban Area], WV, USA",0.9424790710234945,1.0
+"Pontiac [Urban Area], IL, USA",1.0,1.0
+"Wellington [Urban Area], CO, USA",0.0,1.0
+"Van Wert [Urban Area], OH, USA",1.0,1.0
+"Ruidoso [Urban Area], NM, USA",0.9630501720702771,1.0
+"Bogalusa [Urban Area], LA, USA",1.0,1.0
+"Okmulgee [Urban Area], OK, USA",1.0,1.0
+"Bishop [Urban Area], CA, USA",1.0,1.0
+"Rochelle [Urban Area], IL, USA",1.0,1.0
+"Exeter [Urban Area], CA, USA",0.0,1.0
+"Spencer [Urban Area], IA, USA",1.0,1.0
+"Alamosa [Urban Area], CO, USA",1.0,1.0
+"Brandon [Urban Area], SD, USA",0.04224838032667214,1.0
+"Lake Geneva [Urban Area], WI, USA",0.7968051118210863,1.0
+"Zapata-Medina [Urban Area], TX, USA",0.0,1.0
+"Cordele [Urban Area], GA, USA",1.0,1.0
+"Batesville [Urban Area], AR, USA",1.0,1.0
+"Silverton [Urban Area], OR, USA",1.0,1.0
+"Atchison [Urban Area], KS, USA",1.0,1.0
+"Lake of the Woods [Urban Area], VA, USA",0.0,1.0
+"Glenwood Springs [Urban Area], CO, USA",1.0,1.0
+"Macclenny [Urban Area], FL, USA",1.0,1.0
+"Othello [Urban Area], WA, USA",1.0,1.0
+"Wapakoneta [Urban Area], OH, USA",0.0,1.0
+"Scottsboro [Urban Area], AL, USA",1.0,1.0
+"Elgin [Urban Area], TX, USA",0.0,1.0
+"Robstown [Urban Area], TX, USA",1.0,1.0
+"Jackson [Urban Area], WY, USA",1.0,1.0
+"Lowell [Urban Area], IN, USA",0.0,1.0
+"Monroe [Urban Area], WI, USA",1.0,1.0
+"Pikeville [Urban Area], KY, USA",0.7714285714285715,1.0
+"Platte City [Urban Area], MO, USA",0.0,1.0
+"Star [Urban Area], ID, USA",0.03194977981823292,1.0
+"Fort Bragg [Urban Area], CA, USA",1.0,1.0
+"Hillsdale [Urban Area], MI, USA",1.0,1.0
+"Monticello [Urban Area], IN, USA",0.9033380347907851,1.0
+"Marana [Urban Area], AZ, USA",0.0,1.0
+"Hudson [Urban Area], NY, USA",1.0,1.0
+"Union City [Urban Area], TN, USA",1.0,1.0
+"Kendallville [Urban Area], IN, USA",1.0,1.0
+"Brazil [Urban Area], IN, USA",1.0,1.0
+"Massena [Urban Area], NY, USA",1.0,1.0
+"Hornell [Urban Area], NY, USA",1.0,1.0
+"Kennett [Urban Area], MO, USA",1.0,1.0
+"Portage [Urban Area], WI, USA",1.0,1.0
+"Greenville [Urban Area], PA, USA",1.0,1.0
+"Winnemucca [Urban Area], NV, USA",1.0,1.0
+"Point Pleasant-Gallipolis [Urban Area], WV-OH, USA",1.0,1.0
+"La Plata [Urban Area], MD, USA",1.0,1.0
+"Clearfield [Urban Area], PA, USA",1.0,1.0
+"Mountain Top [Urban Area], PA, USA",0.44049429657794675,1.0
+"Martin [Urban Area], TN, USA",1.0,1.0
+"Eunice [Urban Area], LA, USA",1.0,1.0
+"Lincoln City [Urban Area], OR, USA",0.98989898989899,1.0
+"Fontana-on-Geneva Lake [Urban Area], WI, USA",1.0,1.0
+"Burkburnett [Urban Area], TX, USA",0.0,1.0
+"Tyrone [Urban Area], PA, USA",0.7573261827236162,1.0
+"Decatur [Urban Area], IN, USA",1.0,1.0
+"Lexington [Urban Area], NE, USA",1.0,1.0
+"Manteno [Urban Area], IL, USA",0.0,1.0
+"Magnolia [Urban Area], AR, USA",1.0,1.0
+"Sweetwater [Urban Area], TX, USA",1.0,1.0
+"Ridgefield [Urban Area], WA, USA",0.054268057164928545,1.0
+"Williamston [Urban Area], SC, USA",0.018743961352657004,1.0
+"Grand Rapids [Urban Area], MN, USA",1.0,1.0
+"Bluffton [Urban Area], IN, USA",1.0,1.0
+"Cairo [Urban Area], GA, USA",1.0,1.0
+"Bolivar [Urban Area], MO, USA",1.0,1.0
+"Paris [Urban Area], TN, USA",1.0,1.0
+"Solvang-Santa Ynez [Urban Area], CA, USA",1.0,1.0
+"Brattleboro [Urban Area], VT, USA",1.0,1.0
+"Rigby [Urban Area], ID, USA",0.0,1.0
+"Fort Madison [Urban Area], IA-IL, USA",1.0,1.0
+"Grenada [Urban Area], MS, USA",1.0,1.0
+"Delhi [Urban Area], CA, USA",0.17091687755499319,1.0
+"North Windham [Urban Area], ME, USA",0.04352059195793983,1.0
+"Eagle Mountain [Urban Area], UT, USA",0.0,1.0
+"Highland [Urban Area], IL, USA",1.0,1.0
+"Middleton [Urban Area], ID, USA",0.813346322454944,1.0
+"Greenville [Urban Area], MI, USA",1.0,1.0
+"London [Urban Area], OH, USA",1.0,1.0
+"Molalla [Urban Area], OR, USA",0.0,1.0
+"Columbia City [Urban Area], IN, USA",1.0,1.0
+"Wabash [Urban Area], IN, USA",1.0,1.0
+"Ogdensburg [Urban Area], NY, USA",1.0,1.0
+"Detroit Lakes [Urban Area], MN, USA",0.9907172171194059,1.0
+"Summerville [Urban Area], GA, USA",1.0,1.0
+"Evergreen [Urban Area], CO, USA",0.0,1.0
+"Greencastle [Urban Area], IN, USA",1.0,1.0
+"California-Brownsville [Urban Area], PA, USA",0.0,1.0
+"Sparta [Urban Area], WI, USA",1.0,1.0
+"Kearney [Urban Area], MO, USA",0.3941419304108512,1.0
+"Emmett [Urban Area], ID, USA",1.0,1.0
+"Lambertville [Urban Area], NJ-PA, USA",0.0,1.0
+"Three Rivers [Urban Area], MI, USA",1.0,1.0
+"Pella [Urban Area], IA, USA",1.0,1.0
+"Rice Lake [Urban Area], WI, USA",1.0,1.0
+"Brookhaven [Urban Area], MS, USA",1.0,1.0
+"Carroll [Urban Area], IA, USA",1.0,1.0
+"Le Mars [Urban Area], IA, USA",1.0,1.0
+"Washington [Urban Area], NJ, USA",0.0,1.0
+"Big Rapids [Urban Area], MI, USA",1.0,1.0
+"Cambridge [Urban Area], MN, USA",1.0,1.0
+"Crawfordville [Urban Area], FL, USA",0.0,1.0
+"Fayetteville [Urban Area], TN, USA",0.883399209486166,1.0
+"Somerset [Urban Area], PA, USA",1.0,1.0
+"Sweet Home [Urban Area], OR, USA",0.0,1.0
+"Arkadelphia [Urban Area], AR, USA",1.0,1.0
+"Reedsburg [Urban Area], WI, USA",1.0,1.0
+"Toppenish [Urban Area], WA, USA",1.0,1.0
+"Port Townsend [Urban Area], WA, USA",1.0,1.0
+"Jersey Shore [Urban Area], PA, USA",1.0,1.0
+"Cody [Urban Area], WY, USA",1.0,1.0
+"Jayuya [Urban Area], PR, USA",0.0,1.0
+"Fort Polk South [Urban Area], LA, USA",0.5602524291295202,1.0
+"Grants [Urban Area], NM, USA",1.0,1.0
+"New Paltz [Urban Area], NY, USA",0.0,1.0
+"Rio Vista [Urban Area], CA, USA",0.0,1.0
+"Russellville [Urban Area], AL, USA",1.0,1.0
+"Waterloo [Urban Area], IL, USA",0.0,1.0
+"Oxford [Urban Area], PA, USA",0.7380352644836272,1.0
+"Georgetown [Urban Area], DE, USA",0.0,1.0
+"Camden [Urban Area], AR, USA",1.0,1.0
+"Rockland [Urban Area], ME, USA",0.8026955816781516,1.0
+"Millsboro [Urban Area], DE, USA",0.0,1.0
+"Heartland [Urban Area], TX, USA",0.0,1.0
+"Excelsior Springs [Urban Area], MO, USA",1.0,1.0
+"Grove City [Urban Area], PA, USA",1.0,1.0
+"Havre [Urban Area], MT, USA",1.0,1.0
+"Lake Monticello [Urban Area], VA, USA",0.0,1.0
+"Tomah [Urban Area], WI, USA",1.0,1.0
+"Maysville [Urban Area], KY-OH, USA",1.0,1.0
+"Harrodsburg [Urban Area], KY, USA",1.0,1.0
+"Orangetree [Urban Area], FL, USA",0.0,1.0
+"Wauchula [Urban Area], FL, USA",1.0,1.0
+"Danville-Mahoning [Urban Area], PA, USA",1.0,1.0
+"Baker City [Urban Area], OR, USA",1.0,1.0
+"Waterford [Urban Area], CA, USA",0.0,1.0
+"Santa Isabel [Urban Area], PR, USA",0.0,1.0
+"Rhinelander [Urban Area], WI, USA",1.0,1.0
+"Marathon [Urban Area], FL, USA",1.0,1.0
+"Union [Urban Area], SC, USA",1.0,1.0
+"Smithfield [Urban Area], VA, USA",0.0,1.0
+"Orange Cove [Urban Area], CA, USA",0.0,1.0
+"Fort Valley [Urban Area], GA, USA",1.0,1.0
+"Dayton [Urban Area], TN, USA",0.8473369116432701,1.0
+"Cold Springs [Urban Area], NV, USA",0.0,1.0
+"Smithville [Urban Area], MO, USA",1.0,1.0
+"Pinehurst (Montgomery County)-Magnolia [Urban Area], TX, USA",0.0,1.0
+"Berlin [Urban Area], NH, USA",0.8115551874094016,1.0
+"Sutherlin [Urban Area], OR, USA",0.0,1.0
+"Scappoose [Urban Area], OR, USA",0.0,1.0
+"Craig [Urban Area], CO, USA",1.0,1.0
+"Arizona City [Urban Area], AZ, USA",0.0,1.0
+"Dexter [Urban Area], MO, USA",1.0,1.0
+"Brownsville [Urban Area], TN, USA",1.0,1.0
+"Grantsville [Urban Area], UT, USA",0.0,1.0
+"Gold Canyon [Urban Area], AZ, USA",0.17664233576642335,1.0
+"Tell City [Urban Area], IN-KY, USA",1.0,1.0
+"Kodiak-Mill Bay [Urban Area], AK, USA",1.0,1.0
+"Vernon [Urban Area], TX, USA",1.0,1.0
+"Merrill [Urban Area], WI, USA",1.0,1.0
+"Roxboro [Urban Area], NC, USA",1.0,1.0
+"Franklin [Urban Area], LA, USA",1.0,1.0
+"New Richmond [Urban Area], WI, USA",1.0,1.0
+"Grinnell [Urban Area], IA, USA",1.0,1.0
+"Lexington [Urban Area], VA, USA",1.0,1.0
+"St. Marys [Urban Area], OH, USA",1.0,1.0
+"Cloverdale [Urban Area], CA, USA",0.20495185694635487,1.0
+"Pryor Creek [Urban Area], OK, USA",1.0,1.0
+"Parsons [Urban Area], KS, USA",1.0,1.0
+"Sturgeon Bay [Urban Area], WI, USA",0.9887580867536324,1.0
+"Harrisonville [Urban Area], MO, USA",1.0,1.0
+"Orland [Urban Area], CA, USA",0.0,1.0
+"Claremont [Urban Area], NH, USA",1.0,1.0
+"Little Falls [Urban Area], MN, USA",1.0,1.0
+"St. Marys [Urban Area], PA, USA",1.0,1.0
+"Warrenton [Urban Area], MO, USA",0.0,1.0
+"Pinetop-Lakeside [Urban Area], AZ, USA",0.9407005216650697,1.0
+"Coffeyville [Urban Area], KS-OK, USA",1.0,1.0
+"Monett [Urban Area], MO, USA",1.0,1.0
+"Oakland [Urban Area], TN, USA",0.0,1.0
+"Ipswich [Urban Area], MA, USA",0.0,1.0
+"Philipsburg [Urban Area], PA, USA",0.0,1.0
+"Crozet [Urban Area], VA, USA",0.0,1.0
+"Jennings [Urban Area], LA, USA",1.0,1.0
+"Harvard [Urban Area], IL, USA",1.0,1.0
+"Morehead [Urban Area], KY, USA",0.9755733333333333,1.0
+"Franklin [Urban Area], NC, USA",1.0,1.0
+"Livingston [Urban Area], MT, USA",1.0,1.0
+"Ravena-Bethlehem [Urban Area], NY, USA",0.29456451958056923,1.0
+"Indianola [Urban Area], MS, USA",1.0,1.0
+"Shelby [Urban Area], OH, USA",1.0,1.0
+"Clinton [Urban Area], NC, USA",1.0,1.0
+"Guthrie [Urban Area], OK, USA",1.0,1.0
+"Mount Pleasant [Urban Area], IA, USA",1.0,1.0
+"Rathdrum [Urban Area], ID, USA",0.46553403311329944,1.0
+"Bryan [Urban Area], OH, USA",1.0,1.0
+"Silsbee [Urban Area], TX, USA",0.27063027940220924,1.0
+"Augusta [Urban Area], KS, USA",0.0,1.0
+"Walterboro [Urban Area], SC, USA",1.0,1.0
+"Miles City [Urban Area], MT, USA",1.0,1.0
+"Waseca [Urban Area], MN, USA",1.0,1.0
+"Fairfield [Urban Area], IA, USA",1.0,1.0
+"Elwood [Urban Area], IN, USA",1.0,1.0
+"Sedona [Urban Area], AZ, USA",0.0,1.0
+"Monmouth [Urban Area], IL, USA",1.0,1.0
+"Eufaula [Urban Area], AL-GA, USA",1.0,1.0
+"Seaside [Urban Area], OR, USA",1.0,1.0
+"Monahans [Urban Area], TX, USA",1.0,1.0
+"Columbiana [Urban Area], OH, USA",0.27510917030567683,1.0
+"Waverly [Urban Area], IA, USA",1.0,1.0
+"Lindstrom-Chisago City [Urban Area], MN, USA",0.1211756993006993,1.0
+"Clinton [Urban Area], SC, USA",1.0,1.0
+"Whitehouse [Urban Area], TX, USA",0.7164897691213481,1.0
+"Cullowhee [Urban Area], NC, USA",0.9333260345960149,1.0
+"Chillicothe [Urban Area], MO, USA",1.0,1.0
+"Roxborough Park [Urban Area], CO, USA",0.027282728272827284,1.0
+"Live Oak (Sutter County) [Urban Area], CA, USA",0.13744493392070484,1.0
+"Greenwood [Urban Area], AR, USA",0.0,1.0
+"Bennettsville [Urban Area], SC, USA",1.0,1.0
+"Pearsall [Urban Area], TX, USA",1.0,1.0
+"Diamondhead [Urban Area], MS, USA",0.9974568774878373,1.0
+"Sonterra [Urban Area], TX, USA",0.0,1.0
+"Plymouth [Urban Area], WI, USA",0.0,1.0
+"Tuskegee [Urban Area], AL, USA",1.0,1.0
+"Susanville [Urban Area], CA, USA",1.0,1.0
+"Lakeport [Urban Area], CA, USA",0.9795419168334445,1.0
+"Holly [Urban Area], MI, USA",0.33948959032907994,1.0
+"Oxford [Urban Area], NC, USA",1.0,1.0
+"Alexander City [Urban Area], AL, USA",1.0,1.0
+"Wendell [Urban Area], NC, USA",0.0,1.0
+"Wise-Norton [Urban Area], VA, USA",1.0,1.0
+"Thief River Falls [Urban Area], MN, USA",1.0,1.0
+"Oak Ridge [Urban Area], NJ, USA",0.0,1.0
+"Napoleon [Urban Area], OH, USA",1.0,1.0
+"Clinton [Urban Area], MO, USA",1.0,1.0
+"Hope [Urban Area], AR, USA",1.0,1.0
+"Gypsum [Urban Area], CO, USA",0.0,1.0
+"Malvern [Urban Area], AR, USA",1.0,1.0
+"Savannah [Urban Area], TN, USA",1.0,1.0
+"West Jefferson-Lake Darby [Urban Area], OH, USA",0.5150657000453104,1.0
+"Logan [Urban Area], WV, USA",0.7703208253032536,1.0
+"Canton [Urban Area], NC, USA",0.6778256922378575,1.0
+"Laurel [Urban Area], MT, USA",0.001479121629309364,1.0
+"Thomson [Urban Area], GA, USA",1.0,1.0
+"East Aurora [Urban Area], NY, USA",0.08123217341699943,1.0
+"Waynesburg [Urban Area], PA, USA",1.0,1.0
+"Franklin [Urban Area], VA, USA",1.0,1.0
+"Richlands [Urban Area], VA, USA",1.0,1.0
+"Pleasant Hill [Urban Area], MO, USA",0.0,1.0
+"Lamesa [Urban Area], TX, USA",1.0,1.0
+"Breckenridge [Urban Area], CO, USA",0.5081948424068768,1.0
+"Chanute [Urban Area], KS, USA",1.0,1.0
+"Orrville [Urban Area], OH, USA",1.0,1.0
+"Holden Beach [Urban Area], NC, USA",0.6666282951536779,1.0
+"Gonzales [Urban Area], CA, USA",0.0,1.0
+"Whitehall [Urban Area], MI, USA",0.0,1.0
+"Erwin [Urban Area], TN, USA",1.0,1.0
+"Kutztown [Urban Area], PA, USA",0.0,1.0
+"Tri-City-Myrtle Creek [Urban Area], OR, USA",0.0,1.0
+"Gridley [Urban Area], CA, USA",1.0,1.0
+"Kenai [Urban Area], AK, USA",0.38995602869706086,1.0
+"Olney [Urban Area], IL, USA",1.0,1.0
+"Jerseyville [Urban Area], IL, USA",1.0,1.0
+"York [Urban Area], SC, USA",0.0,1.0
+"Cortez [Urban Area], CO, USA",1.0,1.0
+"Siler City [Urban Area], NC, USA",1.0,1.0
+"Chester [Urban Area], SC, USA",1.0,1.0
+"Helena-West Helena [Urban Area], AR, USA",1.0,1.0
+"Graham [Urban Area], TX, USA",1.0,1.0
+"Oscoda-Au Sable [Urban Area], MI, USA",0.04568824491703669,1.0
+"Forrest City [Urban Area], AR, USA",1.0,1.0
+"Nice [Urban Area], CA, USA",0.5402688486265342,1.0
+"Fort Stockton [Urban Area], TX, USA",1.0,1.0
+"Buckhannon [Urban Area], WV, USA",1.0,1.0
+"Quincy [Urban Area], FL, USA",1.0,1.0
+"Nevada [Urban Area], MO, USA",1.0,1.0
+"Mascoutah [Urban Area], IL, USA",0.0,1.0
+"Wharton [Urban Area], TX, USA",1.0,1.0
+"Pacific [Urban Area], MO, USA",0.0,1.0
+"Houghton Lake [Urban Area], MI, USA",0.0,1.0
+"Franklin (Venango County) [Urban Area], PA, USA",0.021411764705882352,1.0
+"Rayne [Urban Area], LA, USA",0.9437183562934182,1.0
+"Dillon [Urban Area], SC, USA",1.0,1.0
+"Independence [Urban Area], KS, USA",1.0,1.0
+"Gaylord-Bagley [Urban Area], MI, USA",0.9471448796602171,1.0
+"Lago Vista (Travis County) [Urban Area], TX, USA",0.19638426090038993,1.0
+"Corning [Urban Area], CA, USA",0.0,1.0
+"Cameron [Urban Area], MO, USA",1.0,1.0
+"Big Pine Key [Urban Area], FL, USA",0.0,1.0
+"Clear Lake [Urban Area], IA, USA",0.5220080894599096,1.0
+"Bellevue [Urban Area], OH, USA",1.0,1.0
+"Penn Yan [Urban Area], NY, USA",0.8968924872008572,1.0
+"Richfield [Urban Area], UT, USA",1.0,1.0
+"Perryton [Urban Area], TX, USA",1.0,1.0
+"Fairmont [Urban Area], MN, USA",1.0,1.0
+"Fort Payne [Urban Area], AL, USA",0.9940334128878282,1.0
+"St. Johns [Urban Area], MI, USA",1.0,1.0
+"Slatington [Urban Area], PA, USA",1.0,1.0
+"Edgerton [Urban Area], WI, USA",1.0,1.0
+"Dalhart [Urban Area], TX, USA",1.0,1.0
+"Princeton [Urban Area], IN, USA",1.0,1.0
+"Leesville [Urban Area], LA, USA",1.0,1.0
+"Trinidad [Urban Area], CO, USA",1.0,1.0
+"Commerce [Urban Area], TX, USA",1.0,1.0
+"Paris [Urban Area], IL, USA",1.0,1.0
+"Waupaca [Urban Area], WI, USA",1.0,1.0
+"Harrisburg [Urban Area], IL, USA",1.0,1.0
+"Sanger [Urban Area], TX, USA",0.0,1.0
+"Brunswick [Urban Area], MD, USA",0.0,1.0
+"Brownfield [Urban Area], TX, USA",1.0,1.0
+"Potsdam [Urban Area], NY, USA",1.0,1.0
+"Sioux Center [Urban Area], IA, USA",1.0,1.0
+"Keystone Heights [Urban Area], FL, USA",0.0,1.0
+"Fairfield Glade [Urban Area], TN, USA",0.0,1.0
+"Logan [Urban Area], OH, USA",1.0,1.0
+"Spencer [Urban Area], MA, USA",0.7251098096632503,1.0
+"Delta [Urban Area], CO, USA",1.0,1.0
+"Oberlin [Urban Area], OH, USA",1.0,1.0
+"Duvall [Urban Area], WA, USA",0.0,1.0
+"Omak [Urban Area], WA, USA",1.0,1.0
+"Rancho Calaveras [Urban Area], CA, USA",0.0,1.0
+"Pulaski [Urban Area], TN, USA",1.0,1.0
+"Zebulon [Urban Area], NC, USA",0.0,1.0
+"New Prague [Urban Area], MN, USA",1.0,1.0
+"Denison [Urban Area], IA, USA",1.0,1.0
+"West Point [Urban Area], MS, USA",1.0,1.0
+"Albion [Urban Area], MI, USA",0.0,1.0
+"Stuttgart [Urban Area], AR, USA",1.0,1.0
+"Milton-Freewater [Urban Area], OR, USA",0.07145492559340795,1.0
+"Basalt [Urban Area], CO, USA",0.0,1.0
+"Socorro [Urban Area], NM, USA",1.0,1.0
+"Lee [Urban Area], MA, USA",0.0,1.0
+"Alliance [Urban Area], NE, USA",1.0,1.0
+"Firebaugh [Urban Area], CA, USA",0.0,1.0
+"Vandalia [Urban Area], IL, USA",1.0,1.0
+"Ville Platte [Urban Area], LA, USA",1.0,1.0
+"Fort Irwin [Urban Area], CA, USA",1.0,1.0
+"Kingsland [Urban Area], TX, USA",0.0,1.0
+"Manistee [Urban Area], MI, USA",1.0,1.0
+"Frostproof [Urban Area], FL, USA",0.0,1.0
+"Madras [Urban Area], OR, USA",1.0,1.0
+"Belterra [Urban Area], TX, USA",0.5708978328173374,1.0
+"Antigo [Urban Area], WI, USA",1.0,1.0
+"Hillsboro [Urban Area], TX, USA",1.0,1.0
+"Eaton [Urban Area], OH, USA",0.0,1.0
+"Perryville [Urban Area], MO, USA",1.0,1.0
+"Ripon [Urban Area], WI, USA",1.0,1.0
+"Hilton [Urban Area], NY, USA",0.007446940548591287,1.0
+"Ephrata [Urban Area], WA, USA",1.0,1.0
+"Guadalupe [Urban Area], CA, USA",0.0,1.0
+"Hastings [Urban Area], MI, USA",1.0,1.0
+"Boonville [Urban Area], MO, USA",1.0,1.0
+"Kenton [Urban Area], OH, USA",1.0,1.0
+"Geneseo [Urban Area], NY, USA",0.0,1.0
+"Clinton [Urban Area], OK, USA",1.0,1.0
+"Adjuntas [Urban Area], PR, USA",0.1321178821178821,1.0
+"Blair [Urban Area], NE, USA",1.0,1.0
+"Decorah [Urban Area], IA, USA",1.0,1.0
+"Princeton [Urban Area], IL, USA",1.0,1.0
+"Monticello [Urban Area], AR, USA",1.0,1.0
+"York [Urban Area], NE, USA",1.0,1.0
+"Jackson [Urban Area], WI, USA",1.0,1.0
+"Marble Falls [Urban Area], TX, USA",0.9844083993461586,1.0
+"Tuba City [Urban Area], AZ, USA",1.0,1.0
+"Batesville [Urban Area], IN, USA",1.0,1.0
+"West Frankfort [Urban Area], IL, USA",0.0,1.0
+"Grove [Urban Area], OK, USA",1.0,1.0
+"Moab [Urban Area], UT, USA",0.9606706164124543,1.0
+"Canyon Lake [Urban Area], TX, USA",0.0,1.0
+"Farmville [Urban Area], VA, USA",1.0,1.0
+"Freeland [Urban Area], WA, USA",0.0,1.0
+"Estes Park [Urban Area], CO, USA",1.0,1.0
+"Whitefish [Urban Area], MT, USA",1.0,1.0
+"Corona de Tucson [Urban Area], AZ, USA",0.0,1.0
+"Milan [Urban Area], MI, USA",0.0,1.0
+"Fort Lupton [Urban Area], CO, USA",0.0,1.0
+"Arab [Urban Area], AL, USA",0.8430373295961269,1.0
+"Prairie du Sac-Sauk City [Urban Area], WI, USA",1.0,1.0
+"Quincy [Urban Area], WA, USA",1.0,1.0
+"Bloomfield [Urban Area], NM, USA",0.0,1.0
+"Crystal River [Urban Area], FL, USA",0.904774061781976,1.0
+"Poteau [Urban Area], OK, USA",1.0,1.0
+"Manhattan [Urban Area], IL, USA",0.0,1.0
+"Clarksville [Urban Area], AR, USA",1.0,1.0
+"Hazard [Urban Area], KY, USA",0.9765625,1.0
+"New London [Urban Area], WI, USA",1.0,1.0
+"Winsted [Urban Area], CT, USA",0.0,1.0
+"Bonham [Urban Area], TX, USA",1.0,1.0
+"La Junta [Urban Area], CO, USA",1.0,1.0
+"Jackson [Urban Area], CA, USA",1.0,1.0
+"Covington [Urban Area], VA, USA",0.6637830858618463,1.0
+"Rockmart [Urban Area], GA, USA",0.019243187395066513,1.0
+"Norwich [Urban Area], NY, USA",1.0,1.0
+"Maytown-Marietta [Urban Area], PA, USA",0.0,1.0
+"Mount Horeb [Urban Area], WI, USA",0.0,1.0
+"Dos Palos [Urban Area], CA, USA",0.0,1.0
+"Truth or Consequences [Urban Area], NM, USA",1.0,1.0
+"Rawlins [Urban Area], WY, USA",1.0,1.0
+"Commerce [Urban Area], GA, USA",1.0,1.0
+"Bay Minette [Urban Area], AL, USA",1.0,1.0
+"Stanwood [Urban Area], WA, USA",0.0,1.0
+"Aspen [Urban Area], CO, USA",1.0,1.0
+"Sitka [Urban Area], AK, USA",1.0,1.0
+"Winslow [Urban Area], AZ, USA",1.0,1.0
+"Kasson [Urban Area], MN, USA",0.0,1.0
+"De Soto [Urban Area], MO, USA",0.0,1.0
+"Lake Erie Beach [Urban Area], NY, USA",0.4096558942823499,1.0
+"Perry [Urban Area], IA, USA",1.0,1.0
+"Wauseon [Urban Area], OH, USA",1.0,1.0
+"Lake Pocotopaug [Urban Area], CT, USA",0.010495932826029914,1.0
+"Cuero [Urban Area], TX, USA",1.0,1.0
+"Crookston [Urban Area], MN, USA",1.0,1.0
+"Yreka [Urban Area], CA, USA",1.0,1.0
+"Webster City [Urban Area], IA, USA",1.0,1.0
+"Scottsburg [Urban Area], IN, USA",1.0,1.0
+"Willows [Urban Area], CA, USA",1.0,1.0
+"Milan [Urban Area], TN, USA",1.0,1.0
+"Strasburg [Urban Area], VA, USA",0.0,1.0
+"Jefferson [Urban Area], WI, USA",0.9431667988369019,1.0
+"Wynne [Urban Area], AR, USA",1.0,1.0
+"Knoxville [Urban Area], IA, USA",1.0,1.0
+"Willits [Urban Area], CA, USA",1.0,1.0
+"Dayton Southwest [Urban Area], NV, USA",1.0,1.0
+"Muncy [Urban Area], PA, USA",1.0,1.0
+"Bedford [Urban Area], VA, USA",1.0,1.0
+"Marshfield [Urban Area], MO, USA",0.0,1.0
+"Lowell [Urban Area], MI, USA",0.0,1.0
+"Paw Paw Lake [Urban Area], MI, USA",1.0,1.0
+"Clover [Urban Area], SC, USA",0.0,1.0
+"Woodlake [Urban Area], CA, USA",0.0,1.0
+"Sallisaw [Urban Area], OK, USA",1.0,1.0
+"Marengo [Urban Area], IL, USA",0.0,1.0
+"Creston [Urban Area], IA, USA",1.0,1.0
+"Lamar [Urban Area], CO, USA",1.0,1.0
+"Devils Lake [Urban Area], ND, USA",1.0,1.0
+"Benton [Urban Area], IL, USA",1.0,1.0
+"Village of Four Seasons [Urban Area], MO, USA",0.8182667912938977,1.0
+"Creedmoor [Urban Area], NC, USA",0.0,1.0
+"Cheraw [Urban Area], SC, USA",1.0,1.0
+"Escalon [Urban Area], CA, USA",0.021657754010695186,1.0
+"Seward [Urban Area], NE, USA",1.0,1.0
+"Marshall [Urban Area], MI, USA",1.0,1.0
+"Earlimart [Urban Area], CA, USA",0.0,1.0
+"Wagoner [Urban Area], OK, USA",1.0,1.0
+"Cleveland [Urban Area], TX, USA",1.0,1.0
+"Aurora [Urban Area], MO, USA",1.0,1.0
+"Navasota [Urban Area], TX, USA",1.0,1.0
+"Fort Scott [Urban Area], KS, USA",1.0,1.0
+"Robertsdale [Urban Area], AL, USA",0.08116839413110782,1.0
+"Forsyth [Urban Area], MO, USA",0.6735821096591674,1.0
+"Eagle [Urban Area], CO, USA",0.0,1.0
+"South Boston [Urban Area], VA, USA",1.0,1.0
+"Freeland [Urban Area], MI, USA",0.5086346465191581,1.0
+"Wellington [Urban Area], KS, USA",1.0,1.0
+"McCook [Urban Area], NE, USA",1.0,1.0
+"Syracuse [Urban Area], IN, USA",0.0,1.0
+"Chestertown [Urban Area], MD, USA",1.0,1.0
+"Buies Creek-Lillington [Urban Area], NC, USA",0.02881883371668245,1.0
+"Carbondale [Urban Area], CO, USA",0.0,1.0
+"Geneva [Urban Area], OH, USA",1.0,1.0
+"Spring Hill [Urban Area], KS, USA",0.15345860566448802,1.0
+"Skiatook [Urban Area], OK, USA",0.0,1.0
+"Plumas Lake [Urban Area], CA, USA",0.0,1.0
+"Rochester [Urban Area], IN, USA",1.0,1.0
+"Purcell [Urban Area], OK, USA",1.0,1.0
+"Bremen [Urban Area], GA, USA",1.0,1.0
+"Clinton [Urban Area], IL, USA",1.0,1.0
+"Covington [Urban Area], TN, USA",0.9989071038251366,1.0
+"Summit Park [Urban Area], UT, USA",0.001093344266776001,1.0
+"Lake Holiday [Urban Area], IL, USA",1.0,1.0
+"Junction City [Urban Area], OR, USA",1.0,1.0
+"Aztec [Urban Area], NM, USA",0.0,1.0
+"Marion [Urban Area], VA, USA",1.0,1.0
+"Delphos [Urban Area], OH, USA",0.0,1.0
+"Charles City [Urban Area], IA, USA",1.0,1.0
+"Swainsboro [Urban Area], GA, USA",1.0,1.0
+"Nappanee [Urban Area], IN, USA",0.00593103448275862,1.0
+"Allegan [Urban Area], MI, USA",1.0,1.0
+"Trumann [Urban Area], AR, USA",0.0,1.0
+"Prescott Valley East [Urban Area], AZ, USA",1.0,1.0
+"Gunnison [Urban Area], CO, USA",1.0,1.0
+"Sullivan [Urban Area], MO, USA",1.0,1.0
+"Lewisburg [Urban Area], WV, USA",1.0,1.0
+"Slippery Rock [Urban Area], PA, USA",0.0,1.0
+"Ashland [Urban Area], WI, USA",1.0,1.0
+"Woodland [Urban Area], WA, USA",0.0,1.0
+"Beebe [Urban Area], AR, USA",0.0,1.0
+"Albion [Urban Area], NY, USA",0.0,1.0
+"Broadway-Timberville [Urban Area], VA, USA",0.0,1.0
+"Crossett [Urban Area], AR, USA",1.0,1.0
+"Ironwood [Urban Area], MI-WI, USA",0.9078122824119204,1.0
+"Pocahontas [Urban Area], AR, USA",1.0,1.0
+"Humboldt [Urban Area], TN, USA",1.0,1.0
+"Taneytown [Urban Area], MD, USA",0.0,1.0
+"Fort Rucker-Daleville [Urban Area], AL, USA",0.0,1.0
+"Tellico Village [Urban Area], TN, USA",0.11836221352711011,1.0
+"Wytheville [Urban Area], VA, USA",1.0,1.0
+"Salem [Urban Area], IL, USA",1.0,1.0
+"Philadelphia [Urban Area], MS, USA",1.0,1.0
+"Sandersville [Urban Area], GA, USA",1.0,1.0
+"Fabens [Urban Area], TX, USA",0.0,1.0
+"Orange City [Urban Area], IA, USA",1.0,1.0
+"Ellenville [Urban Area], NY, USA",1.0,1.0
+"Warwick [Urban Area], NY, USA",1.0,1.0
+"Sturgis [Urban Area], SD, USA",1.0,1.0
+"Winters [Urban Area], CA, USA",0.0,1.0
+"Wapato [Urban Area], WA, USA",0.0,1.0
+"Seminole [Urban Area], TX, USA",1.0,1.0
+"Belle Plaine [Urban Area], MN, USA",0.0,1.0
+"Mammoth Lakes [Urban Area], CA, USA",1.0,1.0
+"Adel [Urban Area], GA, USA",1.0,1.0
+"St. James [Urban Area], NC, USA",0.8685446009389671,1.0
+"Page [Urban Area], AZ, USA",1.0,1.0
+"Nebraska City [Urban Area], NE, USA",1.0,1.0
+"Sunbury [Urban Area], OH, USA",0.036625338463730936,1.0
+"Catskill [Urban Area], NY, USA",0.7893610952652595,1.0
+"Marion [Urban Area], SC, USA",1.0,1.0
+"San Diego Country Estates [Urban Area], CA, USA",0.0,1.0
+"Jasper [Urban Area], TX, USA",1.0,1.0
+"Tallulah [Urban Area], LA, USA",1.0,1.0
+"Veneta [Urban Area], OR, USA",0.0,1.0
+"Lander [Urban Area], WY, USA",1.0,1.0
+"DeFuniak Springs [Urban Area], FL, USA",0.7404328507954708,1.0
+"Columbus [Urban Area], WI, USA",1.0,1.0
+"Guánica [Urban Area], PR, USA",0.6445783132530121,1.0
+"Mount Carmel [Urban Area], IL, USA",1.0,1.0
+"Crete [Urban Area], NE, USA",1.0,1.0
+"Colusa [Urban Area], CA, USA",1.0,1.0
+"Gonzales [Urban Area], TX, USA",1.0,1.0
+"North Vernon [Urban Area], IN, USA",1.0,1.0
+"Ripley [Urban Area], TN, USA",1.0,1.0
+"Mendota [Urban Area], IL, USA",1.0,1.0
+"Big Stone Gap [Urban Area], VA, USA",1.0,1.0
+"Lake City [Urban Area], SC, USA",1.0,1.0
+"Magalia [Urban Area], CA, USA",0.6904347826086956,1.0
+"Malone [Urban Area], NY, USA",1.0,1.0
+"Nevada [Urban Area], IA, USA",1.0,1.0
+"Hillsboro [Urban Area], IL, USA",1.0,1.0
+"Dayton [Urban Area], TX, USA",0.8243930803895915,1.0
+"Mecca [Urban Area], CA, USA",0.0,1.0
+"Emporia [Urban Area], VA, USA",1.0,1.0
+"Hamilton [Urban Area], MT, USA",1.0,1.0
+"Lake Mills [Urban Area], WI, USA",0.0,1.0
+"Grissom AFB [Urban Area], IN, USA",0.004813302217036173,1.0
+"Willard [Urban Area], MO, USA",0.008608112051356871,1.0
+"Washington [Urban Area], IA, USA",1.0,1.0
+"Pecan Plantation [Urban Area], TX, USA",0.08710291318986971,1.0
+"Barnesville [Urban Area], GA, USA",0.0,1.0
+"Waikoloa Village [Urban Area], HI, USA",0.0,1.0
+"Senatobia [Urban Area], MS, USA",1.0,1.0
+"Canton [Urban Area], NY, USA",0.0,1.0
+"Buckeye North [Urban Area], AZ, USA",0.0,1.0
+"New Roads [Urban Area], LA, USA",1.0,1.0
+"Thurmont [Urban Area], MD, USA",0.0,1.0
+"LaFayette [Urban Area], GA, USA",0.0,1.0
+"Galax [Urban Area], VA, USA",1.0,1.0
+"Ocean Shores [Urban Area], WA, USA",0.0,1.0
+"Greenville [Urban Area], IL, USA",1.0,1.0
+"New Albany [Urban Area], MS, USA",1.0,1.0
+"Jackson [Urban Area], OH, USA",1.0,1.0
+"Cherryville [Urban Area], NC, USA",0.0,1.0
+"Heber Springs [Urban Area], AR, USA",1.0,1.0
+"Needles [Urban Area], CA-AZ, USA",1.0,1.0
+"Ellijay [Urban Area], GA, USA",1.0,1.0
+"Oronoko-Berrien Springs [Urban Area], MI, USA",1.0,1.0
+"Kosciusko [Urban Area], MS, USA",1.0,1.0
+"Mount Vernon [Urban Area], IN, USA",0.0,1.0
+"Crystal City [Urban Area], TX, USA",0.0,1.0
+"Oakdale [Urban Area], LA, USA",1.0,1.0
+"Anaconda-Deer Lodge County [Urban Area], MT, USA",1.0,1.0
+"Bonne Terre [Urban Area], MO, USA",1.0,1.0
+"Charlestown [Urban Area], IN, USA",1.0,1.0
+"Watford City [Urban Area], ND, USA",1.0,1.0
+"Pahokee [Urban Area], FL, USA",0.4878048780487805,1.0
+"Marksville [Urban Area], LA, USA",0.9461239149955103,1.0
+"Monticello [Urban Area], KY, USA",1.0,1.0
+"Glendive [Urban Area], MT, USA",1.0,1.0
+"Lampasas [Urban Area], TX, USA",1.0,1.0
+"Woodmont [Urban Area], GA, USA",0.0,1.0
+"Ashville [Urban Area], OH, USA",0.0,1.0
+"Live Oak [Urban Area], FL, USA",1.0,1.0
+"Osage Beach [Urban Area], MO, USA",1.0,1.0
+"Willard [Urban Area], OH, USA",1.0,1.0
+"Harrisburg [Urban Area], SD, USA",1.0,1.0
+"Mexia [Urban Area], TX, USA",1.0,1.0
+"Franklin [Urban Area], NH, USA",1.0,1.0
+"Plattsmouth [Urban Area], NE, USA",0.0,1.0
+"Jordan [Urban Area], MN, USA",0.0,1.0
+"Russellville [Urban Area], KY, USA",1.0,1.0
+"Stewartville [Urban Area], MN, USA",0.0,1.0
+"Upper Sandusky [Urban Area], OH, USA",1.0,1.0
+"Isanti [Urban Area], MN, USA",0.9450234103609727,1.0
+"Salem [Urban Area], IN, USA",1.0,1.0
+"Hillsboro [Urban Area], OH, USA",1.0,1.0
+"Bealeton [Urban Area], VA, USA",0.0,1.0
+"Atlantic [Urban Area], IA, USA",1.0,1.0
+"Abilene [Urban Area], KS, USA",1.0,1.0
+"Newton Falls [Urban Area], OH, USA",0.0,1.0
+"Buena Vista [Urban Area], VA, USA",0.8821747690443738,1.0
+"Cushing [Urban Area], OK, USA",1.0,1.0
+"Pratt [Urban Area], KS, USA",1.0,1.0
+"Columbia Falls [Urban Area], MT, USA",0.3247837304598573,1.0
+"Prosser [Urban Area], WA, USA",1.0,1.0
+"Oelwein [Urban Area], IA, USA",1.0,1.0
+"Laughlin [Urban Area], NV, USA",1.0,1.0
+"International Falls [Urban Area], MN, USA",0.996958174904943,1.0
+"Litchfield [Urban Area], MN, USA",1.0,1.0
+"Lemoore Station [Urban Area], CA, USA",1.0,1.0
+"Clyde [Urban Area], OH, USA",1.0,1.0
+"Valley City [Urban Area], ND, USA",1.0,1.0
+"Lake Delton [Urban Area], WI, USA",0.04552398411243507,1.0
+"Walnut Ridge [Urban Area], AR, USA",1.0,1.0
+"Rupert [Urban Area], ID, USA",1.0,1.0
+"Perry [Urban Area], FL, USA",1.0,1.0
+"Vieques (Vieques Municipio) [Urban Area], PR, USA",1.0,1.0
+"Schuyler [Urban Area], NE, USA",1.0,1.0
+"Sidney [Urban Area], MT, USA",1.0,1.0
+"North East [Urban Area], PA, USA",0.0,1.0
+"Cresson [Urban Area], PA, USA",0.0,1.0
+"Mount Vernon [Urban Area], IA, USA",0.0,1.0
+"Dahlonega [Urban Area], GA, USA",1.0,1.0
+"Boonville [Urban Area], IN, USA",1.0,1.0
+"Douglas [Urban Area], WY, USA",1.0,1.0
+"Leitchfield [Urban Area], KY, USA",1.0,1.0
+"Wetumpka [Urban Area], AL, USA",1.0,1.0
+"Starke [Urban Area], FL, USA",1.0,1.0
+"Decatur [Urban Area], TX, USA",1.0,1.0
+"Powell [Urban Area], WY, USA",1.0,1.0
+"Clinton [Urban Area], IN, USA",1.0,1.0
+"Rushville [Urban Area], IN, USA",1.0,1.0
+"Sweetwater [Urban Area], TN, USA",1.0,1.0
+"Sheridan [Urban Area], OR, USA",0.0,1.0
+"Iowa Park [Urban Area], TX, USA",0.0,1.0
+"Chardon [Urban Area], OH, USA",1.0,1.0
+"Russells Point [Urban Area], OH, USA",0.0,1.0
+"Littlestown [Urban Area], PA, USA",0.0665942253958398,1.0
+"Montevallo [Urban Area], AL, USA",0.0,1.0
+"Booneville [Urban Area], MS, USA",1.0,1.0
+"Torrington [Urban Area], WY, USA",1.0,1.0
+"Geneseo [Urban Area], IL, USA",1.0,1.0
+"Clanton [Urban Area], AL, USA",0.9998443095126888,1.0
+"Milton [Urban Area], VT, USA",0.0,1.0
+"Severance [Urban Area], CO, USA",0.0,1.0
+"Princess Anne [Urban Area], MD, USA",0.0,1.0
+"Eudora [Urban Area], KS, USA",0.0,1.0
+"St. Martinville [Urban Area], LA, USA",0.0,1.0
+"Elburn [Urban Area], IL, USA",0.5213448006254887,1.0
+"Cynthiana [Urban Area], KY, USA",1.0,1.0
+"Andalusia [Urban Area], AL, USA",1.0,1.0
+"Atmore [Urban Area], AL, USA",1.0,1.0
+"Wilmington [Urban Area], IL, USA",0.0,1.0
+"Liberty [Urban Area], TX, USA",1.0,1.0
+"Sealy [Urban Area], TX, USA",0.0,1.0
+"Jasper [Urban Area], GA, USA",1.0,1.0
+"Clifton Springs [Urban Area], NY, USA",1.0,1.0
+"Kermit [Urban Area], TX, USA",1.0,1.0
+"Chelan [Urban Area], WA, USA",0.6648902821316615,1.0
+"Salamanca [Urban Area], NY, USA",0.0,1.0
+"Brookville [Urban Area], OH, USA",0.0,1.0
+"Brewton [Urban Area], AL, USA",1.0,1.0
+"North Branch [Urban Area], MN, USA",0.0,1.0
+"Williamsburg [Urban Area], KY, USA",0.0,1.0
+"Portland [Urban Area], IN, USA",1.0,1.0
+"Zimmerman [Urban Area], MN, USA",0.0,1.0
+"South Haven [Urban Area], MI, USA",0.9806512505899009,1.0
+"Lexington [Urban Area], TN, USA",1.0,1.0
+"Litchfield [Urban Area], IL, USA",1.0,1.0
+"Granite Falls [Urban Area], WA, USA",0.0,1.0
+"Ketchum [Urban Area], ID, USA",1.0,1.0
+"Byron [Urban Area], MN, USA",0.0,1.0
+"Morrilton [Urban Area], AR, USA",1.0,1.0
+"Chester [Urban Area], IL, USA",1.0,1.0
+"Bath [Urban Area], NY, USA",1.0,1.0
+"Nephi [Urban Area], UT, USA",1.0,1.0
+"Carthage [Urban Area], TX, USA",1.0,1.0
+"Keyser [Urban Area], WV-MD, USA",1.0,1.0
+"Evansville [Urban Area], WI, USA",0.0,1.0
+"Roosevelt [Urban Area], UT, USA",1.0,1.0
+"Floresville [Urban Area], TX, USA",1.0,1.0
+"Swatara [Urban Area], PA, USA",0.29958808618504434,1.0
+"Battlement Mesa [Urban Area], CO, USA",0.0,1.0
+"St. Clair [Urban Area], MO, USA",0.0,1.0
+"Alpine [Urban Area], TX, USA",1.0,1.0
+"Seminole [Urban Area], OK, USA",1.0,1.0
+"Medina [Urban Area], NY, USA",1.0,1.0
+"Batesville [Urban Area], MS, USA",1.0,1.0
+"Prestonsburg [Urban Area], KY, USA",1.0,1.0
+"Beardstown [Urban Area], IL, USA",0.0,1.0
+"Dayton Northeast [Urban Area], NV, USA",1.0,1.0
+"Osceola [Urban Area], AR, USA",1.0,1.0
+"Roaring Spring [Urban Area], PA, USA",1.0,1.0
+"Columbia [Urban Area], MS, USA",1.0,1.0
+"Sidney [Urban Area], NE, USA",1.0,1.0
+"Holtville [Urban Area], CA, USA",0.0,1.0
+"Demopolis [Urban Area], AL, USA",1.0,1.0
+"Corry [Urban Area], PA, USA",1.0,1.0
+"Eastman [Urban Area], GA, USA",1.0,1.0
+"Lebanon [Urban Area], KY, USA",1.0,1.0
+"Henryetta [Urban Area], OK, USA",1.0,1.0
+"Punxsutawney [Urban Area], PA, USA",1.0,1.0
+"Shiprock [Urban Area], NM, USA",1.0,1.0
+"Delano [Urban Area], MN, USA",0.0,1.0
+"Lafayette [Urban Area], TN, USA",1.0,1.0
+"Madison [Urban Area], SD, USA",1.0,1.0
+"Tillamook [Urban Area], OR, USA",1.0,1.0
+"Plymouth [Urban Area], NH, USA",1.0,1.0
+"Mount Plymouth [Urban Area], FL, USA",0.0,1.0
+"Cochran [Urban Area], GA, USA",1.0,1.0
+"St. Francis [Urban Area], MN, USA",0.0,1.0
+"Blairsville [Urban Area], PA, USA",0.9189408706952567,1.0
+"Middlebury [Urban Area], VT, USA",1.0,1.0
+"Rogersville [Urban Area], TN, USA",1.0,1.0
+"Harlan [Urban Area], KY, USA",1.0,1.0
+"Sylvester [Urban Area], GA, USA",1.0,1.0
+"Alexandria [Urban Area], IN, USA",0.04006514657980456,1.0
+"Minster-New Bremen [Urban Area], OH, USA",0.0,1.0
+"Creswell [Urban Area], OR, USA",0.0,1.0
+"Hartford City [Urban Area], IN, USA",1.0,1.0
+"Robinson [Urban Area], IL, USA",1.0,1.0
+"Huron [Urban Area], CA, USA",0.0,1.0
+"Village of Oak Creek (Big Park) [Urban Area], AZ, USA",0.0,1.0
+"Gustine [Urban Area], CA, USA",0.0,1.0
+"Kaufman [Urban Area], TX, USA",1.0,1.0
+"Prairie du Chien [Urban Area], WI-IA, USA",1.0,1.0
+"Huntingburg [Urban Area], IN, USA",0.302272355729933,1.0
+"Pepperell [Urban Area], MA, USA",0.422087497951827,1.0
+"Waynesboro [Urban Area], GA, USA",1.0,1.0
+"Maquoketa [Urban Area], IA, USA",1.0,1.0
+"Leonardtown [Urban Area], MD, USA",1.0,1.0
+"St. Helena [Urban Area], CA, USA",1.0,1.0
+"Vail [Urban Area], CO, USA",1.0,1.0
+"Madisonville [Urban Area], TN, USA",0.0,1.0
+"Manteo [Urban Area], NC, USA",0.9469522240527183,1.0
+"Anna [Urban Area], IL, USA",1.0,1.0
+"Princeton [Urban Area], KY, USA",1.0,1.0
+"Independence [Urban Area], IA, USA",1.0,1.0
+"Richmond [Urban Area], MI, USA",0.0,1.0
+"Pea Ridge [Urban Area], AR, USA",0.0,1.0
+"Lewistown [Urban Area], MT, USA",1.0,1.0
+"Blackwell [Urban Area], OK, USA",1.0,1.0
+"Hondo [Urban Area], TX, USA",1.0,1.0
+"Barbourville [Urban Area], KY, USA",1.0,1.0
+"Monticello [Urban Area], IL, USA",1.0,1.0
+"Wayne [Urban Area], NE, USA",1.0,1.0
+"Amory [Urban Area], MS, USA",1.0,1.0
+"Mocksville [Urban Area], NC, USA",1.0,1.0
+"Hartwell [Urban Area], GA, USA",1.0,1.0
+"Salida [Urban Area], CO, USA",1.0,1.0
+"Newport [Urban Area], AR, USA",1.0,1.0
+"Crockett [Urban Area], TX, USA",1.0,1.0
+"Du Quoin [Urban Area], IL, USA",1.0,1.0
+"Springhill [Urban Area], LA, USA",0.8850109593660428,1.0
+"Salem [Urban Area], NJ, USA",1.0,1.0
+"Metropolis [Urban Area], IL, USA",1.0,1.0
+"Edna [Urban Area], TX, USA",1.0,1.0
+"Silver Lakes [Urban Area], CA, USA",0.0,1.0
+"Henderson [Urban Area], TN, USA",0.0,1.0
+"Chester [Urban Area], NY, USA",0.4428813559322034,1.0
+"Union Grove [Urban Area], WI, USA",0.1968130191557891,1.0
+"Dowagiac [Urban Area], MI, USA",1.0,1.0
+"De Queen [Urban Area], AR, USA",1.0,1.0
+"West Columbia [Urban Area], TX, USA",0.03549592391304348,1.0
+"Krum [Urban Area], TX, USA",1.0,1.0
+"Ulysses [Urban Area], KS, USA",1.0,1.0
+"Richmond [Urban Area], MO, USA",1.0,1.0
+"Woodstock [Urban Area], VA, USA",1.0,1.0
+"Chelsea [Urban Area], MI, USA",1.0,1.0
+"Camdenton [Urban Area], MO, USA",0.017609847837237135,1.0
+"Iola [Urban Area], KS, USA",1.0,1.0
+"New Castle [Urban Area], CO, USA",0.0,1.0
+"Colorado City [Urban Area], TX, USA",1.0,1.0
+"Greenville [Urban Area], AL, USA",1.0,1.0
+"Eaton [Urban Area], CO, USA",0.0,1.0
+"Middleport [Urban Area], OH-WV, USA",0.0,1.0
+"Adairsville [Urban Area], GA, USA",0.0,1.0
+"Rising Sun [Urban Area], MD, USA",0.0,1.0
+"Estherville [Urban Area], IA, USA",1.0,1.0
+"Central City [Urban Area], KY, USA",0.0,1.0
+"Camp Verde [Urban Area], AZ, USA",0.0,1.0
+"McHenry Northwest-Wonder Lake [Urban Area], IL, USA",0.7063216394581452,1.0
+"Freeland [Urban Area], PA, USA",0.7982273201251303,1.0
+"Glencoe [Urban Area], MN, USA",1.0,1.0
+"Kirtland [Urban Area], NM, USA",0.21352623322293882,1.0
+"Edinboro [Urban Area], PA, USA",0.0,1.0
+"Wilmore [Urban Area], KY, USA",0.0,1.0
+"Kekaha [Urban Area], HI, USA",0.0,1.0
+"Mattawan [Urban Area], MI, USA",0.7706694633805279,1.0
+"Paintsville [Urban Area], KY, USA",1.0,1.0
+"Chapin [Urban Area], SC, USA",0.0,1.0
+"Elberton [Urban Area], GA, USA",1.0,1.0
+"Hampshire [Urban Area], IL, USA",0.0,1.0
+"Mineola [Urban Area], TX, USA",0.0,1.0
+"Provincetown [Urban Area], MA, USA",0.0,1.0
+"Jackson [Urban Area], GA, USA",1.0,1.0
+"Corydon [Urban Area], IN, USA",1.0,1.0
+"Pembroke [Urban Area], NC, USA",0.0,1.0
+"Sparta [Urban Area], TN, USA",1.0,1.0
+"Poolesville [Urban Area], MD, USA",0.7155672823218997,1.0
+"Slaton [Urban Area], TX, USA",0.0,1.0
+"Adel [Urban Area], IA, USA",0.0,1.0
+"Potala Pastillo [Urban Area], PR, USA",1.0,1.0
+"Tipton [Urban Area], IN, USA",1.0,1.0
+"Sultan [Urban Area], WA, USA",0.0,1.0
+"Paw Paw [Urban Area], MI, USA",1.0,1.0
+"Clarion [Urban Area], PA, USA",1.0,1.0
+"Ware [Urban Area], MA, USA",1.0,1.0
+"Portage [Urban Area], PA, USA",0.0,1.0
+"Sinton [Urban Area], TX, USA",0.0,1.0
+"Beaver Dam [Urban Area], KY, USA",1.0,1.0
+"Wellston [Urban Area], OH, USA",0.03607427055702918,1.0
+"Buchanan [Urban Area], MI, USA",0.9796099290780141,1.0
+"Pagosa Springs [Urban Area], CO, USA",1.0,1.0
+"Sparta [Urban Area], MI, USA",0.0,1.0
+"Raton [Urban Area], NM, USA",1.0,1.0
+"Littlefield [Urban Area], TX, USA",1.0,1.0
+"Byron [Urban Area], IL, USA",0.0,1.0
+"Oneonta [Urban Area], AL, USA",1.0,1.0
+"Canastota [Urban Area], NY, USA",1.0,1.0
+"Carrizo Springs [Urban Area], TX, USA",1.0,1.0
+"Belding [Urban Area], MI, USA",0.8444127606487257,1.0
+"Pauls Valley [Urban Area], OK, USA",1.0,1.0
+"New Martinsville [Urban Area], WV-OH, USA",1.0,1.0
+"Carlinville [Urban Area], IL, USA",1.0,1.0
+"Mansfield [Urban Area], LA, USA",1.0,1.0
+"Weiser [Urban Area], ID-OR, USA",1.0,1.0
+"Yoakum [Urban Area], TX, USA",1.0,1.0
+"Tea [Urban Area], SD, USA",1.0,1.0
+"Livingston [Urban Area], TX, USA",1.0,1.0
+"Benton [Urban Area], LA, USA",0.12466463959935611,1.0
+"Rumford [Urban Area], ME, USA",1.0,1.0
+"South Berwick [Urban Area], ME-NH, USA",1.0,1.0
+"Horseshoe Bay [Urban Area], TX, USA",0.8670965430771986,1.0
+"Germantown [Urban Area], OH, USA",0.44862829478214095,1.0
+"Whiteman AFB-Knob Noster [Urban Area], MO, USA",0.0,1.0
+"Brush [Urban Area], CO, USA",1.0,1.0
+"Polson [Urban Area], MT, USA",1.0,1.0
+"Peculiar [Urban Area], MO, USA",0.6694823867721064,1.0
+"Marianna [Urban Area], FL, USA",1.0,1.0
+"Holly Springs [Urban Area], MS, USA",1.0,1.0
+"Williams [Urban Area], CA, USA",0.0,1.0
+"West Salem [Urban Area], WI, USA",0.0,1.0
+"Indian Head [Urban Area], MD, USA",0.0,1.0
+"Paola [Urban Area], KS, USA",1.0,1.0
+"Montrose [Urban Area], MN, USA",0.0,1.0
+"Mena [Urban Area], AR, USA",1.0,1.0
+"Atlanta [Urban Area], TX, USA",1.0,1.0
+"Odessa [Urban Area], MO, USA",0.0,1.0
+"Idabel [Urban Area], OK, USA",1.0,1.0
+"Williamston [Urban Area], NC, USA",1.0,1.0
+"Red Oak [Urban Area], IA, USA",1.0,1.0
+"Greenville [Urban Area], KY, USA",1.0,1.0
+"Colchester [Urban Area], CT, USA",0.0,1.0
+"Rensselaer [Urban Area], IN, USA",1.0,1.0
+"New Carlisle [Urban Area], OH, USA",0.0,1.0
+"Prairie Grove [Urban Area], AR, USA",0.0,1.0
+"Indiantown [Urban Area], FL, USA",0.0,1.0
+"Tonganoxie [Urban Area], KS, USA",0.0,1.0
+"Genoa [Urban Area], IL, USA",0.049598832968636035,1.0
+"Cambria [Urban Area], CA, USA",0.0,1.0
+"Carrollton [Urban Area], KY, USA",1.0,1.0
+"Colby [Urban Area], KS, USA",1.0,1.0
+"Rockdale [Urban Area], TX, USA",1.0,1.0
+"Clearlake Riviera [Urban Area], CA, USA",0.4222669840688519,1.0
+"Breckenridge [Urban Area], TX, USA",1.0,1.0
+"Holdrege [Urban Area], NE, USA",1.0,1.0
+"Johnstown [Urban Area], OH, USA",0.07561020370710222,1.0
+"Collins [Urban Area], NY, USA",1.0,1.0
+"Algona [Urban Area], IA, USA",1.0,1.0
+"Connell [Urban Area], WA, USA",0.0,1.0
+"Trenton [Urban Area], MO, USA",1.0,1.0
+"Bowie [Urban Area], TX, USA",1.0,1.0
+"Grayson [Urban Area], KY, USA",0.0,1.0
+"Ottawa [Urban Area], OH, USA",0.0,1.0
+"Rocky Mount [Urban Area], VA, USA",1.0,1.0
+"Anamosa [Urban Area], IA, USA",1.0,1.0
+"Ocean Park [Urban Area], WA, USA",0.006653114026982074,1.0
+"Honesdale [Urban Area], PA, USA",1.0,1.0
+"Eureka [Urban Area], IL, USA",1.0,1.0
+"Marlin [Urban Area], TX, USA",1.0,1.0
+"Waldport [Urban Area], OR, USA",0.0,1.0
+"Walhalla [Urban Area], SC, USA",0.28597922848664686,1.0
+"Luling [Urban Area], TX, USA",1.0,1.0
+"Montevideo [Urban Area], MN, USA",1.0,1.0
+"Coxsackie [Urban Area], NY, USA",0.0,1.0
+"Caro [Urban Area], MI, USA",1.0,1.0
+"Sheldon [Urban Area], IA, USA",1.0,1.0
+"Polk City [Urban Area], IA, USA",0.0,1.0
+"New Tazewell-Tazewell [Urban Area], TN, USA",1.0,1.0
+"Port Hadlock-Irondale [Urban Area], WA, USA",1.0,1.0
+"Wales [Urban Area], WI, USA",1.0,1.0
+"Presque Isle [Urban Area], ME, USA",1.0,1.0
+"McKenzie [Urban Area], TN, USA",1.0,1.0
+"Macon [Urban Area], MO, USA",1.0,1.0
+"Baxley [Urban Area], GA, USA",1.0,1.0
+"Ada [Urban Area], OH, USA",0.0,1.0
+"Snowflake [Urban Area], AZ, USA",0.0,1.0
+"Humboldt [Urban Area], IA, USA",1.0,1.0
+"Wellsville [Urban Area], NY, USA",1.0,1.0
+"Parker [Urban Area], AZ-CA, USA",1.0,1.0
+"Summerset [Urban Area], SD, USA",0.0,1.0
+"Jeanerette [Urban Area], LA, USA",0.015211267605633802,1.0
+"Opp [Urban Area], AL, USA",1.0,1.0
+"Caruthersville [Urban Area], MO, USA",0.8116187253243091,1.0
+"Running Springs [Urban Area], CA, USA",0.922266139657444,1.0
+"East Troy [Urban Area], WI, USA",0.0,1.0
+"Pana [Urban Area], IL, USA",1.0,1.0
+"Belton [Urban Area], SC, USA",0.8594604791548764,1.0
+"Linton [Urban Area], IN, USA",1.0,1.0
+"Leisuretowne [Urban Area], NJ, USA",0.5757461276917265,1.0
+"Berlin [Urban Area], WI, USA",1.0,1.0
+"Dexter [Urban Area], MI, USA",0.11769157994323558,1.0
+"Liberty [Urban Area], NY, USA",0.3243754731264194,1.0
+"Osceola [Urban Area], IA, USA",1.0,1.0
+"Bolivar [Urban Area], TN, USA",1.0,1.0
+"Warren [Urban Area], AR, USA",1.0,1.0
+"Canajoharie-Fort Plain [Urban Area], NY, USA",0.0,1.0
+"Conway [Urban Area], NH, USA",0.9305766312594841,1.0
+"Camilla [Urban Area], GA, USA",1.0,1.0
+"Centerville [Urban Area], IA, USA",1.0,1.0
+"Johnson Lane [Urban Area], NV, USA",0.6262338648443432,1.0
+"Estacada [Urban Area], OR, USA",0.0,1.0
+"Raymond [Urban Area], NH, USA",0.0,1.0
+"Portland [Urban Area], MI, USA",0.0,1.0
+"Tama [Urban Area], IA, USA",0.0,1.0
+"Mathis [Urban Area], TX, USA",0.0,1.0
+"Savannah [Urban Area], MO, USA",0.0,1.0
+"Dundee [Urban Area], MI, USA",0.0,1.0
+"Kingstree [Urban Area], SC, USA",1.0,1.0
+"Jonesboro [Urban Area], LA, USA",1.0,1.0
+"West Wendover [Urban Area], NV-UT, USA",0.0,1.0
+"Titusville [Urban Area], PA, USA",1.0,1.0
+"Tucumcari [Urban Area], NM, USA",1.0,1.0
+"Whiteville [Urban Area], NC, USA",1.0,1.0
+"Clarinda [Urban Area], IA, USA",1.0,1.0
+"Mount Shasta [Urban Area], CA, USA",1.0,1.0
+"Mayville [Urban Area], WI, USA",0.0,1.0
+"Westville [Urban Area], IN, USA",0.0,1.0
+"North Manchester [Urban Area], IN, USA",0.0,1.0
+"Holts Summit [Urban Area], MO, USA",0.5669367283950617,1.0
+"Calistoga [Urban Area], CA, USA",0.2806881886719505,1.0
+"White Rock [Urban Area], NM, USA",0.0,1.0
+"Ferriday [Urban Area], LA, USA",1.0,1.0
+"Fremont [Urban Area], MI, USA",1.0,1.0
+"Saranac Lake [Urban Area], NY, USA",1.0,1.0
+"DeWitt [Urban Area], IA, USA",1.0,1.0
+"Buellton [Urban Area], CA, USA",1.0,1.0
+"Carthage [Urban Area], NY, USA",1.0,1.0
+"Muleshoe [Urban Area], TX, USA",1.0,1.0
+"Cameron [Urban Area], TX, USA",1.0,1.0
+"Alva [Urban Area], OK, USA",1.0,1.0
+"Winnsboro [Urban Area], LA, USA",1.0,1.0
+"Cheboygan [Urban Area], MI, USA",0.0,1.0
+"Belfair [Urban Area], WA, USA",0.0,1.0
+"Springfield [Urban Area], VT, USA",1.0,1.0
+"McGregor [Urban Area], TX, USA",0.0,1.0
+"Clifton Forge [Urban Area], VA, USA",1.0,1.0
+"Center [Urban Area], TX, USA",1.0,1.0
+"Sylva [Urban Area], NC, USA",1.0,1.0
+"Aubrey [Urban Area], TX, USA",0.26309616888193904,1.0
+"Calumet [Urban Area], MI, USA",1.0,1.0
+"Shelley [Urban Area], ID, USA",0.0,1.0
+"Stafford Springs [Urban Area], CT, USA",0.9177599373409047,1.0
+"Kinross [Urban Area], MI, USA",0.0,1.0
+"Cold Spring [Urban Area], MN, USA",0.0,1.0
+"Bethel [Urban Area], AK, USA",1.0,1.0
+"Belle Fourche [Urban Area], SD, USA",0.0,1.0
+"Gilmer [Urban Area], TX, USA",1.0,1.0
+"Union City [Urban Area], IN-OH, USA",0.0,1.0
+"Winterset [Urban Area], IA, USA",1.0,1.0
+"Eaton Rapids [Urban Area], MI, USA",1.0,1.0
+"South Hill [Urban Area], VA, USA",1.0,1.0
+"Pickens [Urban Area], SC, USA",1.0,1.0
+"Vinita [Urban Area], OK, USA",1.0,1.0
+"Carmi [Urban Area], IL, USA",0.0,1.0
+"Iowa Falls [Urban Area], IA, USA",1.0,1.0
+"Colville [Urban Area], WA, USA",1.0,1.0
+"Berryville [Urban Area], AR, USA",1.0,1.0
+"Crystal Springs [Urban Area], MS, USA",0.019181332806011468,1.0
+"Durand [Urban Area], MI, USA",0.0,1.0
+"Chittenango [Urban Area], NY, USA",0.0,1.0
+"Ephraim [Urban Area], UT, USA",0.0,1.0
+"Sunderland-South Deerfield [Urban Area], MA, USA",0.0,1.0
+"Frankenmuth [Urban Area], MI, USA",0.0,1.0
+"Cobleskill [Urban Area], NY, USA",0.9926587301587302,1.0
+"Buena Vista [Urban Area], CO, USA",0.0,1.0
+"Gillespie [Urban Area], IL, USA",0.3184435179670439,1.0
+"Alvarado [Urban Area], TX, USA",0.0,1.0
+"Elkton [Urban Area], VA, USA",0.007750397456279809,1.0
+"Concordia [Urban Area], KS, USA",1.0,1.0
+"Morris [Urban Area], MN, USA",1.0,1.0
+"La Grange [Urban Area], TX, USA",1.0,1.0
+"Columbia [Urban Area], KY, USA",1.0,1.0
+"Denton [Urban Area], MD, USA",0.0,1.0
+"Glenwood [Urban Area], IA, USA",1.0,1.0
+"Anadarko [Urban Area], OK, USA",1.0,1.0
+"Burnet [Urban Area], TX, USA",1.0,1.0
+"Hugo [Urban Area], OK, USA",1.0,1.0
+"Batesburg-Leesville [Urban Area], SC, USA",0.0,1.0
+"Ste. Genevieve [Urban Area], MO, USA",1.0,1.0
+"Fredericktown [Urban Area], MO, USA",1.0,1.0
+"Bayard [Urban Area], NM, USA",0.0735678391959799,1.0
+"Waverly [Urban Area], OH, USA",1.0,1.0
+"Governors Club [Urban Area], NC, USA",1.0,1.0
+"Wayland [Urban Area], MI, USA",0.0,1.0
+"Princeton [Urban Area], MN, USA",1.0,1.0
+"Scott City [Urban Area], MO, USA",0.1957971307334815,1.0
+"Harrington [Urban Area], DE, USA",0.1495043495852721,1.0
+"Tuscola [Urban Area], IL, USA",0.0,1.0
+"Abbeville [Urban Area], SC, USA",1.0,1.0
+"Chadron [Urban Area], NE, USA",1.0,1.0
+"Richland Center [Urban Area], WI, USA",1.0,1.0
+"Mullins [Urban Area], SC, USA",0.9776604386677498,1.0
+"Hazlehurst [Urban Area], GA, USA",1.0,1.0
+"Manchester [Urban Area], IA, USA",1.0,1.0
+"Lake City [Urban Area], MN, USA",1.0,1.0
+"Wadesboro [Urban Area], NC, USA",1.0,1.0
+"Wamego [Urban Area], KS, USA",1.0,1.0
+"Dodgeville [Urban Area], WI, USA",1.0,1.0
+"Hempstead [Urban Area], TX, USA",0.0,1.0
+"Worland [Urban Area], WY, USA",1.0,1.0
+"Brady [Urban Area], TX, USA",1.0,1.0
+"Hidden Meadows [Urban Area], CA, USA",0.003480753480753481,1.0
+"St. Johnsbury [Urban Area], VT, USA",1.0,1.0
+"Ebensburg [Urban Area], PA, USA",0.0,1.0
+"Sullivan [Urban Area], IN, USA",1.0,1.0
+"Fort Meade [Urban Area], FL, USA",0.0,1.0
+"Shenandoah [Urban Area], IA, USA",1.0,1.0
+"Shelbyville [Urban Area], IL, USA",1.0,1.0
+"Conesus Lake [Urban Area], NY, USA",0.0,1.0
+"Staunton [Urban Area], IL, USA",1.0,1.0
+"Winchendon [Urban Area], MA, USA",0.036374845869297165,1.0
+"Ahoskie [Urban Area], NC, USA",1.0,1.0
+"Wind Lake [Urban Area], WI, USA",0.5135914332784185,1.0
+"Forsyth [Urban Area], GA, USA",1.0,1.0
+"Williamston [Urban Area], MI, USA",0.0,1.0
+"Sauk Centre [Urban Area], MN, USA",1.0,1.0
+"Sulphur [Urban Area], OK, USA",1.0,1.0
+"East Tawas [Urban Area], MI, USA",1.0,1.0
+"Nashville [Urban Area], GA, USA",1.0,1.0
+"Smithville [Urban Area], TN, USA",1.0,1.0
+"Grafton [Urban Area], WV, USA",1.0,1.0
+"Hoopeston [Urban Area], IL, USA",1.0,1.0
+"Luverne [Urban Area], MN, USA",1.0,1.0
+"Dansville [Urban Area], NY, USA",1.0,1.0
+"Orange [Urban Area], VA, USA",0.0,1.0
+"Wickenburg [Urban Area], AZ, USA",1.0,1.0
+"Winchester [Urban Area], IN, USA",1.0,1.0
+"Skowhegan [Urban Area], ME, USA",1.0,1.0
+"Flora [Urban Area], IL, USA",1.0,1.0
+"Wellington [Urban Area], OH, USA",0.0,1.0
+"Wahoo [Urban Area], NE, USA",1.0,1.0
+"Vinton [Urban Area], IA, USA",1.0,1.0
+"Greenfield [Urban Area], OH, USA",1.0,1.0
+"Fairfield [Urban Area], IL, USA",1.0,1.0
+"Luray [Urban Area], VA, USA",1.0,1.0
+"Ashburn [Urban Area], GA, USA",0.0,1.0
+"Ogallala [Urban Area], NE, USA",1.0,1.0
+"Harlan [Urban Area], IA, USA",1.0,1.0
+"Sheridan [Urban Area], AR, USA",0.0,1.0
+"Winnsboro [Urban Area], SC, USA",1.0,1.0
+"Nelsonville [Urban Area], OH, USA",1.0,1.0
+"Madison [Urban Area], GA, USA",1.0,1.0
+"Jewett City [Urban Area], CT, USA",0.0,1.0
+"Collinsville [Urban Area], OK, USA",1.0,1.0
+"Cherokee [Urban Area], IA, USA",1.0,1.0
+"Benton [Urban Area], KY, USA",1.0,1.0
+"South Pittsburg-Bridgeport [Urban Area], TN-AL, USA",0.4151909537017282,1.0
+"Salem [Urban Area], MO, USA",1.0,1.0
+"Treasure Lake [Urban Area], PA, USA",1.0,1.0
+"Ione [Urban Area], CA, USA",0.0,1.0
+"Winnfield [Urban Area], LA, USA",1.0,1.0
+"Watseka [Urban Area], IL, USA",1.0,1.0
+"Rainbow Springs [Urban Area], FL, USA",0.0,1.0
+"Tazewell [Urban Area], VA, USA",1.0,1.0
+"Marseilles [Urban Area], IL, USA",0.28240343347639485,1.0
+"Camden [Urban Area], ME, USA",0.9873390557939914,1.0
+"Kaplan [Urban Area], LA, USA",1.0,1.0
+"West Milton [Urban Area], OH, USA",0.0,1.0
+"Soldotna [Urban Area], AK, USA",1.0,1.0
+"Le Roy [Urban Area], NY, USA",0.0,1.0
+"Brookville [Urban Area], PA, USA",1.0,1.0
+"Bisbee [Urban Area], AZ, USA",1.0,1.0
+"Breese [Urban Area], IL, USA",1.0,1.0
+"Scottsville [Urban Area], KY, USA",1.0,1.0
+"East Palestine [Urban Area], OH, USA",0.0,1.0
+"Lawrenceville [Urban Area], IL, USA",1.0,1.0
+"Mayodan [Urban Area], NC, USA",0.0,1.0
+"Redwood Falls [Urban Area], MN, USA",1.0,1.0
+"New Lexington [Urban Area], OH, USA",0.0,1.0
+"Little Falls [Urban Area], NY, USA",1.0,1.0
+"Altavista [Urban Area], VA, USA",0.0,1.0
+"Crestline [Urban Area], OH, USA",1.0,1.0
+"Telluride-Mountain Village [Urban Area], CO, USA",0.0,1.0
+"Chisholm [Urban Area], MN, USA",0.5294374182293938,1.0
+"Louisa [Urban Area], KY-WV, USA",1.0,1.0
+"Higginsville [Urban Area], MO, USA",0.0,1.0
+"Mountain Lake Park [Urban Area], MD, USA",1.0,1.0
+"Leadville [Urban Area], CO, USA",1.0,1.0
+"Clintonville [Urban Area], WI, USA",0.0,1.0
+"Paxton [Urban Area], IL, USA",0.0,1.0
+"Manning [Urban Area], SC, USA",1.0,1.0
+"Landrum-Tryon [Urban Area], SC-NC, USA",1.0,1.0
+"Childress [Urban Area], TX, USA",1.0,1.0
+"Buffalo [Urban Area], WY, USA",1.0,1.0
+"Eldon [Urban Area], MO, USA",0.0,1.0
+"Etowah [Urban Area], TN, USA",1.0,1.0
+"Reedsport [Urban Area], OR, USA",1.0,1.0
+"New Boston [Urban Area], TX, USA",0.0,1.0
+"Falfurrias [Urban Area], TX, USA",0.0,1.0
+"Palmyra [Urban Area], NY, USA",0.13267813267813267,1.0
+"Kimberling City [Urban Area], MO, USA",0.0,1.0
+"Ely [Urban Area], NV, USA",1.0,1.0
+"Perry [Urban Area], OK, USA",1.0,1.0
+"Goodland [Urban Area], KS, USA",1.0,1.0
+"Weston [Urban Area], WV, USA",1.0,1.0
+"Dillon [Urban Area], MT, USA",1.0,1.0
+"Black River Falls [Urban Area], WI, USA",1.0,1.0
+"Sullivan [Urban Area], IL, USA",0.0,1.0
+"Bedford [Urban Area], PA, USA",0.9981785063752276,1.0
+"Farmville [Urban Area], NC, USA",0.0,1.0
+"Millersburg [Urban Area], PA, USA",0.0,1.0
+"Coquille [Urban Area], OR, USA",1.0,1.0
+"South Paris [Urban Area], ME, USA",1.0,1.0
+"Joshua Tree [Urban Area], CA, USA",1.0,1.0
+"Owego [Urban Area], NY, USA",0.0,1.0
+"Shinnston [Urban Area], WV, USA",0.6365512497133685,1.0
+"Charlestown [Urban Area], RI, USA",0.12603495860165592,1.0
+"Libby [Urban Area], MT, USA",1.0,1.0
+"Edenton [Urban Area], NC, USA",1.0,1.0
+"Dumas [Urban Area], AR, USA",1.0,1.0
+"Monroeville [Urban Area], AL, USA",1.0,1.0
+"Houlton [Urban Area], ME, USA",1.0,1.0
+"Panther Valley [Urban Area], NJ, USA",1.0,1.0
+"Holdenville [Urban Area], OK, USA",1.0,1.0
+"Horse Cave [Urban Area], KY, USA",1.0,1.0
+"Lake of the Pines [Urban Area], CA, USA",0.14503637643745598,1.0
+"Ridgway [Urban Area], PA, USA",0.0,1.0
+"Fulton [Urban Area], KY-TN, USA",1.0,1.0
+"Ashland [Urban Area], PA, USA",0.0,1.0
+"Sidney [Urban Area], NY, USA",1.0,1.0
+"Mountain Grove [Urban Area], MO, USA",0.0,1.0
+"Glenwood [Urban Area], MN, USA",0.6761066158971918,1.0
+"Burnt Store Marina [Urban Area], FL, USA",0.0,1.0
+"Burns [Urban Area], OR, USA",1.0,1.0
+"Falls City [Urban Area], NE, USA",1.0,1.0
+"Clay Center [Urban Area], KS, USA",1.0,1.0
+"Lead [Urban Area], SD, USA",1.0,1.0
+"Tiltonsville-Brilliant [Urban Area], OH, USA",0.7905224787363305,1.0
+"Medford [Urban Area], WI, USA",1.0,1.0
+"Wadena [Urban Area], MN, USA",1.0,1.0
+"Bandon [Urban Area], OR, USA",1.0,1.0
+"Perry [Urban Area], NY, USA",0.06271519921298574,1.0
+"Russell [Urban Area], KS, USA",1.0,1.0
+"Irvine [Urban Area], KY, USA",1.0,1.0
+"Towanda [Urban Area], PA, USA",1.0,1.0
+"Fairbury [Urban Area], NE, USA",1.0,1.0
+"Boyne City [Urban Area], MI, USA",0.0,1.0
+"Viroqua [Urban Area], WI, USA",1.0,1.0
+"Bellows Falls [Urban Area], VT-NH, USA",0.0,1.0
+"Colonial Beach [Urban Area], VA, USA",0.0,1.0
+"Wrightwood [Urban Area], CA, USA",0.0,1.0
+"Corinth [Urban Area], NY, USA",0.0,1.0
+"Brookfield [Urban Area], MO, USA",1.0,1.0
+"Cle Elum [Urban Area], WA, USA",0.0,1.0
+"Montauk [Urban Area], NY, USA",0.0,1.0
+"Benson [Urban Area], AZ, USA",1.0,1.0
+"Millinocket [Urban Area], ME, USA",1.0,1.0
+"Hayes [Urban Area], MI, USA",0.0,1.0
+"Charlevoix [Urban Area], MI, USA",1.0,1.0
+"Palmyra [Urban Area], PA, USA",0.0,1.0
+"Belfast [Urban Area], ME, USA",1.0,1.0
+"Larned [Urban Area], KS, USA",1.0,1.0
+"Mahanoy City [Urban Area], PA, USA",0.0,1.0
+"Tippecanoe [Urban Area], IN, USA",0.668462159978454,1.0
+"Lake Isabella [Urban Area], CA, USA",1.0,1.0
+"McCall [Urban Area], ID, USA",1.0,1.0
+"Tupper Lake [Urban Area], NY, USA",0.0,1.0
+"Bushnell [Urban Area], FL, USA",0.0,1.0
+"Lake Bryant [Urban Area], FL, USA",0.0,1.0
+"Lincoln Beach [Urban Area], OR, USA",0.012410369553226696,1.0
+"Coleman [Urban Area], TX, USA",1.0,1.0
+"Heber-Overgaard [Urban Area], AZ, USA",0.0,1.0
+"Silver Creek [Urban Area], NY, USA",1.0,1.0
+"Friday Harbor [Urban Area], WA, USA",1.0,1.0
+"Crisfield [Urban Area], MD, USA",1.0,1.0
+"Lake Placid [Urban Area], NY, USA",1.0,1.0
+"Frisco [Urban Area], CO, USA",1.0,1.0
+"St. Ignace [Urban Area], MI, USA",0.7937518079259474,1.0
+"Meredith [Urban Area], NH, USA",0.0,1.0
+"Seabrook Island [Urban Area], SC, USA",0.0,1.0
+"Avalon [Urban Area], CA, USA",1.0,1.0
+"Spicer-New London [Urban Area], MN, USA",0.0,1.0
+"Tybee Island [Urban Area], GA, USA",0.0,1.0
+"Worth-Lexington [Urban Area], MI, USA",0.0,1.0
+"Douglas [Urban Area], MI, USA",0.0,1.0
+"Long Beach [Urban Area], WA, USA",1.0,1.0
+"Sullivan-Sylvan Beach [Urban Area], NY, USA",0.0,1.0
+"Chincoteague [Urban Area], VA, USA",0.0,1.0
+"Fraser [Urban Area], CO, USA",0.0,1.0
+"Boothbay Harbor [Urban Area], ME, USA",1.0,1.0
+"Lake Royale [Urban Area], NC, USA",0.0,1.0
+"Bayside Gardens-Manzanita [Urban Area], OR, USA",0.0,1.0
+"Conneaut Lakeshore [Urban Area], PA, USA",0.0,1.0
+"Rio Verde [Urban Area], AZ, USA",0.0,1.0
+"Frankfort [Urban Area], MI, USA",0.6707645024971187,1.0
+"Princeville [Urban Area], HI, USA",0.0,1.0
+"St. Helen [Urban Area], MI, USA",0.0,1.0
+"Pole Ojea [Urban Area], PR, USA",0.0,1.0
+"Snowmass Village [Urban Area], CO, USA",0.8327759197324415,1.0
+"Quartzsite [Urban Area], AZ, USA",0.0,1.0
+"Higgins Lake [Urban Area], MI, USA",0.0,1.0
+"Clayton [Urban Area], NY, USA",0.007170172084130019,1.0
+"St. James City [Urban Area], FL, USA",0.0,1.0
+"Cienega Springs [Urban Area], AZ, USA",0.61734443900049,1.0
+"Lincoln [Urban Area], NH, USA",0.0,1.0
+"Au Gres [Urban Area], MI, USA",0.0,1.0
+"Grand Lake [Urban Area], CO, USA",0.027207107162687396,1.0
+"Rockaway Beach [Urban Area], OR, USA",0.0,1.0
+"Blowing Rock [Urban Area], NC, USA",1.0,1.0
+"Point Roberts [Urban Area], WA, USA",0.0,1.0
+"Fire Island [Urban Area], NY, USA",0.06212424849699399,1.0
+"Munds Park [Urban Area], AZ, USA",0.0,1.0
