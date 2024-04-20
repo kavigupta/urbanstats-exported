@@ -1,460 +1,460 @@
-longname,Within 10km of Hospital %,Mean distance to nearest Hospital
-"Tulsa Non-Community, Cherokee OTSA, USA",0.9421788581445049,4.846958652089534
-"Cheyenne and Arapaho District 2, Cheyenne and Arapaho OTSA, USA",0.6839249046641244,7.813394177058783
-"Rogers Non-Community, Cherokee OTSA, USA",0.6965755890242344,8.073071200308878
-"Washington Non-Community, Cherokee OTSA, USA",0.8282337241445048,5.929704393349267
-"Mayes Non-Community, Cherokee OTSA, USA",0.4133363268971711,11.386879168999553
-"County District 4, Choctaw OTSA, USA",0.3945474435743897,11.828390693229709
-"Cheyenne and Arapaho District 3, Cheyenne and Arapaho OTSA, USA",0.8387883111864205,5.733976316153327
-"Cheyenne and Arapaho District 4, Cheyenne and Arapaho OTSA, USA",0.6328249418106089,9.045726085132666
-"County District 9, Choctaw OTSA, USA",0.8350654229011457,6.672150971427501
-"County District 11, Choctaw OTSA, USA",0.7862027951234017,6.265661236456738
-"Sequoyah Non-Community, Cherokee OTSA, USA",0.473928157589803,10.875436488772856
-"Delaware Non-Community, Cherokee OTSA, USA",0.4634088037427859,11.946883166099685
-"Cherokee Non-Community, Cherokee OTSA, USA",0.673078258454274,7.854193762858861
-"Muskogee Non-Community, Cherokee OTSA, USA",0.3427946582290261,14.370714361571162
-"County District 10, Choctaw OTSA, USA",0.283474002292383,15.573868005161328
-"County District 5, Choctaw OTSA, USA",0.3753863886414837,12.566896328631191
-"County District 1, Choctaw OTSA, USA",0.5607855559075071,11.918542264940726
-"County District 12, Choctaw OTSA, USA",0.20737563224278122,16.005705526552795
-"County District 8, Choctaw OTSA, USA",0.556462968177978,11.239433764330583
-"Craig Non-Community, Cherokee OTSA, USA",0.5716201117318436,8.896259547493349
-"County District 7, Choctaw OTSA, USA",0.39652384801940177,16.7330500053858
-"County District 2, Choctaw OTSA, USA",0.017139143855088943,20.008314961262297
-"Adair Non-Community, Cherokee OTSA, USA",0.5193614408514122,10.294227011954662
-"County District 6, Choctaw OTSA, USA",0.43337515683814304,12.113980721918697
-"Cheyenne and Arapaho District 1, Cheyenne and Arapaho OTSA, USA",0.5076006756156103,12.354773307886049
-"Polson District, Flathead Reservation, USA",0.89716796875,4.50284113014649
-"County District 3, Choctaw OTSA, USA",0.19558359621451105,21.63585458443864
-"Nowata Non-Community, Cherokee OTSA, USA",0.696137339055794,6.9958264686876905
-"Tuba City Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.9758761948111061,2.105909705756914
-"Shiprock Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.9864485981308411,3.0979775492237764
-"Chinle Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.7670146689573146,6.425051212407479
-"Ottawa Non-Community, Cherokee OTSA, USA",0.37051068343688437,10.959322310431087
-"Wakpamni District, Pine Ridge Reservation, USA",0.8551536763457294,5.021566057515126
-"Kayenta Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,85.0839750134746
-"Ronan District, Flathead Reservation, USA",0.8570907099835736,4.3868080001492205
-"Wagoner Non-Community, Cherokee OTSA, USA",0.6035315985130112,9.949380155444276
-"Fort Defiance Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.9513257575757575,3.766584715207633
-"St. Michaels Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.43976249760582264,11.568226096930777
-"Wolf Point District, Fort Peck Indian Reservation and Off-Reservation Trust Land, USA",0.9252418645558487,3.4143165664564616
-"Mission District, Flathead Reservation, USA",0.0,20.80080676105708
-"Pablo District, Flathead Reservation, USA",0.9170866935483871,8.138984394136846
-"Antelope Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0007934408886537953,17.471971032593014
-"Long Hollow District, Lake Traverse Reservation and Off-Reservation Trust Land, USA",0.9710303361574201,2.1842985796179732
-"Park Hill, Cherokee OTSA, USA",0.906989543203082,6.881174535187047
-"Shell Creek Segment, Fort Berthold Reservation, USA",0.0,37.75004764970947
-"District 3, Gila River Indian Reservation, USA",1.0,1.6567536868509687
-"Church Rock Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.4188163884673748,11.700072750079203
-"District 4, Cheyenne River Reservation and Off-Reservation Trust Land, USA",0.5622721749696233,16.581157367371418
-"Poplar District, Fort Peck Indian Reservation and Off-Reservation Trust Land, USA",0.9537704918032787,2.1281318688320883
-"Arlee District, Flathead Reservation, USA",0.0,29.53918778811585
-"Crownpoint Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.9826530612244898,2.7759503139901844
-"Piñon Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,36.92868368483976
-"Birdtown Community, Eastern Cherokee Reservation, USA",1.0,3.763310846477084
-"District 4, Gila River Indian Reservation, USA",0.47260529258292955,9.493301530490822
-"District 6, Gila River Indian Reservation, USA",0.5449459157030958,10.361772282565337
-"Turley, Cherokee OTSA, USA",0.0,11.002441414251578
-"Fruitland Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.3651031894934334,11.338862203194191
-"Many Farms Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,23.09618305839292
-"District 5, Gila River Indian Reservation, USA",0.04480570975416336,15.078269206958687
-"Medicine Root District, Pine Ridge Reservation, USA",0.0,45.78225032207283
-"Tonalea Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,38.84755667389114
-"Tsaile-Wheatfields Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,38.990742452734544
-"Sells District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.8686041751944331,3.5758101166438334
-"Wolftown Community, Eastern Cherokee Reservation, USA",0.8242574257425742,7.969977888374055
-"Oljato Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,87.6734549676464
-"Fort Yates District, Standing Rock Reservation, USA",0.8903821923561529,4.1845915227565875
-"Huerfano Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.3364132717345653,25.74135684901365
-"Red Lake District, Red Lake Reservation, USA",1.0,2.3132430171690657
-"LaCreek District, Pine Ridge Reservation, USA",0.7824529991047449,6.310964160422938
-"San Xavier District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",1.0,3.1807424417986767
-"Ganado Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.8531150522964984,5.414555525350238
-"Alamo Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,55.43288197741133
-"Red Lake Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.024300779458963778,15.739496836559077
-"Red Rock Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.45135640785781106,10.923827862231104
-"Dilcon Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,44.55093239532775
-"Twin Lakes Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,20.905220150721018
-"White Clay District, Pine Ridge Reservation, USA",0.0,27.082435241373428
-"Grandview, Cherokee OTSA, USA",0.9746168582375478,6.77632597258349
-"Lame Deer District, Northern Cheyenne Indian Reservation and Off-Reservation Trust Land, USA",0.0,61.768327460804095
-"Lake Traverse District, Lake Traverse Reservation and Off-Reservation Trust Land, USA",0.02330193356470005,19.059226498033336
-"Porcupine District, Pine Ridge Reservation, USA",0.0,35.64398072912564
-"Aneth Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,44.49249244296995
-"Kaibeto Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,49.260033824984625
-"Shonto Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,69.20986097483107
-"Lukachukai Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,43.08541642482872
-"Rosebud Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.9994410285075461,2.5030979905069057
-"Elmo-Dayton District, Flathead Reservation, USA",0.0,18.60997920853351
-"Nahatadziil Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,48.394754442376076
-"McIntosh Non-Community, Cherokee OTSA, USA",0.0,21.471797071571274
-"Five Houses District, Hopi Reservation and Off-Reservation Trust Land, USA",0.7074030552291422,7.617579127227906
-"Wounded Knee District, Pine Ridge Reservation, USA",0.0,24.50705860073387
-"Agency District, Fort Belknap Reservation and Off-Reservation Trust Land, USA",0.9610311750599521,3.16233326974683
-"District 5, Cheyenne River Reservation and Off-Reservation Trust Land, USA",1.0,1.0336472735712536
-"District C, Salt River Reservation, USA",1.0,4.120392887950572
-"Chi Chil Tah Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,21.595929475398663
-"Ramah Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,40.54854075270252
-"Fort Thompson District, Crow Creek Reservation, USA",0.0,33.63205193448395
-"Cañoncito Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,38.23264292283604
-"Chilchinbeto Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,57.172480415548726
-"Hot Springs District, Flathead Reservation, USA",0.0,25.238706565837
-"Bodaway Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.04895104895104895,32.267101557301565
-"Leupp Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,40.47970938703299
-"LeChee Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.8312458800263678,11.077070502719968
-"Copeland, Cherokee OTSA, USA",0.8577101257445401,9.08521763895256
-"Sanostee Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,42.64121149525939
-"Peggs Community, Cherokee OTSA, USA",0.0,22.056219835469502
-"Old Agency District, Lake Traverse Reservation and Off-Reservation Trust Land, USA",0.2860026917900404,11.14039831840556
-"Thoreau Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,31.12648652447634
-"Torreon Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,73.68480648022418
-"Tohatchi Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,31.724513564750612
-"Nenahnezad/San Juan Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.004106776180698152,17.596298755914205
-"Kinlichee Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.35253772290809327,13.51973745900597
-"Bear Soldier District, Standing Rock Reservation, USA",0.9708939708939709,1.826783573201289
-"Justice, Cherokee OTSA, USA",1.0,4.917403697056073
-"Redby District, Red Lake Reservation, USA",0.6220640569395017,9.779359476371143
-"Fort Totten District, Spirit Lake Reservation, USA",0.0,19.192235559806786
-"Eagle Nest District, Pine Ridge Reservation, USA",0.0,43.26345644527994
-"Heipa District, Lake Traverse Reservation and Off-Reservation Trust Land, USA",0.03056768558951965,26.60835893046331
-"Enemy Swim District, Lake Traverse Reservation and Off-Reservation Trust Land, USA",0.0052122114668652275,22.92830439468162
-"Dennehotso Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,75.63552464231755
-"Tselani Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,26.13476230310968
-"Whippoorwill Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,37.933417205680826
-"Parshall Segment, Fort Berthold Reservation, USA",0.0,44.6617902398979
-"Naschitti Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,46.572217525360074
-"Iyanbito Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,22.482244612840056
-"Bushyhead, Cherokee OTSA, USA",0.0,16.973094627711365
-"Houck Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,47.20625992541239
-"Toreva District, Hopi Reservation and Off-Reservation Trust Land, USA",0.9274570982839313,8.486976904591106
-"Round Rock Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,42.955520556020744
-"District 1, Gila River Indian Reservation, USA",0.5293197810789679,10.377494154820457
-"Nazlini Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,21.89146287977813
-"Mexican Springs Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,22.97236243018981
-"White Cone Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,39.575426953437486
-"District B, Salt River Reservation, USA",1.0,7.29521734902585
-"Cleora, Cherokee OTSA, USA",0.0,16.214506701795592
-"Jeddito Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,28.059903930077642
-"Hays District, Fort Belknap Reservation and Off-Reservation Trust Land, USA",0.0,52.91050825211739
-"Pinedale Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,26.430964483574908
-"Rock Point Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,60.99147347650494
-"St. Michael District, Spirit Lake Reservation, USA",0.055272108843537414,14.916307418863408
-"Red Valley Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,38.11977502474859
-"District 1, Cheyenne River Reservation and Off-Reservation Trust Land, USA",0.0,35.9039780178025
-"Steamboat Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,24.57495975270543
-"Sweetwater Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,62.76622097300809
-"St. Francis Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,14.725332715663548
-"Painttown Community, Eastern Cherokee Reservation, USA",1.0,3.5756635689439045
-"Pass Creek District, Pine Ridge Reservation, USA",0.0,23.98231309193759
-"Liberty Community, Cherokee OTSA, USA",0.0,15.188619209319526
-"Tachee Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,35.72142996900843
-"Briggs, Cherokee OTSA, USA",0.8845814977973568,7.352862918242835
-"Rock Springs Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.018600531443755536,14.684476405989564
-"Red Mesa Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,53.139302488202574
-"Big Cove Community, Eastern Cherokee Reservation, USA",0.4088888888888889,10.283067647608751
-"Mandaree Segment, Fort Berthold Reservation, USA",0.0,47.832540784427636
-"New Eucha, Cherokee OTSA, USA",0.0,22.61265084542867
-"Tulalip Bay, Tulalip Reservation and Off-Reservation Trust Land, USA",1.0,8.656874073358336
-"Inscription House Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,64.76772088419307
-"Greasewood Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,38.523563365570865
-"District D, Salt River Reservation, USA",1.0,5.624025002167047
-"Four Bears Segment, Fort Berthold Reservation, USA",0.0,41.52880649741792
-"Yellowhill Community, Eastern Cherokee Reservation, USA",1.0,2.1292613263812226
-"Rock Creek District, Standing Rock Reservation, USA",0.0,41.694895666722026
-"Cherry Tree, Cherokee OTSA, USA",0.8427184466019417,7.675920181620767
-"Hogback Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.23303834808259588,10.921111906290166
-"Two Grey Hills Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,57.42631714625631
-"White Shield Segment, Fort Berthold Reservation, USA",0.0,38.15028519952086
-"Moodys, Cherokee OTSA, USA",0.11653386454183266,12.870814268343176
-"Gu Achi District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.044489383215369056,40.78741435616978
-"Hard Rock Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,32.5372096320571
-"Teec Nos Pos Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,42.49366958745361
-"Nageezi Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,65.6262374767903
-"John Sam Lake, Tulalip Reservation and Off-Reservation Trust Land, USA",1.0,4.910487726974906
-"Bread Springs Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.029787234042553193,15.89410302083033
-"North Oraibi District, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,23.536686160327534
-"Pettit, Cherokee OTSA, USA",0.0,16.25386567210365
-"Cameron Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,38.85364703681218
-"District 7, Gila River Indian Reservation, USA",0.9504843918191603,6.6793710354998925
-"Ponemah District, Red Lake Reservation, USA",0.0,20.257603883033493
-"District G, Salt River Reservation, USA",1.0,6.466495908399685
-"Brockton District, Fort Peck Indian Reservation and Off-Reservation Trust Land, USA",0.23767798466593648,19.38665868879439
-"Kenwood, Cherokee OTSA, USA",0.0,26.00318435007356
-"Smith Lake Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,20.050059474492226
-"Cannonball District, Standing Rock Reservation, USA",0.0,30.658671302241487
-"Busby District, Northern Cheyenne Indian Reservation and Off-Reservation Trust Land, USA",0.0,38.758857181810775
-"Sawmill Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,20.555041291855435
-"Teesto Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,35.775903061965906
-"Mission Highlands, Tulalip Reservation and Off-Reservation Trust Land, USA",1.0,8.382085895923414
-"Mariano Lake Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,21.382285051555325
-"Firetrail, Tulalip Reservation and Off-Reservation Trust Land, USA",0.9055023923444976,7.745321580071001
-"Wide Ruins Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,38.796698878959525
-"Bird Springs Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,29.22849149981587
-"Woodall, Cherokee OTSA, USA",0.0,14.860105905834239
-"Brushy, Cherokee OTSA, USA",0.30456226880394577,11.486642642700463
-"Indian Wells Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,55.233501944086676
-"Dixon District, Flathead Reservation, USA",0.0,24.943296599817945
-"Limestone, Cherokee OTSA, USA",1.0,7.60030707755585
-"Quilceda, Tulalip Reservation and Off-Reservation Trust Land, USA",1.0,7.220206007751628
-"Muddy District, Northern Cheyenne Indian Reservation and Off-Reservation Trust Land, USA",0.0,53.13170627505308
-"Little Rock District, Red Lake Reservation, USA",0.7797695262483995,8.734370860531063
-"Counselor Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,75.84270266528048
-"Moenkopi Administrative Area, Hopi Reservation and Off-Reservation Trust Land, USA",1.0,2.76487944030775
-"Welling, Cherokee OTSA, USA",0.28218465539661897,11.226204542572193
-"Parmelee Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.07282184655396619,15.4132555054281
-"Marysville West, Tulalip Reservation and Off-Reservation Trust Land, USA",1.0,6.431702516758013
-"District A, Salt River Reservation, USA",1.0,5.6800229748089786
-"Lost City, Cherokee OTSA, USA",0.0,18.3769651907479
-"Lupton Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,36.3635157600947
-"Brent, Cherokee OTSA, USA",0.25526315789473686,10.785876562977819
-"Klagetoh Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,23.373899038382675
-"Rough Rock Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,33.44154730578484
-"Requa District, Yurok Reservation, USA",0.0,31.13915238251467
-"Coyote Canyon Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,30.255112778981452
-"Priest Point, Tulalip Reservation and Off-Reservation Trust Land, USA",1.0,4.581072694711925
-"Baca Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,28.66517904873057
-"Flint Creek, Cherokee OTSA, USA",0.0,17.95889007714842
-"Wood Lake District, Spirit Lake Reservation, USA",0.0,26.007863606025804
-"Mexican Water Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,64.7334207492786
-"Sequoyah, Cherokee OTSA, USA",1.0,6.626366134866697
-"District 6, Cheyenne River Reservation and Off-Reservation Trust Land, USA",0.0,37.98545836964266
-"Baboquivari District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.17753120665742025,17.112662610333924
-"Big Coulee District, Lake Traverse Reservation and Off-Reservation Trust Land, USA",0.0,28.61505310010128
-"Sheep Springs Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,53.378879830568415
-"Cornfields Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.07449856733524356,15.62132716729418
-"Hermosa Point, Tulalip Reservation and Off-Reservation Trust Land, USA",0.6469740634005764,9.956721216319098
-"Coalmine Mesa Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.32220609579100146,19.916056220063762
-"White Oak, Cherokee OTSA, USA",0.07331378299120235,14.696604869124437
-"District E, Salt River Reservation, USA",1.0,8.010704628716418
-"Navajo Mountain Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,61.3555327763663
-"Frazier District, Fort Peck Indian Reservation and Off-Reservation Trust Land, USA",0.0,34.56577391400866
-"Tsayatoh Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,18.03367264357341
-"Sif Oidak District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,32.75136766832399
-"Spee-Bi-Dah, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,11.362001913258071
-"Shaker Church, Tulalip Reservation and Off-Reservation Trust Land, USA",1.0,6.011700545379385
-"Low Mountain Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,35.98490339337492
-"Crystal Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,31.92072120495585
-"Beclabito Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.12440191387559808,21.045645131031264
-"Porcupine District, Standing Rock Reservation, USA",0.0,34.325494918090406
-"Little Eagle District, Standing Rock Reservation, USA",0.0384,17.997848793766874
-"Greasy, Cherokee OTSA, USA",0.0,15.793399146383964
-"District 2, Gila River Indian Reservation, USA",0.9450726978998385,8.757298809581982
-"Standing Rock Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,24.055218995476594
-"Ashland District, Northern Cheyenne Indian Reservation and Off-Reservation Trust Land, USA",0.0,79.25322169430451
-"Newcomb Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,56.365971511745954
-"Tenkiller, Cherokee OTSA, USA",0.12564543889845095,15.08025338364714
-"Dry Creek, Cherokee OTSA, USA",0.0,19.305345941818203
-"Wakpala District, Standing Rock Reservation, USA",0.23992994746059546,13.09198209578508
-"Fairfield, Cherokee OTSA, USA",1.0,4.73570159064882
-"Eldon, Cherokee OTSA, USA",0.44778761061946903,10.590544215261195
-"Ojo Encino Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,78.6901780969505
-"Pisinemo District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,45.692066270753216
-"Snowbird Community, Eastern Cherokee Reservation, USA",0.0,28.53801450346561
-"District 3, Cheyenne River Reservation and Off-Reservation Trust Land, USA",0.0,52.1344507487932
-"Winslow Tract Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.9172794117647058,5.200176086197326
-"Coppermine Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,30.37814731490772
-"Tolani Lake Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,49.04889263448336
-"Keys, Cherokee OTSA, USA",0.01904761904761905,11.958501864040112
-"Forest Lake Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,57.019866442715475
-"Texanna, Cherokee OTSA, USA",0.12835249042145594,11.437297711202195
-"Zeb, Cherokee OTSA, USA",0.0,14.826871645582713
-"Shady Grove, Cherokee OTSA, USA",0.0,13.654288752730437
-"Scraper, Cherokee OTSA, USA",0.46705426356589147,12.453927421622883
-"Casamero Lake Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,20.914150183190067
-"Oak Springs Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,32.83613127127696
-"Marble City Community, Cherokee OTSA, USA",0.534516765285996,10.0127697148107
-"Remy, Cherokee OTSA, USA",0.34516765285996054,11.20336441387405
-"Aspen, Tulalip Reservation and Off-Reservation Trust Land, USA",1.0,4.439352991622826
-"Bunch, Cherokee OTSA, USA",0.5049701789264414,12.263560571243712
-"South Oraibi District, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,19.329039693720738
-"Becenti Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.17729083665338646,13.80828920940612
-"Lowrey, Cherokee OTSA, USA",0.0,21.681785865507894
-"Peavine, Cherokee OTSA, USA",0.606425702811245,8.933967721515724
-"Carlisle, Cherokee OTSA, USA",0.0,22.547933345108802
-"Gadii'ahi Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.7857142857142857,8.22151671824866
-"Watts Community, Cherokee OTSA, USA",0.0863157894736842,15.19264071917489
-"Redbird Smith, Cherokee OTSA, USA",0.0,24.779213608132192
-"Crow Hill District, Spirit Lake Reservation, USA",0.0,26.043222002299316
-"Wauhillau, Cherokee OTSA, USA",0.21861471861471862,11.704511673187515
-"Hickiwan District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,73.06050350384292
-"Blackgum, Cherokee OTSA, USA",0.0,24.037129400384952
-"Stimson, Tulalip Reservation and Off-Reservation Trust Land, USA",1.0,3.049346614689742
-"Nicut, Cherokee OTSA, USA",0.0,22.249706258919595
-"Buffalo Lake District, Lake Traverse Reservation and Off-Reservation Trust Land, USA",0.0,21.519764960154376
-"Lodge Pole District, Fort Belknap Reservation and Off-Reservation Trust Land, USA",0.0,52.69285779792278
-"Black Mesa Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,47.612315958579025
-"Fort Kipp District, Fort Peck Indian Reservation and Off-Reservation Trust Land, USA",0.004524886877828055,19.47510631615554
-"Gideon, Cherokee OTSA, USA",0.009111617312072893,12.780853009486101
-"Rose, Cherokee OTSA, USA",0.0,27.99888161157469
-"Bell, Cherokee OTSA, USA",0.02558139534883721,12.061360249066086
-"White Horse Lake Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,48.285674548692995
-"Chukut Kuk District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,32.15122372455121
-"Port Susan, Tulalip Reservation and Off-Reservation Trust Land, USA",0.5191387559808612,9.793507056336463
-"Nahodishgish Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,14.801520550553722
-"Schuk Toak District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,27.141965696122746
-"Teresita, Cherokee OTSA, USA",0.0,24.096243286517687
-"Long, Cherokee OTSA, USA",0.0,17.806675470655453
-"Littlewater Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.22413793103448276,14.641026000690495
-"Akins, Cherokee OTSA, USA",0.3728395061728395,11.081190323969867
-"Vermilion Lake Segment, Bois Forte Reservation and Off-Reservation Trust Land, USA",0.0,25.98575542877435
-"Evening Shade, Cherokee OTSA, USA",0.0,21.381747319778572
-"Gregory, Cherokee OTSA, USA",0.0,16.92299584884092
-"Okreek Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,35.87514487426838
-"Rocky Mountain, Cherokee OTSA, USA",0.0,12.345344504553776
-"Oswego District, Fort Peck Indian Reservation and Off-Reservation Trust Land, USA",0.0,30.686948732723437
-"Short, Cherokee OTSA, USA",0.0,20.656178674372935
-"Marshall, Tulalip Reservation and Off-Reservation Trust Land, USA",1.0,4.451729827672714
-"Two Strike Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.9553072625698324,6.66843723191658
-"Ideal Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.6056338028169014,9.411713476111172
-"Oaks Community, Cherokee OTSA, USA",0.0,26.693903480049528
-"Cove Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,51.4264073508562
-"Twin Buttes Segment, Fort Berthold Reservation, USA",0.0,53.88200124070799
-"Gu Vo District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,65.35186485075444
-"East Dinnebito District, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,26.6277837561017
-"Nett Lake Segment, Bois Forte Reservation and Off-Reservation Trust Land, USA",0.0,40.4604207083871
-"Sand Hill, Cherokee OTSA, USA",0.0,20.97138261122132
-"Gila Bend District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,63.71998373272711
-"Pueblo Pintado Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,54.35227338425004
-"Steely Hollow, Cherokee OTSA, USA",0.8307692307692308,9.050221040463182
-"Mission Beach, Tulalip Reservation and Off-Reservation Trust Land, USA",1.0,7.798163473525762
-"Drowning Creek, Cherokee OTSA, USA",0.0,17.887785896895476
-"Pin Oak Acres, Cherokee OTSA, USA",0.0,19.549919215675292
-"Maplewood, Tulalip Reservation and Off-Reservation Trust Land, USA",1.0,5.919348640230594
-"Titanic, Cherokee OTSA, USA",0.09967845659163987,11.218580375177917
-"Notchietown, Cherokee OTSA, USA",0.0,29.947379869082784
-"Deer Lick, Cherokee OTSA, USA",0.0,15.249782351098611
-"Belfonte, Cherokee OTSA, USA",0.0,21.639572620192855
-"Oak Hill-Piney, Cherokee OTSA, USA",0.0,21.898590270463643
-"Lake Valley Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,43.921401129839644
-"Cloud Creek, Cherokee OTSA, USA",0.0,22.00071491933403
-"Weitchpec District, Yurok Reservation, USA",0.0,46.26885771573637
-"Spring Creek Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,23.430754604891884
-"Old Green, Cherokee OTSA, USA",0.0,18.70423550873286
-"Simms, Cherokee OTSA, USA",0.0,15.99861460197693
-"Kenel District, Standing Rock Reservation, USA",0.06538461538461539,23.703216412118113
-"Ballou, Cherokee OTSA, USA",0.0,21.312423087836194
-"Box, Cherokee OTSA, USA",0.0,21.571148337103963
-"District 2, Cheyenne River Reservation and Off-Reservation Trust Land, USA",0.0,46.53269723876943
-"Manuelito Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,27.920196950024746
-"Snake Creek, Cherokee OTSA, USA",0.0,23.740855341436
-"Warrington Addition, Menominee Reservation and Off-Reservation Trust Land, USA",1.0,9.336546428388166
-"McCoy Ford, Cherokee OTSA, USA",1.0,6.737583462881057
-"Leach, Cherokee OTSA, USA",0.0,31.851878923771316
-"River Bottom, Cherokee OTSA, USA",0.0,20.171264913681508
-"Schoolview Addition, Menominee Reservation and Off-Reservation Trust Land, USA",0.0,10.146675090643127
-"Crow Creek District, Crow Creek Reservation, USA",0.0,21.7388152225382
-"Tiawah, Cherokee OTSA, USA",0.7617021276595745,9.533520661996251
-"Lyons Switch, Cherokee OTSA, USA",1.0,5.704305595942378
-"Cherokee County Community, Eastern Cherokee Reservation, USA",0.5411255411255411,9.137958384839173
-"Horse Creek Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,31.492168447386113
-"Polacca Wash District, Hopi Reservation and Off-Reservation Trust Land, USA",0.9730941704035875,5.731770491072887
-"Proctor, Cherokee OTSA, USA",0.0,19.176360559204248
-"Dennis, Cherokee OTSA, USA",0.334841628959276,10.73789384800609
-"Rainwater, Tulalip Reservation and Off-Reservation Trust Land, USA",1.0,6.970310663374402
-"Cedar Crest, Cherokee OTSA, USA",0.0,24.165169890345965
-"Piney, Cherokee OTSA, USA",0.5345622119815668,10.413666451501737
-"Christie, Cherokee OTSA, USA",0.0,18.18289918104187
-"East Village, Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, USA",1.0,4.674408195791186
-"Big Bend District, Crow Creek Reservation, USA",0.0,46.36763121141011
-"Burnham Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,46.05340704347122
-"Soldier Creek Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",1.0,7.126239677264979
-"Badger Lee, Cherokee OTSA, USA",1.0,2.9292449356096473
-"Pecwan District, Yurok Reservation, USA",0.0,50.19184239751243
-"Black Pipe Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,35.97330093765817
-"Elm Grove, Cherokee OTSA, USA",1.0,7.84490080880779
-"Twin Oaks, Cherokee OTSA, USA",0.0,25.31519761800225
-"Stoney Point, Cherokee OTSA, USA",0.0,17.286596719753792
-"West Peavine, Cherokee OTSA, USA",0.5209580838323353,11.012312386200335
-"Grass Mountain Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.6646341463414634,9.773441305503862
-"Shady Grove Community, Cherokee OTSA, USA",0.0,22.046590053557797
-"Deer Creek Segment, Bois Forte Reservation and Off-Reservation Trust Land, USA",0.05521472392638037,14.735678353718002
-"Big Eagle's, Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, USA",1.0,5.559031892146729
-"Swift Bear Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,40.46282612663991
-"Pump Back, Cherokee OTSA, USA",0.0,17.376256599208546
-"Ring Thunder Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.9056603773584906,8.963187254849487
-"Mulberry, Cherokee OTSA, USA",1.0,7.400315695864834
-"Duchess Landing, Cherokee OTSA, USA",0.0,19.293351283725748
-"Upper Cut Meat Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,19.955147756128106
-"Corn Creek Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,45.45520965462963
-"He Dog Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,20.14559660983887
-"Murphy, Cherokee OTSA, USA",0.0,20.189974652912447
-"Pinhook Corner, Cherokee OTSA, USA",0.48201438848920863,11.697486808439447
-"Johnson Prairie, Cherokee OTSA, USA",0.0,18.341031520312722
-"Sams Corner, Cherokee OTSA, USA",0.0,14.522916375456441
-"Indianola, Cherokee OTSA, USA",0.0,16.847956865050843
-"White Water, Cherokee OTSA, USA",1.0,9.054875758493226
-"Zena, Cherokee OTSA, USA",0.03418803418803419,10.825593387433456
-"Bluff View, Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, USA",1.0,3.967188127318685
-"Chewey, Cherokee OTSA, USA",0.0,20.86759114939617
-"Hopi-Winslow District, Hopi Reservation and Off-Reservation Trust Land, USA",1.0,3.502494770101478
-"Birney District, Northern Cheyenne Indian Reservation and Off-Reservation Trust Land, USA",0.0,76.98888621181045
-"McKey, Cherokee OTSA, USA",0.17647058823529413,11.678138474869149
-"Upper Polacca District, Hopi Reservation and Off-Reservation Trust Land, USA",0.900990099009901,5.92629394511115
-"Salem, Cherokee OTSA, USA",1.0,8.10640668914692
-"North Reservation, Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, USA",1.0,4.409664433516327
-"Butte Creek Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,44.362995096920386
-"Narcissa, Cherokee OTSA, USA",0.6413043478260869,9.529803357191826
-"Milk's Camp Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,24.172675977495715
-"Sycamore, Cherokee OTSA, USA",0.0,15.72316724544105
-"White Rock Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,48.12819460307977
-"Dodge, Cherokee OTSA, USA",0.449438202247191,10.476772480992311
-"Flute Springs, Cherokee OTSA, USA",0.0,17.409899224716984
-"Waterworks, Tulalip Reservation and Off-Reservation Trust Land, USA",0.7951807228915663,9.340015633242917
-"Butler, Cherokee OTSA, USA",1.0,5.601447480848957
-"Marietta, Cherokee OTSA, USA",1.0,4.457265119472825
-"Wickliffe, Cherokee OTSA, USA",0.0,17.843421563026087
-"Brewer, Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, USA",1.0,4.24956251850238
-"Mazie, Cherokee OTSA, USA",0.0,18.727907954032993
-"Cayuga, Cherokee OTSA, USA",0.4722222222222222,10.127854573549046
-"Sour John, Cherokee OTSA, USA",0.0,27.64913666264771
-"Hardrock District, Hopi Reservation and Off-Reservation Trust Land, USA",1.0,3.7494545760144473
-"Indian Point Segment, Bois Forte Reservation and Off-Reservation Trust Land, USA",0.0,26.242318950042595
-"Dodson District, Fort Belknap Reservation and Off-Reservation Trust Land, USA",0.0,31.291581954312402
-"Iron Post, Cherokee OTSA, USA",0.0,22.969493255822044
-"Bull Hollow, Cherokee OTSA, USA",0.0,33.12706971120993
-"Ketchum Community, Cherokee OTSA, USA",0.0,19.01175577430204
-"Shongopovi District, Hopi Reservation and Off-Reservation Trust Land, USA",0.8,8.500813214304172
-"Sycamore Springs, Cherokee OTSA, USA",0.0,20.470494055587658
-"Rocky Ford, Cherokee OTSA, USA",0.0,29.21899959168615
-"Dripping Springs, Cherokee OTSA, USA",0.0,12.484210875343923
-"Sparrowhawk, Cherokee OTSA, USA",1.0,5.019450429300023
-"Tyio-Dry Creek, Cherokee OTSA, USA",0.0,27.870980093850438
-"Zion, Cherokee OTSA, USA",1.0,2.469905948948642
-"District F, Salt River Reservation, USA",0.42857142857142855,10.075070466333205
-"Dotyville, Cherokee OTSA, USA",1.0,4.398946822506547
-"RU451, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,30.56259596482601
-"San Juan Southern Paiute Northern Area, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,62.187720145595165
-"Dwight Mission, Cherokee OTSA, USA",0.0,11.14822167124171
-"RU567, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,33.9378215396923
-"RU257, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,37.53810645905992
-"RU572, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,30.46055732044198
-"Taylor, Cherokee OTSA, USA",0.0,23.207161565254115
-"Old Eucha, Cherokee OTSA, USA",0.0,30.91357151288046
-"RU559, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,29.576582247690204
-"RU263, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,62.851970771284066
-"RU569, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,33.37174123171411
-"RU262, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,48.347605894301104
-"Bdedan, Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, USA",1.0,3.232784188161992
-"Sakpe, Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, USA",1.0,4.388745494153886
-"Indian Village, Lac Vieux Desert Reservation, USA",0.0,28.14587003339117
-"Eagle Creek, Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, USA",1.0,6.700630357066873
-"Brush Creek, Cherokee OTSA, USA",0.0,18.53149966424969
-"RU552, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,45.3689618504665
-"RU258, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,27.85303556396635
-"San Juan Southern Paiute Southern Area, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,14.389671411856849
-"Orick District, Yurok Reservation, USA",0.0,35.83646670754485
-"Tagg Flats, Cherokee OTSA, USA",0.0,29.617670996564556
-"Consolidated Borough of Quil Ceda Village, Tulalip Reservation and Off-Reservation Trust Land, USA",1.0,4.624480211363123
-"RU565, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,32.55649562917832
-"RU255, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,28.264612256798614
-"Talahogan District, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,16.296954606037964
-"RU568, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,35.66396868327529
-"RU259, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,44.57964082015845
-"Bull Creek Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,20.47371495369875
-"Sugarbush Segment, Bois Forte Reservation and Off-Reservation Trust Land, USA",0.0,25.91091251369239
-"Moenkopi District, Hopi Reservation and Off-Reservation Trust Land, USA",1.0,4.8214642199955975
-"RU256, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,38.91913504983405
-"RU558, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,25.32553539089871
-"RU251, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,25.313790912307383
-"RU555, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,44.09865086581487
-"RU261, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,55.85260074420031
+longname,PW Mean % of parkland within 1km,Within 10km of Hospital %,Mean distance to nearest Hospital,Within 2km of Public School %,Mean distance to nearest Public School,Within 30km of Airport %,Mean distance to nearest Airport,Within 10km of Active Superfund Site %,Mean distance to nearest Active Superfund Site
+"Tulsa Non-Community, Cherokee OTSA, USA",0.015277331943564176,0.9421788581445049,4.846958652089534,0.8647318248397192,1.1530464427221887,1.0,9.677834796717296,0.41673803597012893,13.804216271450162
+"Cheyenne and Arapaho District 2, Cheyenne and Arapaho OTSA, USA",0.017410964518251706,0.6839249046641244,7.813394177058783,0.7719730859489586,1.8325914985346925,0.6054744793194485,29.252104073723036,0.0,43.67606652951726
+"Rogers Non-Community, Cherokee OTSA, USA",0.013173162111469133,0.6988167260819582,8.073071200308878,0.45867830974139834,3.0076542739025993,0.7304481112904537,25.906365523972312,0.1786522986169978,19.842679307860696
+"Washington Non-Community, Cherokee OTSA, USA",0.009001557226139429,0.8282337241445048,5.929704393349267,0.7387093699361358,2.0122372352536297,0.03364788866647603,59.20074607113167,0.0032599370889333716,43.40506140815133
+"Mayes Non-Community, Cherokee OTSA, USA",0.002285876749975401,0.4133363268971711,11.386879168999553,0.4521216883700045,3.493433227404166,0.0,58.32957256552655,0.0,53.651345123771385
+"County District 4, Choctaw OTSA, USA",0.00011139266261413944,0.3945474435743897,11.828390693229709,0.522742975587287,2.768562724104875,0.26974896361123907,36.55250649564714,0.0,69.00640856548475
+"Cheyenne and Arapaho District 3, Cheyenne and Arapaho OTSA, USA",0.01707267157060798,0.8387883111864205,5.733976316153327,0.7512411189393263,2.6553830050705476,0.0,113.29020387865457,0.0,90.7533469958227
+"Cheyenne and Arapaho District 4, Cheyenne and Arapaho OTSA, USA",0.004369743819816819,0.6328249418106089,9.045726085132666,0.5361080485115767,3.6342835212375197,0.0,165.02580725613726,0.0,126.17305556989031
+"County District 9, Choctaw OTSA, USA",0.004968391042765388,0.8350654229011457,6.672150971427501,0.529831590809491,2.797924490267606,0.0,136.0850582634017,0.0,99.40861481929133
+"County District 11, Choctaw OTSA, USA",0.0016594456242603505,0.7862027951234017,6.265661236456738,0.7637030429180295,1.9051639819571469,0.0,132.6420363720017,0.0,117.52255136051109
+"Sequoyah Non-Community, Cherokee OTSA, USA",0.0036568552094273024,0.47492137063400097,10.875436488772856,0.5907300115874855,2.524473670863311,0.4445952656844893,34.81195215277634,0.0,105.61204742298035
+"Delaware Non-Community, Cherokee OTSA, USA",0.005435444610367838,0.4634088037427859,11.946883166099685,0.33012327971860805,4.0278144556761655,0.07133831916128812,49.79366210107898,0.0,51.16892659967309
+"Cherokee Non-Community, Cherokee OTSA, USA",0.0020918943003992896,0.673078258454274,7.854193762858861,0.5129157697382126,3.076040157026369,0.0,72.25086540884442,0.0,90.983165961183
+"Muskogee Non-Community, Cherokee OTSA, USA",0.003988360609751676,0.3427946582290261,14.370714361571162,0.5499976734446977,3.105283664185604,0.0,77.17956915063445,0.0,91.6843506136401
+"County District 10, Choctaw OTSA, USA",0.009401637123924007,0.283474002292383,15.573868005161328,0.3675106804209649,5.045458907498267,0.0,167.21828200284043,0.0,128.51891209692744
+"County District 5, Choctaw OTSA, USA",0.00018136080290692488,0.37559595536228846,12.566896328631191,0.3768009640069157,4.49928572649756,0.22732750039293761,61.242314441995234,0.0,101.00508083624526
+"County District 1, Choctaw OTSA, USA",0.0020864930244563684,0.5607855559075071,11.918542264940726,0.4995248653785239,3.684365149887995,0.0,95.12581383983067,0.0,76.66039910603845
+"County District 12, Choctaw OTSA, USA",0.0032567145301621928,0.20737563224278122,16.005705526552795,0.31640950124847944,4.961080459878113,0.0,137.304603897228,0.0,112.70714850513437
+"County District 8, Choctaw OTSA, USA",0.0033278215021929655,0.556462968177978,11.239433764330583,0.4437482399324134,4.488853730549333,0.0,152.54646551478976,0.0,108.79039872647766
+"Craig Non-Community, Cherokee OTSA, USA",0.005986975745905117,0.5716201117318436,8.896259547493349,0.5076350093109869,3.834970298947125,0.0,74.82234644711244,0.0,40.95468976370178
+"County District 7, Choctaw OTSA, USA",0.013275170616897206,0.3973322554567502,16.7330500053858,0.35505254648342766,5.917764724020241,0.0,146.73175511273382,0.0,111.41089684657031
+"County District 2, Choctaw OTSA, USA",0.0023798961764147724,0.017139143855088943,20.008314961262297,0.4894809519941516,3.4470915554374697,0.0,96.70439543468355,0.0,73.62118354916144
+"Adair Non-Community, Cherokee OTSA, USA",0.0021931546260203975,0.5193614408514122,10.294227011954662,0.4956201391731478,3.4832122049993983,0.024150634465820713,48.73490373319144,0.0,100.57335728213226
+"County District 6, Choctaw OTSA, USA",0.012324165266955157,0.43337515683814304,12.113980721918697,0.3314930991217064,4.689079998511373,0.0,97.61601985576075,0.0,101.95471046315241
+"Cheyenne and Arapaho District 1, Cheyenne and Arapaho OTSA, USA",0.007854067555422098,0.5076006756156103,12.354773307886049,0.583696328562539,4.462121690281439,0.0,119.2368169910122,0.0,120.29773233503943
+"Polson District, Flathead Reservation, USA",0.008635725480878358,0.89716796875,4.50284113014649,0.50498046875,3.8312304263114703,0.0,68.68074334621352,0.0,73.61625133679765
+"County District 3, Choctaw OTSA, USA",0.025339192318136656,0.19558359621451105,21.63585458443864,0.3213459516298633,5.767841320636217,0.0,72.60457049368817,0.0,49.76928871672937
+"Nowata Non-Community, Cherokee OTSA, USA",0.0,0.696137339055794,6.9958264686876905,0.4631974248927039,4.767370102427857,0.0,68.29464380647775,0.0,50.84711784622985
+"Tuba City Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0018856527826351993,0.9758761948111061,2.105909705756914,0.8805188893946291,1.3149701488873444,0.0,84.2659099783592,0.0,202.77655593983283
+"Shiprock Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0005479265243356416,0.9864485981308411,3.0979775492237764,0.8671728971962617,1.3223166980794734,0.0,204.10078918680304,0.0,54.4922690948829
+"Chinle Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.7670146689573146,6.425051212407479,0.36870622439540107,5.100424737192333,0.0,222.17533071287681,0.0,112.24089087647548
+"Ottawa Non-Community, Cherokee OTSA, USA",0.0020059727787436403,0.37051068343688437,10.959322310431087,0.30974390059099866,3.862818866617604,0.0,54.608366398617925,0.0027276860130322775,20.236066916835806
+"Wakpamni District, Pine Ridge Reservation, USA",0.0,0.8551536763457294,5.021566057515126,0.50042452029207,3.552700510278856,0.0,120.41819386074175,0.0,132.17486648179192
+"Kayenta Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,85.0839750134746,0.6509926854754441,3.383846034505283,0.0,189.07089225165296,0.0,151.17669195626542
+"Ronan District, Flathead Reservation, USA",0.0014327581503728458,0.8570907099835736,4.3868080001492205,0.4619456105128673,3.6207122431963,0.0,66.86796747306508,0.0,63.54941234555635
+"Wagoner Non-Community, Cherokee OTSA, USA",0.00028728334324707664,0.6035315985130112,9.949380155444276,0.1117100371747212,5.625595172594498,0.0,59.80388687115744,0.0,66.06944505671513
+"Fort Defiance Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.9513257575757575,3.766584715207633,0.6128787878787879,2.364635399724027,0.0,235.55257347640003,0.0,52.06380874063563
+"St. Michaels Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0005183338461852891,0.44186937368320245,11.568226096930777,0.47404711741045774,2.8655205447627203,0.0,234.49851756905448,0.0,52.741644154535585
+"Wolf Point District, Fort Peck Indian Reservation and Off-Reservation Trust Land, USA",0.01701344308011188,0.9252418645558487,3.4143165664564616,0.873570800351803,1.950571039308383,0.0,73.82463483946437,0.0,333.6679132684149
+"Mission District, Flathead Reservation, USA",0.0,0.0,20.80080676105708,0.3865546218487395,3.6828678073739556,0.0,47.835349291797726,0.0,54.11745467302335
+"Pablo District, Flathead Reservation, USA",0.002269780276394384,0.9170866935483871,8.138984394136846,0.5435987903225806,2.4975103779735384,0.0,75.8050804393906,0.0,68.61463976106913
+"Antelope Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0007934408886537953,17.471971032593014,0.5276381909547738,3.576425223700228,0.0,126.64991966676634,0.0,219.52103841205025
+"Long Hollow District, Lake Traverse Reservation and Off-Reservation Trust Land, USA",0.0,0.9710303361574201,2.1842985796179732,0.7523913637605903,1.958960268780453,0.0,84.04040196674899,0.0,153.69606010435743
+"Park Hill, Cherokee OTSA, USA",0.0008513296013788418,0.906989543203082,6.881174535187047,0.20803522289488166,3.0951687973130975,0.0,76.02982438727511,0.0,95.51542651426585
+"Shell Creek Segment, Fort Berthold Reservation, USA",6.152154547195577e-05,0.0,37.75004764970947,0.7882552230378317,1.960586586666689,0.0,93.90729041300749,0.0,416.30714521555035
+"District 3, Gila River Indian Reservation, USA",0.0023751023435457427,1.0,1.6567536868509687,0.8050898203592814,1.57798009509128,1.0,27.353129979276694,0.0,27.35317440773276
+"Church Rock Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.04033349071115642,0.4188163884673748,11.700072750079203,0.34203338391502275,3.726071297981858,0.0,190.29317401694667,0.13657056145675264,15.137462417306065
+"District 4, Cheyenne River Reservation and Off-Reservation Trust Land, USA",1.098820467842053e-06,0.5622721749696233,16.581157367371418,0.6704131227217497,5.660399882873248,0.0,109.499570466521,0.0,186.83306196413224
+"Poplar District, Fort Peck Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.9537704918032787,2.1281318688320883,0.619344262295082,2.3420934888012606,0.0,105.56968285976687,0.0,356.9609527020678
+"Arlee District, Flathead Reservation, USA",0.0,0.0,29.53918778811585,0.26138681169272604,5.4173974040128705,0.871855880353501,25.292588308262758,0.0,34.003829221038906
+"Crownpoint Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.9826530612244898,2.7759503139901844,0.7653061224489796,1.7767506078697592,0.0,158.12997821468326,0.0,31.523824630887084
+"Piñon Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,36.92868368483976,0.38676470588235295,4.578873670986596,0.0,168.42476656419743,0.0,162.71628803186644
+"Birdtown Community, Eastern Cherokee Reservation, USA",0.009357308931109573,1.0,3.763310846477084,0.1339712918660287,3.3497321639589988,0.0,68.68263021053448,0.0,27.212570063252915
+"District 4, Gila River Indian Reservation, USA",0.0,0.47260529258292955,9.493301530490822,0.003354453969437197,5.626955607683917,1.0,22.349853134880583,0.0,22.486459589737002
+"District 6, Gila River Indian Reservation, USA",0.0,0.5449459157030958,10.361772282565337,0.6158149944050727,2.1147713410731446,1.0,22.197620497647467,0.0,23.991565062318926
+"Turley, Cherokee OTSA, USA",0.03456969088025622,0.0,11.002441414251578,0.3285874859497939,2.1410482707076053,1.0,9.125534830598376,0.0,15.361019525290422
+"Fruitland Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0008693165837970663,0.3651031894934334,11.338862203194191,0.4165103189493433,2.986093814883104,0.0,204.2274420956031,0.0,22.23316352900649
+"Many Farms Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,23.09618305839292,0.42566510172143973,3.8400014744192146,0.0,230.86580317499482,0.0,127.43025179626058
+"District 5, Gila River Indian Reservation, USA",0.0,0.04480570975416336,15.078269206958687,0.2168913560666138,3.504982723164758,0.3009516256938937,31.30826232456878,0.0,31.65118652679925
+"Medicine Root District, Pine Ridge Reservation, USA",0.0,0.0,45.78225032207283,0.38408444985789686,6.264353728310188,0.0,99.58371208939349,0.0,109.83710710771717
+"Tonalea Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,38.84755667389114,0.09302325581395349,9.840429895295824,0.0,118.83521353883692,0.0,216.70354974400706
+"Tsaile-Wheatfields Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,38.990742452734544,0.5538775510204081,4.561284447155247,0.0,256.22881672980157,0.0,95.38592114925264
+"Sells District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.8686041751944331,3.5758101166438334,0.7261563651248465,2.670893134318396,0.0,92.64031478661248,0.0,92.83349865181538
+"Wolftown Community, Eastern Cherokee Reservation, USA",0.0,0.8242574257425742,7.969977888374055,0.0,6.618828970308949,0.0,63.07108942886691,0.0,16.151181252816777
+"Oljato Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,87.6734549676464,0.02301255230125523,14.036088310752913,0.0,213.27104532668426,0.0,116.91937233445454
+"Fort Yates District, Standing Rock Reservation, USA",0.0,0.8903821923561529,4.1845915227565875,0.30533389332213356,4.121026409044825,0.0,75.09931995489839,0.0,289.1612448784215
+"Huerfano Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.3364132717345653,25.74135684901365,0.07979840403191936,8.520176118232108,0.0,200.33484716886315,0.028559428811423773,23.994983181092646
+"Red Lake District, Red Lake Reservation, USA",0.002022948381823316,1.0,2.3132430171690657,0.7119428090832632,1.6645336173043626,0.0,142.53587136329637,0.0,62.864266539232524
+"LaCreek District, Pine Ridge Reservation, USA",0.0,0.7824529991047449,6.310964160422938,0.5877350044762757,5.189588021285939,0.0,145.9465683052788,0.0,156.44333862894717
+"San Xavier District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0003695832298391317,1.0,3.1807424417986767,0.37104072398190047,2.497362723246537,1.0,6.367614684698899,0.869683257918552,6.76512886035919
+"Ganado Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0075502804149141555,0.8531150522964984,5.414555525350238,0.5025011368804002,3.037525317542073,0.0,201.70129987174693,0.0,96.72675426296017
+"Alamo Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,55.43288197741133,0.12722298221614228,5.4701585177137755,0.0,126.10360272533707,0.0,58.15779011236162
+"Red Lake Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.03209536909674461,15.739496836559077,0.9018798716185236,0.9767066281463065,0.0,239.33820469124734,0.0,55.856446765804044
+"Red Rock Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.45135640785781106,10.923827862231104,0.01216089803554724,6.164484028316805,0.0,204.00540336743904,0.0,35.529560757141745
+"Dilcon Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,44.55093239532775,0.4056206088992974,6.5031918424956805,0.0,122.21264803657735,0.0,170.1729810928324
+"Twin Lakes Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,20.905220150721018,0.27607361963190186,3.896717488932327,0.0,209.13715964070468,0.0,25.23584949236175
+"White Clay District, Pine Ridge Reservation, USA",0.0,0.0,27.082435241373428,0.1215443279313632,6.097374435082526,0.0,94.61034487909204,0.0,106.43690040871938
+"Grandview, Cherokee OTSA, USA",0.0,0.9746168582375478,6.77632597258349,0.2543103448275862,2.5301970592179424,0.0,71.44395464734473,0.0,88.0029963658659
+"Lame Deer District, Northern Cheyenne Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,61.768327460804095,0.6376323387872955,2.4432106224315566,0.0,97.14581767034295,0.0,141.25023249055826
+"Lake Traverse District, Lake Traverse Reservation and Off-Reservation Trust Land, USA",1.0947057708460739e-05,0.02330193356470005,19.059226498033336,0.21219633118492812,8.316456589917287,0.0,99.3172043446558,0.0,132.1541970144628
+"Porcupine District, Pine Ridge Reservation, USA",0.0,0.0,35.64398072912564,0.2053388090349076,6.653074762112887,0.0,98.81559521733374,0.0,110.04672840209827
+"Aneth Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,44.49249244296995,0.16805845511482254,7.22075075820013,0.0,179.45601592330968,0.0,68.01901722341876
+"Kaibeto Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,49.260033824984625,0.6724683544303798,3.2716360391085324,0.0,118.65664888620441,0.0,209.208587292506
+"Shonto Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,69.20986097483107,0.23832528180354268,9.613747853710043,0.0,149.65077297014676,0.0,186.61939589382192
+"Lukachukai Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,43.08541642482872,0.3653116531165312,3.4576368758551177,0.0,259.2674279420125,0.0,107.29011811834792
+"Rosebud Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.9994410285075461,2.5030979905069057,0.31805477920626046,2.854166449830624,0.0,133.75489320480656,0.0,206.75130215482355
+"Elmo-Dayton District, Flathead Reservation, USA",0.0,0.0,18.60997920853351,0.12248322147651007,6.634998325510236,0.0,54.490786364536426,0.0,77.65060245661633
+"Nahatadziil Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,48.394754442376076,0.24701195219123506,9.562693051407535,0.0,214.41231471003266,0.0,93.37741808113749
+"McIntosh Non-Community, Cherokee OTSA, USA",0.0,0.0,21.471797071571274,0.0,9.435658006590552,0.0,92.1363152797339,0.0,101.11921075217691
+"Five Houses District, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.7074030552291422,7.617579127227906,0.2720329024676851,2.7118704292506313,0.0,141.90724107161265,0.0,168.38074978854428
+"Wounded Knee District, Pine Ridge Reservation, USA",0.0,0.0,24.50705860073387,0.0,11.79445409723119,0.0,103.58782826254007,0.0,115.14040847541166
+"Agency District, Fort Belknap Reservation and Off-Reservation Trust Land, USA",0.0,0.9610311750599521,3.16233326974683,0.0,8.011506512923729,0.0,159.72230578745626,0.0,208.12264941712274
+"District 5, Cheyenne River Reservation and Off-Reservation Trust Land, USA",0.004098973817561021,1.0,1.0336472735712536,0.8558394160583942,1.2512533870035214,0.0,101.3681110664232,0.0,176.2434262550775
+"District C, Salt River Reservation, USA",0.0059483026502925255,1.0,4.120392887950572,0.46833130328867234,1.9221258613166152,1.0,11.71632933395775,1.0,2.6967438614222417
+"Chi Chil Tah Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,21.595929475398663,0.10967344423906346,5.816635513502452,0.0,207.14997223948475,0.0,54.11984878759485
+"Fort Thompson District, Crow Creek Reservation, USA",0.0,0.0,33.63205193448395,0.04525728456292622,11.451477519627293,0.0,76.02752286667817,0.0,283.1127730195905
+"Ramah Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,40.54854075270252,0.3992560446373218,5.461521194422504,0.0,165.60176302910634,0.0,59.5427666809464
+"Cañoncito Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,38.23264292283604,0.07342874922215308,6.09549219944646,0.0,43.32544190443551,0.0,23.134151105810947
+"Chilchinbeto Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,57.172480415548726,0.11426767676767677,6.074932047113341,0.0,199.25732351314582,0.0,159.91528760988007
+"Hot Springs District, Flathead Reservation, USA",0.0,0.0,25.238706565837,0.44705136334812934,6.232316548695386,0.0,79.26057679884714,0.0,44.82785063301642
+"Bodaway Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.04895104895104895,32.267101557301565,0.018436109345200253,19.031208779755023,0.0,75.68884571653777,0.0,216.27931019869473
+"Leupp Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,40.47970938703299,0.5475113122171946,4.73963818845994,0.0,59.467623248539276,0.0,140.08553105956113
+"LeChee Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.8312458800263678,11.077070502719968,0.013183915622940013,6.089479169131023,0.0,118.54339549550629,0.0,215.62726252231315
+"Copeland, Cherokee OTSA, USA",0.0,0.8577101257445401,9.08521763895256,0.0,7.527091716121359,0.0,60.234654239624,0.0,32.34096976909248
+"Sanostee Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,42.64121149525939,0.0456953642384106,8.547189683247913,0.0,244.32135007783006,0.0,72.99410761135645
+"Peggs Community, Cherokee OTSA, USA",0.0,0.0,22.056219835469502,0.1863270777479893,3.854003027772478,0.0,71.23142007455618,0.0,73.77618220503598
+"Old Agency District, Lake Traverse Reservation and Off-Reservation Trust Land, USA",0.0,0.2860026917900404,11.14039831840556,0.3546433378196501,4.216640847204786,0.0,72.91924186629487,0.0,161.21327083888886
+"Thoreau Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,31.12648652447634,0.20542372881355933,5.074514586065056,0.0,154.16217400865455,0.0,19.711152693120514
+"Torreon Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,73.68480648022418,0.140625,6.234785087971205,0.0,102.63811267366104,0.0,74.78296769016607
+"Tohatchi Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,31.724513564750612,0.5023825731790333,4.100973804922456,0.0,212.8738168613044,0.0,32.97452245008936
+"Nenahnezad/San Juan Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.004106776180698152,17.596298755914205,0.2785763175906913,6.168021665641101,0.0,204.23110782771266,0.0,35.304521579160614
+"Kinlichee Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.35253772290809327,13.51973745900597,0.019204389574759947,6.559769170316147,0.0,216.62883008011107,0.0,82.41509199779277
+"Bear Soldier District, Standing Rock Reservation, USA",0.0,0.9708939708939709,1.826783573201289,0.8128898128898129,1.718643693458346,0.0,107.23863678529969,0.0,257.21264818634495
+"Justice, Cherokee OTSA, USA",0.0,1.0,4.917403697056073,0.36713286713286714,2.4061491361603236,0.44825174825174824,30.491613205324462,0.0,25.850979551796733
+"Redby District, Red Lake Reservation, USA",0.001118127130914389,0.6220640569395017,9.779359476371143,0.0,8.509962019198865,0.0,135.08936391837364,0.0,59.53188448111764
+"Fort Totten District, Spirit Lake Reservation, USA",0.0,0.0,19.192235559806786,0.5767309064953604,2.3324509881827504,0.0,119.27024356164078,0.0,301.63717292322644
+"Eagle Nest District, Pine Ridge Reservation, USA",0.0,0.0,43.26345644527994,0.5347322720694645,5.491430153248487,0.0,125.24872859787763,0.0,135.31646993629164
+"Heipa District, Lake Traverse Reservation and Off-Reservation Trust Land, USA",0.0,0.03056768558951965,26.60835893046331,0.0,20.90829339854815,0.0,99.82541354673545,0.0,150.2299708296863
+"Enemy Swim District, Lake Traverse Reservation and Off-Reservation Trust Land, USA",0.001476458872043224,0.0052122114668652275,22.92830439468162,0.2524199553239017,7.108994991123612,0.16306775874906926,47.7144924373663,0.0,189.11896136619313
+"Dennehotso Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,75.63552464231755,0.2992537313432836,7.819301729039485,0.0,227.20136856781536,0.0,123.16858107530565
+"Tselani Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,26.13476230310968,0.2108027006751688,6.743727328217459,0.0,192.94102112093913,0.0,130.82987432203754
+"Whippoorwill Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,37.933417205680826,0.0,15.123906291430742,0.0,172.87026776056987,0.0,149.04535950854589
+"Parshall Segment, Fort Berthold Reservation, USA",0.0,0.0,44.6617902398979,0.727760736196319,2.9942486652653333,0.0,72.14510440910055,0.0,419.4195766318992
+"Naschitti Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,46.572217525360074,0.24289008455034589,4.766502017513044,0.0,220.58727357954552,0.0,50.38178901669357
+"Iyanbito Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,22.482244612840056,0.0,7.57561519429652,0.0,177.8566935782253,0.0,14.25773723380039
+"Bushyhead, Cherokee OTSA, USA",0.0,0.0,16.973094627711365,0.016253869969040248,3.638861371773129,0.0,43.86090416699699,0.0,31.975411367909008
+"Houck Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,47.20625992541239,0.0452418096723869,9.264335235317024,0.0,219.2428006001994,0.0,80.2219486280216
+"Round Rock Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,42.955520556020744,0.2581903276131045,5.640949444020717,0.0,247.49648191895866,0.0,125.55422511503085
+"Toreva District, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.9274570982839313,8.486976904591106,0.0686427457098284,3.54962164608371,0.0,128.93199878587578,0.0,183.02956408854422
+"District 1, Gila River Indian Reservation, USA",0.0,0.5293197810789679,10.377494154820457,0.3924941360437842,2.48960860524042,0.1524628616106333,31.429647110412187,0.0,31.278735766434714
+"Nazlini Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,21.89146287977813,0.08874801901743265,7.64620589345848,0.0,217.51630673711793,0.0,93.74416669209612
+"Mexican Springs Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,22.97236243018981,0.0,8.376403086895127,0.0,216.30595520630763,0.0,32.79196307433741
+"White Cone Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,39.575426953437486,0.020933977455716585,7.793979996732537,0.0,149.49962320297678,0.0,145.78801556557653
+"District B, Salt River Reservation, USA",3.290063208940478e-05,1.0,7.29521734902585,0.7658022690437601,1.4378412754583516,1.0,17.028653907757693,1.0,7.37135613604844
+"Cleora, Cherokee OTSA, USA",0.0,0.0,16.214506701795592,0.01721311475409836,4.45516814333824,0.0,64.37836364353268,0.0,43.4824954191683
+"Jeddito Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,28.059903930077642,0.29194078947368424,6.326306533927565,0.0,156.71024828817482,0.0,146.69748385911797
+"Hays District, Fort Belknap Reservation and Off-Reservation Trust Land, USA",0.0,0.0,52.91050825211739,0.21184320266889073,4.3651685268995175,0.0,121.94940515436691,0.0,178.71315578651436
+"Pinedale Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,26.430964483574908,0.0,11.69066460869196,0.0,178.71398526305634,0.9080267558528428,6.530896202034661
+"Rock Point Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,60.99147347650494,0.21610169491525424,6.115795672770176,0.0,240.1866994030808,0.0,130.30029146405425
+"Red Valley Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,38.11977502474859,0.1556122448979592,8.324443068725726,0.0,233.88221955131377,0.0,84.88251474144685
+"St. Michael District, Spirit Lake Reservation, USA",0.0,0.055272108843537414,14.916307418863408,0.0,10.908695051736245,0.0,118.14519097212849,0.0,292.6926617574503
+"District 1, Cheyenne River Reservation and Off-Reservation Trust Land, USA",0.0,0.0,35.9039780178025,0.4469178082191781,11.852658680931812,0.0,134.74158161920613,0.0,163.95820659729986
+"Steamboat Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,24.57495975270543,0.0,15.488478975426277,0.0,183.30396430199852,0.0,118.36842965668752
+"Sweetwater Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,62.76622097300809,0.13459879206212252,11.241908064436059,0.0,224.81689571714927,0.0,108.36239471226641
+"St. Francis Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,14.725332715663548,0.4666666666666667,3.4016635669253388,0.0,147.2898688578934,0.0,210.6386981155887
+"Painttown Community, Eastern Cherokee Reservation, USA",0.0,1.0,3.5756635689439045,0.0,3.4720204446541914,0.0,68.0227624932929,0.0,20.837594233959635
+"Pass Creek District, Pine Ridge Reservation, USA",0.0,0.0,23.98231309193759,0.4900086880973067,4.888997190742437,0.0,122.57277245511658,0.0,132.8923893542685
+"Liberty Community, Cherokee OTSA, USA",0.0,0.0,15.188619209319526,0.18624891209747607,3.076437554764567,1.0,21.565792053004888,0.0,102.08908638871229
+"Tachee Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,35.72142996900843,0.0,12.633072600289278,0.0,187.57174058408324,0.0,145.94158156675223
+"Briggs, Cherokee OTSA, USA",0.0,0.8845814977973568,7.352862918242835,0.5577092511013216,2.446819333103987,0.0,64.15946343764757,0.0,98.95675339641328
+"Rock Springs Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.018600531443755536,14.684476405989564,0.09034543844109831,4.776020356545504,0.0,209.4489639059773,0.0,27.82644096360725
+"Red Mesa Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,53.139302488202574,0.0,9.903140003852778,0.0,199.29636961935688,0.0,79.91102291643345
+"Big Cove Community, Eastern Cherokee Reservation, USA",0.0,0.4088888888888889,10.283067647608751,0.0,8.311400382580906,0.0,66.52931453902431,0.0,21.96764829626075
+"Mandaree Segment, Fort Berthold Reservation, USA",0.0,0.0,47.832540784427636,0.28480436760691535,5.022138413169824,0.0,99.6568992944316,0.0,386.43066905433074
+"New Eucha, Cherokee OTSA, USA",0.0,0.0,22.61265084542867,0.0,8.854876701187155,0.0,53.176619880762516,0.0,60.047985890953086
+"Tulalip Bay, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,1.0,8.656874073358336,0.0,5.60321931155243,1.0,17.430658635167475,0.0,42.57350136290243
+"Inscription House Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,64.76772088419307,0.0,13.423404177023322,0.0,142.64134860933217,0.0,188.30872461380548
+"Greasewood Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,38.523563365570865,0.33994334277620397,4.695976996704337,0.0,167.64541592858748,0.0,125.8215447237679
+"District D, Salt River Reservation, USA",0.0,1.0,5.624025002167047,0.501432664756447,1.9328557685317858,1.0,15.865015582911521,0.9703915950334289,6.6247306051433
+"Four Bears Segment, Fort Berthold Reservation, USA",0.00695706234064998,0.0,41.52880649741792,0.0,12.090341446877211,0.0,87.8101973955249,0.0,412.75617697634533
+"Yellowhill Community, Eastern Cherokee Reservation, USA",0.0027084629429371602,1.0,2.1292613263812226,0.7441860465116279,1.8378749308121365,0.0,69.46955062711385,0.0,22.814905595191064
+"Cherry Tree, Cherokee OTSA, USA",0.0,0.8427184466019417,7.675920181620767,0.11650485436893204,2.858917868289833,0.0,51.593489016193296,0.0,119.92276781049908
+"Rock Creek District, Standing Rock Reservation, USA",0.0,0.0,41.694895666722026,0.4155339805825243,13.757501176151203,0.0,121.88277491739376,0.0,227.81038851214439
+"Hogback Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.23303834808259588,10.921111906290166,0.0,9.15664740752277,0.0,203.72617912400685,0.0,44.474211846705415
+"Two Grey Hills Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,57.42631714625631,0.0531496062992126,6.233392698543811,0.0,241.4111127869481,0.0,74.3185311083908
+"White Shield Segment, Fort Berthold Reservation, USA",0.0,0.0,38.15028519952086,0.35763546798029555,8.346287498650083,0.0,81.37693992741303,0.0,395.5648890111005
+"Moodys, Cherokee OTSA, USA",0.0,0.11653386454183266,12.870814268343176,0.0,6.511589675643126,0.0,65.63806764718436,0.0,86.82030387597283
+"Gu Achi District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.044489383215369056,40.78741435616978,0.06976744186046512,6.1738929318551925,0.0,103.45806147038566,0.0,104.03724232028256
+"Hard Rock Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,32.5372096320571,0.11405295315682282,9.320571447748637,0.0,149.59169720051347,0.0,184.77011632585499
+"Teec Nos Pos Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,42.49366958745361,0.32139201637666326,5.820856442267521,0.0,205.8759309888106,0.0,93.51975827728918
+"Nageezi Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,65.6262374767903,0.0,16.182291317999912,0.0,162.3047013804086,0.0,63.686251178751625
+"John Sam Lake, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,1.0,4.910487726974906,0.0,3.7900987064086116,1.0,23.288492382242094,0.0,40.26490767914521
+"Bread Springs Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.029787234042553193,15.89410302083033,0.16276595744680852,4.324724526131166,0.0,194.06760847662684,0.0,35.863570291762684
+"North Oraibi District, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,23.536686160327534,0.7289220917822838,1.4112451402676387,0.0,126.14384397800092,0.0,196.2453174996288
+"Pettit, Cherokee OTSA, USA",0.0,0.0,16.25386567210365,0.11909871244635194,3.3429308989902813,0.0,71.85788642517393,0.0,102.67457553601746
+"Cameron Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,38.85364703681218,0.04833512352309345,6.726481588512575,0.0,62.93952344336204,0.0,164.28250876094629
+"District 7, Gila River Indian Reservation, USA",0.0049391876447570605,0.9504843918191603,6.6793710354998925,0.1689989235737352,2.9407468999061472,1.0,22.62754314632137,0.0,14.459455823955716
+"Ponemah District, Red Lake Reservation, USA",0.0,0.0,20.257603883033493,0.3013993541442411,4.0094226790007905,0.0,125.21704480326974,0.0,75.8154636520995
+"District G, Salt River Reservation, USA",0.0,1.0,6.466495908399685,0.6032786885245902,1.706465450644739,1.0,19.271275713198094,0.5814207650273224,9.708978344234456
+"Brockton District, Fort Peck Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.23767798466593648,19.38665868879439,0.3953997809419496,9.114013575799227,0.0,93.94614802874929,0.0,374.13815832068855
+"Kenwood, Cherokee OTSA, USA",0.0,0.0,26.00318435007356,0.31526548672566373,2.928052646342766,0.0,63.54927213475158,0.0,71.29158417888172
+"Smith Lake Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,20.050059474492226,0.0,13.286919286253326,0.0,149.69494685662866,0.0,21.110188212266394
+"Cannonball District, Standing Rock Reservation, USA",0.0,0.0,30.658671302241487,0.5617214043035108,2.590178998642098,0.0,44.87368865145296,0.0,314.3963018658019
+"Busby District, Northern Cheyenne Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,38.758857181810775,0.6518771331058021,3.1023725682428585,0.0,83.91892501565039,0.0,120.2256914062303
+"Sawmill Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,20.555041291855435,0.0,12.451576408591578,0.0,242.92952475596553,0.0,67.39891467024087
+"Teesto Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,35.775903061965906,0.07285546415981199,6.330241017276584,0.0,119.95886835128871,0.0,174.1581567348594
+"Mission Highlands, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,1.0,8.382085895923414,0.0,4.3428464712062205,1.0,18.83850106823218,0.0,42.65198673470427
+"Mariano Lake Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,21.382285051555325,0.3751493428912784,3.446954124345474,0.0,166.3425560419323,0.0,18.06377889706204
+"Firetrail, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,0.9055023923444976,7.745321580071001,0.0,6.02355199770308,1.0,23.57677001995478,0.0,37.50018961497819
+"Bird Springs Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,29.22849149981587,0.050061050061050064,7.941349950348558,0.0,84.44969162020794,0.0,160.37322241470494
+"Wide Ruins Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,38.796698878959525,0.1746031746031746,7.337438586698334,0.0,200.81024972856838,0.0,93.84383951151153
+"Woodall, Cherokee OTSA, USA",0.0,0.0,14.860105905834239,0.5073529411764706,2.5355367746097492,0.0,82.9424408076479,0.0,90.45018961247719
+"Brushy, Cherokee OTSA, USA",0.0,0.30456226880394577,11.486642642700463,0.17632552404438964,3.364762523889033,0.0,42.35828345776297,0.0,118.61874782160683
+"Indian Wells Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,55.233501944086676,0.07160493827160494,8.534677280125548,0.0,144.20867025597138,0.0,149.14271559196126
+"Dixon District, Flathead Reservation, USA",0.0,0.0,24.943296599817945,0.26823238566131025,5.1309166244567415,0.0,50.60552565641124,0.0,43.77518573824266
+"Limestone, Cherokee OTSA, USA",0.0,1.0,7.60030707755585,0.0,6.050033159845034,1.0,17.82105746284072,0.6666666666666666,9.47393064050209
+"Quilceda, Tulalip Reservation and Off-Reservation Trust Land, USA",0.010384414431886186,1.0,7.220206007751628,1.0,0.5023669059636575,1.0,18.789177816981155,0.0,46.82705768746868
+"Muddy District, Northern Cheyenne Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,53.13170627505308,0.0,8.085891961532864,0.0,93.22144822122601,0.0,133.13067228715852
+"Little Rock District, Red Lake Reservation, USA",0.0030487239440841543,0.7797695262483995,8.734370860531063,0.0,7.450859340684106,0.0,146.65234367138035,0.0,68.85931171949706
+"Counselor Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,75.84270266528048,0.0,11.40848106099121,0.0,133.3844408821208,0.0,89.18024621449723
+"Moenkopi Administrative Area, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,1.0,2.76487944030775,1.0,0.6174279643575116,0.0,85.17609040280162,0.0,201.4855162444686
+"Parmelee Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.07282184655396619,15.4132555054281,0.015604681404421327,4.289961426453794,0.0,132.09609068385492,0.0,190.56216227574055
+"Welling, Cherokee OTSA, USA",0.0,0.28218465539661897,11.226204542572193,0.0,6.64153585997801,0.0,68.00020351774157,0.0,104.90946894414272
+"District A, Salt River Reservation, USA",0.00016144882952599877,1.0,5.6800229748089786,0.7018229166666666,1.4545052733851271,1.0,14.423339309206431,1.0,4.818435133989674
+"Marysville West, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,1.0,6.431702516758013,1.0,0.6037520163438322,1.0,17.82546854545703,0.0,46.681685418703076
+"Lost City, Cherokee OTSA, USA",0.0,0.0,18.3769651907479,0.0,5.200895895331763,0.0,72.0180395320263,0.0,75.64097887545643
+"Lupton Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,36.3635157600947,0.0,17.31764759427851,0.0,227.30858340571518,0.0,65.17145332218303
+"Brent, Cherokee OTSA, USA",0.0,0.25526315789473686,10.785876562977819,0.0,8.77059961393335,0.0,38.72411231063202,0.0,101.35313359476893
+"Klagetoh Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,23.373899038382675,0.0,11.207117990137121,0.0,199.2857841839391,0.0,93.7424616103212
+"Rough Rock Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,33.44154730578484,0.18783068783068782,5.2932632551318015,0.0,214.55177377742626,0.0,145.73213830248304
+"Requa District, Yurok Reservation, USA",0.00019007216127145884,0.0,31.13915238251467,0.1883289124668435,4.87235673651663,0.1830238726790451,33.581613109258846,0.0,89.979265181662
+"Coyote Canyon Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,30.255112778981452,0.0,13.008125831211132,0.0,196.2938159735312,0.13430851063829788,16.347550691058157
+"Priest Point, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,1.0,4.581072694711925,0.0,4.008547150377397,1.0,14.669085666129364,0.0,45.73928061492109
+"Baca Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,28.66517904873057,0.09152086137281291,7.766565635209452,0.0,133.83076120568003,0.765814266487214,7.91588780963834
+"Flint Creek, Cherokee OTSA, USA",0.0,0.0,17.95889007714842,0.0,6.322651990288432,0.0,40.62008549497446,0.0,76.32730583596901
+"Wood Lake District, Spirit Lake Reservation, USA",0.0,0.0,26.007863606025804,0.08005427408412483,9.229007671910903,0.0,106.76988160940755,0.0,282.9208311172817
+"Mexican Water Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,64.7334207492786,0.0,16.23463888800199,0.0,223.6199041870027,0.0,96.32822930559324
+"Sequoyah, Cherokee OTSA, USA",0.0,1.0,6.626366134866697,0.3273972602739726,3.4387605050752574,0.0410958904109589,32.95278870330661,0.0,22.85409570724365
+"District 6, Cheyenne River Reservation and Off-Reservation Trust Land, USA",0.0,0.0,37.98545836964266,0.14758620689655172,15.51224423364563,0.0,88.25203133034243,0.0,229.20845501681802
+"Baboquivari District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.17753120665742025,17.112662610333924,0.18307905686546463,8.019967352816751,0.0,88.82448579934785,0.0,88.8326032555949
+"Big Coulee District, Lake Traverse Reservation and Off-Reservation Trust Land, USA",0.0022525018167027324,0.0,28.61505310010128,0.4092178770949721,6.237175885316562,0.02653631284916201,50.51402999898476,0.0,177.40918206431257
+"Cornfields Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.07449856733524356,15.62132716729418,0.0,11.565365039715005,0.0,188.07612809757896,0.0,107.69946388358579
+"Sheep Springs Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,53.378879830568415,0.0,9.924681927803999,0.0,228.76598632941685,0.0,61.451070231783994
+"Hermosa Point, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,0.6469740634005764,9.956721216319098,0.0,7.052997311105325,1.0,17.952797665157014,0.0,41.22471004453971
+"Coalmine Mesa Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.32220609579100146,19.916056220063762,0.0,15.625542719473058,0.0,89.80316481482242,0.0,193.65610791312614
+"White Oak, Cherokee OTSA, USA",0.0,0.07331378299120235,14.696604869124437,0.06744868035190615,6.852413393555857,0.0,71.66011556581219,0.0,52.711990229702764
+"District E, Salt River Reservation, USA",0.0,1.0,8.010704628716418,1.0,1.0993857601486061,1.0,17.854682615190853,1.0,8.16262065766658
+"Navajo Mountain Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,61.3555327763663,0.055964653902798235,7.562008388468638,0.0,170.3449447237322,0.0,157.72973499257938
+"Frazier District, Fort Peck Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,34.56577391400866,0.5267857142857143,8.61035549260824,0.0818452380952381,42.80887941076048,0.0,318.8726624658801
+"Tsayatoh Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,18.03367264357341,0.0,8.593365195227292,0.0,217.2725042889688,0.0,41.72596405599095
+"Sif Oidak District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,32.75136766832399,0.0,12.081356330554387,0.0,80.36288085106807,0.0,80.52491502031593
+"Spee-Bi-Dah, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0009843054192226102,0.0,11.362001913258071,0.0,9.547939639228224,1.0,22.09402196111757,0.0,36.48176821631376
+"Shaker Church, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,1.0,6.011700545379385,0.0,3.7101720948698835,1.0,15.99386088335858,0.0,45.3824298712898
+"Low Mountain Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,35.98490339337492,0.0,15.471671419013967,0.0,172.32382611862624,0.0,142.74325842623648
+"Beclabito Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.12440191387559808,21.045645131031264,0.3524720893141946,5.802288634470922,0.0,206.3757564548597,0.0,75.20295948391676
+"Crystal Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,31.92072120495585,0.13078149920255183,5.723311032850733,0.0,243.80769831309544,0.0,63.7626578846119
+"Porcupine District, Standing Rock Reservation, USA",0.0,0.0,34.325494918090406,0.22044728434504793,15.408605317371808,0.0,79.49931197130861,0.0,269.1340250548481
+"Little Eagle District, Standing Rock Reservation, USA",0.0,0.0384,17.997848793766874,0.6368,4.761010299961687,0.0,123.86103591757097,0.0,244.41094699223657
+"Greasy, Cherokee OTSA, USA",0.0,0.0,15.793399146383964,0.25925925925925924,3.1811543022903757,0.0,47.27870085791744,0.0,126.35255131174402
+"District 2, Gila River Indian Reservation, USA",0.0,0.9450726978998385,8.757298809581982,0.0,7.677577540723138,0.9741518578352181,27.568817277283788,0.0,27.48828739662756
+"Standing Rock Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,24.055218995476594,0.23424878836833601,4.569203573495972,0.0,180.56696964775543,0.06462035541195477,19.611615099946146
+"Ashland District, Northern Cheyenne Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,79.25322169430451,0.07653910149750416,3.7873314694629205,0.0,96.44219186756483,0.0,168.5402962659239
+"Newcomb Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,56.365971511745954,0.502495840266223,3.3529005466886446,0.0,234.880363234145,0.0,70.44545975402488
+"Tenkiller, Cherokee OTSA, USA",0.0,0.12564543889845095,15.08025338364714,0.20654044750430292,3.6886988904154427,0.0,67.43318922464026,0.0,108.08830623145968
+"Dry Creek, Cherokee OTSA, USA",0.0,0.0,19.305345941818203,0.1440972222222222,3.929851255113954,0.0,63.62534303069722,0.0,111.24461852558836
+"Wakpala District, Standing Rock Reservation, USA",0.0,0.23992994746059546,13.09198209578508,0.0,6.201804389454878,0.0,126.13799654951912,0.0,260.1014576064988
+"Fairfield, Cherokee OTSA, USA",0.014430168225334586,1.0,4.73570159064882,0.3894736842105263,2.342701082434265,0.0,56.020684241875486,0.0,108.64309016003517
+"Eldon, Cherokee OTSA, USA",0.0,0.44778761061946903,10.590544215261195,0.3185840707964602,3.7145504537599536,0.0,61.64865416392776,0.0,102.12287579898229
+"Ojo Encino Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,78.6901780969505,0.3929203539823009,3.6645920653070645,0.0,117.35509574563339,0.0,90.6244664191959
+"Pisinemo District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,45.692066270753216,0.11648745519713262,15.08548988890911,0.0,132.09784736492315,0.0,132.1522103519865
+"Snowbird Community, Eastern Cherokee Reservation, USA",0.0,0.0,28.53801450346561,0.030797101449275364,5.2903151477202774,0.0,56.670119102470224,0.0,67.22694192592044
+"District 3, Cheyenne River Reservation and Off-Reservation Trust Land, USA",0.0,0.0,52.1344507487932,0.0,16.643653449398634,0.0,105.40870084959641,0.0,127.9279740829602
+"Winslow Tract Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.00027734070206884625,0.9172794117647058,5.200176086197326,0.4797794117647059,3.949933173645723,0.0,92.70477117027609,0.0,156.29543324514682
+"Coppermine Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,30.37814731490772,0.0,20.762231445688627,0.0,94.81079284270157,0.0,229.8350729902393
+"Tolani Lake Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,49.04889263448336,0.0,22.362259113965447,0.0,80.14879837496699,0.0,163.04569262097323
+"Keys, Cherokee OTSA, USA",0.0,0.13714285714285715,11.958501864040112,0.0419047619047619,2.4117428642060244,0.0,73.58218251721382,0.0,101.29443057315505
+"Forest Lake Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,57.019866442715475,0.0,20.600437421724397,0.0,169.2522354265274,0.0,178.85139256682393
+"Texanna, Cherokee OTSA, USA",0.0,0.12835249042145594,11.437297711202195,0.0,11.573923427675645,0.0,99.88044510393205,0.0,99.68995765460289
+"Zeb, Cherokee OTSA, USA",0.0,0.0,14.826871645582713,0.5653846153846154,2.027633256717612,0.0,81.38019119292117,0.0,93.08035327887643
+"Shady Grove, Cherokee OTSA, USA",0.0,0.0,13.654288752730437,0.302504816955684,2.409446493353715,0.0,76.15024789756981,0.0,80.88287260546957
+"Scraper, Cherokee OTSA, USA",0.0,0.5,12.453927421622883,0.0,6.270039303635435,0.0,59.92771871320383,0.0,94.02576672734787
+"Casamero Lake Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,20.914150183190067,0.0,15.557270811638057,0.0,140.29688786540342,0.0,19.635365297931056
+"Oak Springs Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,32.83613127127696,0.12770137524557956,9.993810605819476,0.0,229.58922665932596,0.0,62.26622930439027
+"Marble City Community, Cherokee OTSA, USA",0.0,0.534516765285996,10.0127697148107,0.0,6.203278678850607,0.0,47.35354260177087,0.0,119.96436029936768
+"Remy, Cherokee OTSA, USA",0.0,0.34516765285996054,11.20336441387405,0.07495069033530571,4.014738236907993,1.0,17.47066951319556,0.0,100.5238597266507
+"Aspen, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,1.0,4.439352991622826,0.0,3.764364776575832,1.0,22.771116446220983,0.0,41.698217539669734
+"Bunch, Cherokee OTSA, USA",0.0,0.5049701789264414,12.263560571243712,0.09741550695825049,4.331237460839193,0.0,56.53388734813164,0.0,119.83262853586587
+"Becenti Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.17729083665338646,13.80828920940612,0.0,13.40715581273377,0.0,165.27103286177083,0.0,36.37802570580839
+"South Oraibi District, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,19.329039693720738,0.8207171314741036,1.2938990747683166,0.0,124.91499248863367,0.0,193.26231118208227
+"Lowrey, Cherokee OTSA, USA",0.0,0.0,21.681785865507894,0.068,3.707364663988447,0.0,57.867635051140994,0.0,87.3696510282687
+"Peavine, Cherokee OTSA, USA",0.0,0.606425702811245,8.933967721515724,0.20481927710843373,2.9531412729525406,0.0,51.990551721434336,0.0,104.07613603088663
+"Carlisle, Cherokee OTSA, USA",0.0,0.0,22.547933345108802,0.020703933747412008,4.6396044386230875,0.0,63.03066814286294,0.0,118.81814365232445
+"Gadii'ahi Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.7857142857142857,8.22151671824866,0.0,7.760331207310031,0.0,197.46607078867268,0.0,60.32970239127067
+"Redbird Smith, Cherokee OTSA, USA",0.0,0.0,24.779213608132192,0.0,7.578655220679684,0.0,65.34667207661155,0.0,113.78871031050075
+"Watts Community, Cherokee OTSA, USA",0.0,0.0863157894736842,15.19264071917489,0.1368421052631579,3.9851889470556108,0.07157894736842105,35.03297278268982,0.0,85.50154148682869
+"Crow Hill District, Spirit Lake Reservation, USA",0.0,0.0,26.043222002299316,0.0,4.787582136049913,0.0,121.2500636911038,0.0,308.9292810058428
+"Wauhillau, Cherokee OTSA, USA",0.0,0.21861471861471862,11.704511673187515,0.0,9.132994597738632,0.0,61.3165048650239,0.0,108.873623671954
+"Hickiwan District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,73.06050350384292,0.0,22.830918983119133,0.0,124.44360023604507,0.0,113.91484110323434
+"Blackgum, Cherokee OTSA, USA",0.0,0.0,24.037129400384952,0.0,12.97757332471857,0.0,63.33010029445358,0.0,112.94965450543098
+"Nicut, Cherokee OTSA, USA",0.0,0.0,22.249706258919595,0.11283185840707964,4.417409761137797,0.024336283185840708,33.354873688672576,0.0,116.35701724955632
+"Stimson, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,1.0,3.049346614689742,0.046460176991150445,2.6716568123753377,1.0,23.829298517973825,0.0,42.36879023097374
+"Buffalo Lake District, Lake Traverse Reservation and Off-Reservation Trust Land, USA",0.0,0.0,21.519764960154376,0.0,19.781324125565487,0.0,83.2766023092675,0.0,169.90385715437787
+"Lodge Pole District, Fort Belknap Reservation and Off-Reservation Trust Land, USA",0.0,0.0,52.69285779792278,0.0,14.872969723625031,0.0,130.87613948262552,0.0,191.12870563726318
+"Black Mesa Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,47.612315958579025,0.004464285714285714,9.670033956170567,0.0,187.62180950876242,0.0,161.9266307226439
+"Fort Kipp District, Fort Peck Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.004524886877828055,19.47510631615554,0.0,14.115259173297558,0.0,72.73785642753595,0.0,396.5046228999594
+"Gideon, Cherokee OTSA, USA",0.0,0.009111617312072893,12.780853009486101,0.0,6.667487321489347,0.0,72.0226815299111,0.0,82.45479395193365
+"Rose, Cherokee OTSA, USA",0.0,0.0,27.99888161157469,0.02088167053364269,6.247756804281402,0.0,63.949127649468295,0.0,76.51762847245082
+"Bell, Cherokee OTSA, USA",0.0,0.02558139534883721,12.061360249066086,0.32558139534883723,4.2578712721785665,0.0,48.10542039502567,0.0,118.41461836356828
+"White Horse Lake Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,48.285674548692995,0.0,19.464456879010484,0.0,122.17481368639487,0.0,58.47423351111454
+"Chukut Kuk District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,32.15122372455121,0.0,19.801212360956068,0.0,97.80519735278773,0.0,97.62857775383779
+"Nahodishgish Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,14.801520550553722,0.0,10.19653038583737,0.0,171.0994885868781,0.0,20.63822271023032
+"Port Susan, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,0.5191387559808612,9.793507056336463,0.0,8.026512279991621,1.0,23.029812396936617,0.0,36.519979387662715
+"Schuk Toak District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,27.141965696122746,0.06521739130434782,12.069452626301393,0.0,70.18916237808408,0.0,70.58246968082875
+"Teresita, Cherokee OTSA, USA",0.0,0.0,24.096243286517687,0.0,6.242159334511522,0.0,61.58142058613107,0.0,82.79170999057614
+"Long, Cherokee OTSA, USA",0.0,0.0,17.806675470655453,0.25735294117647056,2.8225777981477362,1.0,24.300861050855882,0.0,106.59092492517513
+"Littlewater Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.22413793103448276,14.641026000690495,0.0,14.17079183145254,0.0,143.02182819386735,0.0,31.98914305541379
+"Akins, Cherokee OTSA, USA",0.0007321047553405447,0.3728395061728395,11.081190323969867,0.0,6.645535573869731,0.0,33.92589779221242,0.0,110.97674216614662
+"Vermilion Lake Segment, Bois Forte Reservation and Off-Reservation Trust Land, USA",0.0,0.0,25.98575542877435,0.0,4.493487863821955,0.0,60.97904710326508,0.0,109.17432744663616
+"Evening Shade, Cherokee OTSA, USA",0.0,0.0,21.381747319778572,0.0,9.68555916533002,0.0,59.45436770884369,0.0,115.9403972093213
+"Gregory, Cherokee OTSA, USA",0.0,0.0,16.92299584884092,0.0,6.148177483946009,0.8753315649867374,28.573446933228112,0.0,31.553369295503725
+"Okreek Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,35.87514487426838,0.15649867374005305,7.892490520309625,0.0,121.29843236108948,0.0,238.93323670229992
+"Rocky Mountain, Cherokee OTSA, USA",0.0,0.0,12.345344504553776,0.0,6.879625143859156,0.0,63.46343979203475,0.0,113.84373728801283
+"Oswego District, Fort Peck Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,30.686948732723437,0.10192837465564739,9.668351737821787,0.0,57.064757925923615,0.0,335.2395150129485
+"Short, Cherokee OTSA, USA",0.0,0.0,20.656178674372935,0.055401662049861494,4.999265629349279,0.8033240997229917,28.93785543443703,0.0,113.75976573540191
+"Marshall, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,1.0,4.451729827672714,0.0,2.747990664911694,1.0,22.34072505654326,0.0,43.15970202390381
+"Two Strike Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.9553072625698324,6.66843723191658,0.00558659217877095,4.045919026403209,0.0,139.42666627643828,0.0,206.60467160333803
+"Ideal Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.6056338028169014,9.411713476111172,0.0,9.067928597691287,0.0,111.62763871509446,0.0,253.94059316517743
+"Oaks Community, Cherokee OTSA, USA",0.0,0.0,26.693903480049528,0.2577903682719547,3.0788666149801602,0.0,52.21063524995814,0.0,84.45019513827812
+"Cove Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,51.4264073508562,0.21142857142857144,4.507657490569538,0.0,245.10911291613,0.0,98.63671359230378
+"Gu Vo District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,65.35186485075444,0.0,30.697580847051047,0.0,154.97097579412977,0.0,151.59790927720087
+"Twin Buttes Segment, Fort Berthold Reservation, USA",0.0,0.0,53.88200124070799,0.276657060518732,5.899567666828716,0.0,109.15167825180563,0.0,372.1326825162787
+"East Dinnebito District, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,26.6277837561017,0.9476744186046512,1.4003033766409059,0.0,125.423294529272,0.0,198.79878554502162
+"Nett Lake Segment, Bois Forte Reservation and Off-Reservation Trust Land, USA",0.00024596262280825176,0.0,40.4604207083871,0.6686046511627907,2.5694332589204234,0.0,57.47412530261127,0.0,138.9999416687737
+"Sand Hill, Cherokee OTSA, USA",0.0,0.0,20.97138261122132,0.43952802359882004,3.170096964849208,0.0,82.9651111515604,0.0,97.57680106385416
+"Gila Bend District, Tohono O'odham Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,63.71998373272711,1.0,1.1090752530990136,0.0,84.56894065006479,0.0,45.10077257990444
+"Pueblo Pintado Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,54.35227338425004,0.23547400611620795,3.918314111167847,0.0,137.19323716397616,0.0,75.74574155713495
+"Steely Hollow, Cherokee OTSA, USA",0.0,0.8307692307692308,9.050221040463182,0.0,6.102301065930037,0.0,66.21439399274158,0.0,89.3935256903788
+"Mission Beach, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,1.0,7.798163473525762,0.0,6.0317383521323205,1.0,16.04869518015389,0.0,43.389577499616436
+"Drowning Creek, Cherokee OTSA, USA",0.0,0.0,17.887785896895476,0.0,10.391389853527004,0.0,56.5188365272854,0.0,53.48351735413909
+"Pin Oak Acres, Cherokee OTSA, USA",0.0,0.0,19.549919215675292,0.0,6.644550721349436,0.0,53.80152206082147,0.0,55.422989627562785
+"Maplewood, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,1.0,5.919348640230594,0.7197452229299363,2.007173738550304,1.0,16.883844462438454,0.0,46.236693276669804
+"Titanic, Cherokee OTSA, USA",0.0,0.09967845659163987,11.218580375177917,0.0,7.955384363397145,0.0,58.08650238096617,0.0,106.51592969158396
+"Notchietown, Cherokee OTSA, USA",0.0,0.0,29.947379869082784,0.0,5.4820604656939915,0.0,70.57310000424759,0.0,109.37985672660764
+"Deer Lick, Cherokee OTSA, USA",0.0,0.0,15.249782351098611,0.3023255813953488,2.8375999023016463,0.0,44.87954246710803,0.0,52.06052834622189
+"Belfonte, Cherokee OTSA, USA",0.0,0.0,21.639572620192855,0.026845637583892617,4.020543927584426,0.9731543624161074,28.228854697545025,0.0,110.88463135687762
+"Oak Hill-Piney, Cherokee OTSA, USA",0.0,0.0,21.898590270463643,0.0,7.073961250006003,0.0,39.565236732297926,0.0,55.356464499575075
+"Lake Valley Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,43.921401129839644,0.11538461538461539,6.090020908516823,0.0,183.4963520520162,0.0,57.48385834416265
+"Cloud Creek, Cherokee OTSA, USA",0.0,0.0,22.00071491933403,0.0,5.98437770288675,0.0,38.932376887076394,0.0,64.55893999566216
+"Weitchpec District, Yurok Reservation, USA",0.0,0.0,46.26885771573637,0.4014336917562724,5.081833794317668,0.0,40.77562529580603,0.0,98.92101862035598
+"Spring Creek Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,23.430754604891884,0.26714801444043323,2.922590871088353,0.0,154.86576535425453,0.0,201.74160771739886
+"Old Green, Cherokee OTSA, USA",0.0,0.0,18.70423550873286,0.07272727272727272,3.168343324911677,0.0,43.329183119741394,0.0,94.12613174632223
+"Simms, Cherokee OTSA, USA",0.0,0.0,15.99861460197693,0.0,9.761068700518981,0.0,72.88684069585935,0.0,119.77637021078141
+"Ballou, Cherokee OTSA, USA",0.0,0.0,21.312423087836194,0.0,7.728076799599809,0.0,62.50624323431102,0.0,62.9540818758289
+"Kenel District, Standing Rock Reservation, USA",0.0,0.06538461538461539,23.703216412118113,0.0,22.26460107492437,0.0,104.00853142759762,0.0,277.92935972007814
+"Box, Cherokee OTSA, USA",0.0,0.0,21.571148337103963,0.0,9.451120558258895,0.0,61.66975886549993,0.0,115.7192160006541
+"District 2, Cheyenne River Reservation and Off-Reservation Trust Land, USA",0.0,0.0,46.53269723876943,0.0,13.194138734119317,0.0,125.13421457243996,0.0,131.20517120030843
+"Manuelito Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,27.920196950024746,0.0,16.6513464185164,0.0,221.3918352196877,0.0,53.21663711015924
+"Snake Creek, Cherokee OTSA, USA",0.0,0.0,23.740855341436,0.0,6.172119586324279,0.0,70.13439668611576,0.0,70.03253271352818
+"Warrington Addition, Menominee Reservation and Off-Reservation Trust Land, USA",0.0,1.0,9.336546428388166,1.0,0.7287643469880463,0.0,57.69905511346849,0.0,64.3877060970708
+"McCoy Ford, Cherokee OTSA, USA",0.0,1.0,6.737583462881057,0.0,5.722960802544794,0.0,47.24360226181299,0.0,115.98940603679635
+"Leach, Cherokee OTSA, USA",0.0,0.0,31.851878923771316,0.24497991967871485,2.875161480983205,0.0,54.89914038207906,0.0,81.57998619467023
+"River Bottom, Cherokee OTSA, USA",0.0,0.0,20.171264913681508,0.0,4.859952562860718,0.0,84.50618432479087,0.0,96.86204921407044
+"Schoolview Addition, Menominee Reservation and Off-Reservation Trust Land, USA",0.0,0.0,10.146675090643127,1.0,0.3741266144970032,0.0,58.61174341079036,0.0,65.30064474205898
+"Crow Creek District, Crow Creek Reservation, USA",0.0,0.0,21.7388152225382,0.0,19.42608486868552,0.0,91.33803308633108,0.0,264.9518297400699
+"Tiawah, Cherokee OTSA, USA",0.0,0.7617021276595745,9.533520661996251,0.0,6.367232881235289,0.0,31.490460061656808,0.0,29.253506333159905
+"Lyons Switch, Cherokee OTSA, USA",0.0,1.0,5.704305595942378,0.0,4.036740591495695,0.0,57.39518631999611,0.0,117.0290396960281
+"Cherokee County Community, Eastern Cherokee Reservation, USA",0.0,0.5411255411255411,9.137958384839173,0.1774891774891775,3.47842234281884,0.0,76.04211241242204,0.0,87.821659373923
+"Horse Creek Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,31.492168447386113,0.021834061135371178,4.60617018307585,0.0,101.89934053682785,0.0,200.68091069844917
+"Polacca Wash District, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.9730941704035875,5.731770491072887,0.7533632286995515,2.447588412516205,0.0,129.1616898711952,0.0,179.8554290681401
+"Proctor, Cherokee OTSA, USA",0.0,0.0,19.176360559204248,0.0,12.322047157084342,0.0,52.17200747548656,0.0,96.53402090849586
+"Cedar Crest, Cherokee OTSA, USA",0.0,0.0,24.165169890345965,0.0,7.103509145232532,0.0,65.50341648929756,0.0,66.19530068169654
+"Dennis, Cherokee OTSA, USA",0.0,0.334841628959276,10.73789384800609,0.0,8.846029981840875,0.0,58.376535258644005,0.0,44.19203891184362
+"Rainwater, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,1.0,6.970310663374402,1.0,0.7423751753142944,1.0,18.258390154548323,0.0,46.13614853188978
+"Piney, Cherokee OTSA, USA",0.0,0.5345622119815668,10.413666451501737,0.0,7.216466447372111,0.0,50.99223999047647,0.0,104.74907475423764
+"Christie, Cherokee OTSA, USA",0.0,0.0,18.18289918104187,0.0,7.083205004262384,0.0,46.26107382721719,0.0,95.25872045974529
+"East Village, Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, USA",0.0,1.0,4.674408195791186,1.0,0.9913226482488524,1.0,22.420991152850668,0.0,12.755762500308169
+"Big Bend District, Crow Creek Reservation, USA",0.0,0.0,46.36763121141011,0.0,23.141370158360274,0.0,43.52990667013781,0.0,263.03373289836986
+"Burnham Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,46.05340704347122,0.0,25.732358882374736,0.0,216.12939911919676,0.0,49.73026527410305
+"Soldier Creek Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,1.0,7.126239677264979,0.0,9.477466054440438,0.0,128.0426735683981,0.0,200.34904186696392
+"Badger Lee, Cherokee OTSA, USA",0.0,1.0,2.9292449356096473,0.12435233160621761,3.6675176038638284,0.0,43.07285486575775,0.0,113.28446706194114
+"Pecwan District, Yurok Reservation, USA",0.0,0.0,50.19184239751243,0.2513089005235602,5.994580851039669,0.0,43.39664734946658,0.0,95.43680131048794
+"Black Pipe Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,35.97330093765817,0.7659574468085106,1.9080250313867195,0.0,125.20838677358155,0.0,170.74606934579774
+"Elm Grove, Cherokee OTSA, USA",0.0,1.0,7.84490080880779,0.0,6.31720282572844,0.0,52.72905015202761,0.0,114.42791786237129
+"Twin Oaks, Cherokee OTSA, USA",0.0,0.0,25.31519761800225,0.005555555555555556,2.4246107959767977,0.0,47.265284172354846,0.0,77.96486318216108
+"Stoney Point, Cherokee OTSA, USA",0.0,0.0,17.286596719753792,0.0,7.06343965846583,0.0,38.70508926889303,0.0,118.70715403412068
+"West Peavine, Cherokee OTSA, USA",0.0,0.5209580838323353,11.012312386200335,0.5209580838323353,2.5702342030833116,0.0,51.61971994588204,0.0,102.13719378798316
+"Grass Mountain Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.6646341463414634,9.773441305503862,0.0,7.094166134731235,0.0,140.0728494613317,0.0,200.86241612856585
+"Shady Grove Community, Cherokee OTSA, USA",0.0,0.0,22.046590053557797,0.0,9.914730919680938,0.0,93.75227432766688,0.0,97.78959488174617
+"Deer Creek Segment, Bois Forte Reservation and Off-Reservation Trust Land, USA",0.0,0.05521472392638037,14.735678353718002,0.0,15.08657329011422,0.0,73.79876728393056,0.0,96.1904221466727
+"Big Eagle's, Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, USA",0.013039073684591706,1.0,5.559031892146729,0.7267080745341615,1.8679634428967682,1.0,25.48388473752272,0.0,15.256479495168334
+"Pump Back, Cherokee OTSA, USA",0.0,0.0,17.376256599208546,0.0,4.124530140309286,0.0,69.83746591473354,0.0,66.1750700049751
+"Swift Bear Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,40.46282612663991,0.66875,6.220495828281952,0.0,93.86376880641083,0.0,197.20732627340112
+"Ring Thunder Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.9056603773584906,8.963187254849487,0.0,11.53140634836849,0.0,124.34886370382206,0.0,204.23687676770544
+"Duchess Landing, Cherokee OTSA, USA",0.0,0.0,19.293351283725748,0.0,11.958830031927365,0.0,95.24972362536691,0.0,99.75325111463496
+"Mulberry, Cherokee OTSA, USA",0.0,1.0,7.400315695864834,0.0,5.27997525326619,0.0,57.97829013940643,0.0,107.95024743674433
+"Upper Cut Meat Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,19.955147756128106,0.0,5.793473982972194,0.0,141.2999686117914,0.0,188.96691364607062
+"Corn Creek Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,45.45520965462963,0.0,11.5899686665849,0.0,115.5588274530641,0.0,164.6892267209355
+"He Dog Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,20.14559660983887,0.7517241379310344,2.967058395038328,0.0,137.17323101754332,0.0,186.7696243431626
+"Murphy, Cherokee OTSA, USA",0.0,0.0,20.189974652912447,0.0,9.954150989620596,0.0,58.379578887533484,0.0,59.25183989927306
+"Pinhook Corner, Cherokee OTSA, USA",0.0,0.48201438848920863,11.697486808439447,0.0,8.633717341677004,0.0,51.7722951184252,0.0,121.27339401362207
+"Johnson Prairie, Cherokee OTSA, USA",0.0,0.0,18.341031520312722,0.0,6.642502964238117,0.0,65.72285831636385,0.0,82.52013784926245
+"Sams Corner, Cherokee OTSA, USA",0.0,0.0,14.522916375456441,0.0,4.049301806575119,0.0,60.34719478459229,0.0,59.054637914886136
+"Indianola, Cherokee OTSA, USA",0.0,0.0,16.847956865050843,0.0,8.898586489077482,0.0,37.17242926700675,0.0,46.5306403955543
+"White Water, Cherokee OTSA, USA",0.0,1.0,9.054875758493226,0.0,9.222584596131483,0.0,45.44470395491191,0.0,45.33874569399305
+"Bluff View, Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, USA",0.0008315521358461395,1.0,3.967188127318685,0.0,2.4242910009230556,1.0,25.698323071913638,0.0,15.869383292002107
+"Zena, Cherokee OTSA, USA",0.0,0.03418803418803419,10.825593387433456,0.0,10.09458715004446,0.0,54.651220157115425,0.0,47.83570851819734
+"Chewey, Cherokee OTSA, USA",0.0,0.0,20.86759114939617,0.0,13.027447862532007,0.0,44.569937591411396,0.0,85.40221746333098
+"Hopi-Winslow District, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,1.0,3.502494770101478,0.0,2.478429262257143,0.0,84.36470835589805,0.0,147.9255155864246
+"Birney District, Northern Cheyenne Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,76.98888621181045,0.0,11.73600454432078,0.0,82.65840649435039,0.0,159.52463514817524
+"McKey, Cherokee OTSA, USA",0.0,0.17647058823529413,11.678138474869149,0.0,5.504530279006534,0.0,52.192522139785076,0.0,117.92878338853163
+"Upper Polacca District, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.900990099009901,5.92629394511115,0.0,3.3429508869058817,0.0,140.41271639295425,0.0,171.31033884701242
+"Salem, Cherokee OTSA, USA",0.0,1.0,8.10640668914692,0.0,4.126816277769264,0.0,50.98453719221,0.0,116.82645856993764
+"North Reservation, Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, USA",0.0,1.0,4.409664433516327,1.0,0.350195292505592,1.0,23.342078625592308,0.0,13.564249441062591
+"Butte Creek Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,44.362995096920386,0.2127659574468085,12.90514228492509,0.0,91.9477584897394,0.0,226.39654960308295
+"Narcissa, Cherokee OTSA, USA",0.0,0.6413043478260869,9.529803357191826,0.0,8.538218994140479,0.0,55.011738104155256,0.0,18.0891802868836
+"Milk's Camp Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,24.172675977495715,0.0,8.429984045745588,0.0,161.63349510446443,0.0,178.6869020466211
+"Sycamore, Cherokee OTSA, USA",0.0,0.0,15.72316724544105,0.0,5.438445064727402,0.0,56.199853315704914,0.0,121.79666329802411
+"Dodge, Cherokee OTSA, USA",0.0,0.449438202247191,10.476772480992311,0.0,7.137328815215845,0.0,44.567512181246485,0.0,33.63296757685803
+"White Rock Chapter, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,48.12819460307977,0.0,15.135382204525047,0.0,194.31200009929475,0.0,54.493888490819074
+"Flute Springs, Cherokee OTSA, USA",0.0,0.0,17.409899224716984,0.9770114942528736,1.5885374017988594,0.0,50.829756522077204,0.0,123.66946186045
+"Butler, Cherokee OTSA, USA",0.0,1.0,5.601447480848957,0.0,6.426701283724533,0.0,47.14565989477772,0.0,41.577680475141904
+"Waterworks, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,0.7951807228915663,9.340015633242917,0.0,6.1036120444594095,1.0,19.03875980133644,0.0,41.2096268567925
+"Marietta, Cherokee OTSA, USA",0.0,1.0,4.457265119472825,0.8780487804878049,1.9444788476767978,0.0,57.499713216018755,0.0,108.80784454796665
+"Brewer, Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, USA",0.0,1.0,4.24956251850238,1.0,0.6820880474523873,1.0,23.06589791334197,0.0,13.39700628948766
+"Wickliffe, Cherokee OTSA, USA",0.0,0.0,17.843421563026087,0.0,3.7831386306380814,0.0,70.93204570412055,0.0,66.74208602825811
+"Mazie, Cherokee OTSA, USA",0.0,0.0,18.727907954032993,0.0,5.227171997367533,0.0,50.77691688288075,0.0,52.05814638524271
+"Cayuga, Cherokee OTSA, USA",0.0,0.4722222222222222,10.127854573549046,0.0,6.298667249252942,0.0,48.692572419747506,0.0,31.353151851195044
+"Sour John, Cherokee OTSA, USA",0.0014593342150062334,0.0,27.64913666264771,0.0,7.074958727363732,0.0,76.17384623640395,0.0,104.07223790456698
+"Hardrock District, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,1.0,3.7494545760144473,0.0,2.563702359563103,0.0,137.90844097476383,0.0,173.52913880806554
+"Indian Point Segment, Bois Forte Reservation and Off-Reservation Trust Land, USA",0.0,0.0,26.242318950042595,0.0,19.26053579471532,0.0,69.61976906375388,0.0,143.49110209685293
+"Dodson District, Fort Belknap Reservation and Off-Reservation Trust Land, USA",0.0,0.0,31.291581954312402,0.0,11.324089191119445,0.0,132.0228460202017,0.0,220.27430157567994
+"Iron Post, Cherokee OTSA, USA",0.0,0.0,22.969493255822044,0.0,5.640326212558014,0.0,67.95975037629171,0.0,67.6070940797044
+"Bull Hollow, Cherokee OTSA, USA",0.0,0.0,33.12706971120993,0.0,7.864968511283241,0.0,53.164138051753085,0.0,71.10930769704194
+"Ketchum Community, Cherokee OTSA, USA",0.0,0.0,19.01175577430204,0.0,3.2150678086667184,0.0,70.98082779186349,0.0,52.114559145733836
+"Shongopovi District, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.8,8.500813214304172,0.8,2.04267236725733,0.0,127.11363370626152,0.0,182.852125729004
+"Rocky Ford, Cherokee OTSA, USA",0.0,0.0,29.21899959168615,0.0,4.331649672752573,0.0,55.51742522162849,0.0,83.95758194597917
+"Sycamore Springs, Cherokee OTSA, USA",0.0,0.0,20.470494055587658,0.0,8.841657534821994,0.0,37.16833967699598,0.0,52.18232190964489
+"Dripping Springs, Cherokee OTSA, USA",0.05602343736784496,0.0,12.484210875343923,0.0,4.816781065303962,0.0,35.503273274825034,0.0,74.51883140825801
+"Sparrowhawk, Cherokee OTSA, USA",0.0,1.0,5.019450429300023,0.0,2.9215587237100955,0.0,65.85042204903485,0.0,96.52896850941237
+"Tyio-Dry Creek, Cherokee OTSA, USA",0.0,0.0,27.870980093850438,0.0,11.025085965409465,0.0,44.48453623541407,0.0,65.07056239402756
+"Zion, Cherokee OTSA, USA",0.0,1.0,2.469905948948642,1.0,0.8219407699606002,0.0,55.80604268808804,0.0,115.08068544339066
+"District F, Salt River Reservation, USA",0.0,0.42857142857142855,10.075070466333205,0.0,4.505894632109171,1.0,23.403547079001005,0.0,13.712589597627932
+"Dotyville, Cherokee OTSA, USA",0.0,1.0,4.398946822506547,0.0,4.980575473037113,0.0,50.05318340224155,0.0,12.987820358688056
+"RU451, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,30.56259596482601,0.0,15.172225146201557,0.0,165.22667327863013,0.0,152.11262365816322
+"San Juan Southern Paiute Northern Area, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,62.187720145595165,1.0,1.721702706775371,0.0,172.28051365663265,0.0,155.78905668398744
+"Dwight Mission, Cherokee OTSA, USA",0.0,0.0,11.14822167124171,0.0,9.421326513072664,0.0,50.133012367748044,0.0,121.65426131031701
+"RU257, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,37.53810645905992,0.0,10.520974836078988,0.0,130.67703007409335,0.0,203.66439611252784
+"RU567, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,33.9378215396923,0.0,9.610851759947089,0.0,157.72803441901772,0.0,142.17522568529048
+"RU572, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,30.46055732044198,0.0,7.218804740516501,0.0,162.19941835263876,0.0,144.9720779958121
+"Old Eucha, Cherokee OTSA, USA",0.0,0.0,30.91357151288046,0.0,5.514447377135114,0.0,57.04496764285424,0.0,67.22084403652691
+"Taylor, Cherokee OTSA, USA",0.0,0.0,23.207161565254115,0.0,9.806155293059255,0.0,37.40683805602185,0.0,56.748408306573005
+"RU559, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,29.576582247690204,0.0,12.61678856119582,0.0,130.38265676624,0.0,165.38574234846567
+"RU263, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,62.851970771284066,0.0,30.226860560691918,0.0,161.73215089402842,0.0,189.9891236920123
+"RU569, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,33.37174123171411,0.0,7.314475529310752,0.0,161.00247398100205,0.0,141.55616445699565
+"RU262, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,48.347605894301104,0.0,20.876871503090896,0.0,153.30302375949879,0.0,189.78066768198633
+"Bdedan, Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, USA",0.0,1.0,3.232784188161992,0.0,2.946515507130417,1.0,25.996452647612397,0.0,16.37440085186777
+"Sakpe, Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, USA",0.0024720011511568303,1.0,4.388745494153886,0.0,2.091442561745438,1.0,25.42088724483953,0.0,15.480128082876146
+"Indian Village, Lac Vieux Desert Reservation, USA",0.0,0.0,28.14587003339117,0.0,9.996295464520427,0.0,65.15647349960084,0.0,124.6096068334487
+"Brush Creek, Cherokee OTSA, USA",0.0,0.0,18.53149966424969,1.0,1.2766369329109202,0.0,45.39846071678556,0.0,55.64539883506543
+"Eagle Creek, Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, USA",0.005495351671002012,1.0,6.700630357066873,1.0,0.6977251387516719,1.0,24.215858836922074,0.0,13.752005337553546
+"RU258, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,27.85303556396635,0.0,5.849593045441958,0.0,141.60660583705524,0.0,190.04028962736663
+"RU552, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,45.3689618504665,0.0,32.61772747421661,0.0,93.3019626279879,0.0,179.98734111687605
+"San Juan Southern Paiute Southern Area, Navajo Nation Reservation and Off-Reservation Trust Land, USA",0.0,0.0,14.389671411856849,0.0,13.808962245745695,0.0,73.57275922650891,0.0,202.7905573285348
+"Orick District, Yurok Reservation, USA",0.0,0.0,35.83646670754485,0.0,7.493979261155837,0.0,38.17744548842241,0.0,91.66550408168682
+"Tagg Flats, Cherokee OTSA, USA",0.0,0.0,29.617670996564556,0.0,8.362869662791153,0.0,53.45574616419433,0.0,67.3053568585225
+"Consolidated Borough of Quil Ceda Village, Tulalip Reservation and Off-Reservation Trust Land, USA",0.0,1.0,4.624480211363123,1.0,1.2376945653188052,1.0,22.324853354283817,0.0,44.706554602422266
+"RU255, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,28.264612256798614,0.0,25.02671084456548,0.0,108.72197648677218,0.0,207.721433430479
+"RU565, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,32.55649562917832,0.0,8.566381540424993,0.0,154.8950335546955,0.0,144.4011849201966
+"Talahogan District, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,16.296954606037964,0.0,13.388999334298045,0.0,133.93126976180963,0.0,167.15348969661872
+"RU259, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,44.57964082015845,0.0,11.088938509369958,0.0,135.59119889775744,0.0,202.710668717979
+"RU568, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,35.66396868327529,0.0,10.104474493756024,0.0,161.31093567833497,0.0,139.63605580833288
+"Bull Creek Segment, Rosebud Indian Reservation and Off-Reservation Trust Land, USA",0.0,0.0,20.47371495369875,0.0,19.701380315175548,0.0,116.52101989785395,0.0,242.79575234357776
+"Moenkopi District, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,1.0,4.8214642199955975,1.0,1.7234213118799986,0.0,86.19211960214118,0.0,200.68676871113405
+"Sugarbush Segment, Bois Forte Reservation and Off-Reservation Trust Land, USA",0.0,0.0,25.91091251369239,0.0,18.175672425733,0.0,69.78652747372317,0.0,142.75524711577833
+"RU256, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,38.91913504983405,0.0,19.623515813072608,0.0,122.14912021509208,0.0,214.17491404745851
+"RU251, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,25.313790912307383,0.0,14.847933468317315,0.0,109.65278502712913,0.0,220.3261147678912
+"RU558, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,25.32553539089871,0.0,8.858030740021574,0.0,123.62480594034575,0.0,173.4650713037717
+"RU555, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,44.09865086581487,0.0,30.27468358241722,0.0,91.70979444517474,0.0,174.9006055178239
+"RU261, Hopi Reservation and Off-Reservation Trust Land, USA",0.0,0.0,55.85260074420031,0.0,23.89489933061142,0.0,144.72565241417448,0.0,201.22165354908282
