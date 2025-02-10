@@ -1,0 +1,294 @@
+longname,PW Mean Hilliness (Grade),PW Mean Elevation
+"Toronto CDR, Ontario, Canada",0.0510704304566157,135.0189214302311
+"Greater Vancouver Regional district, British Columbia, Canada",0.051180718987395256,57.85329365936866
+"Montréal Territory, Quebec, Canada",0.05204106890786117,39.44445877018144
+"Division No. 6, Alberta, Canada",0.04777478339486237,1095.454826272715
+"Division No. 11, Alberta, Canada",0.051954317437259825,694.8217771867978
+"Peel Regional municipality, Ontario, Canada",0.057662516756082575,185.9563358005647
+"York Regional municipality, Ontario, Canada",0.050051318659388555,218.66279865711903
+"Ottawa CDR, Ontario, Canada",0.04901328369252122,86.3312207056671
+"Division No. 11, Manitoba, Canada",0.052463619851298826,233.6914322296382
+"Durham Regional municipality, Ontario, Canada",0.056128190506382895,123.32330464156286
+"Halton Regional municipality, Ontario, Canada",0.04485671399052451,153.5409898290613
+"Québec Territory, Quebec, Canada",0.04481933796994845,74.63315067463873
+"Waterloo Regional municipality, Ontario, Canada",0.07608459492255593,327.9355624093485
+"Hamilton CDR, Ontario, Canada",0.04376039513151179,161.15601315789803
+"Simcoe County, Ontario, Canada",0.06856606597695677,236.9238627164554
+"Middlesex County, Ontario, Canada",0.038890734974978476,261.80659627142603
+"Niagara Regional municipality, Ontario, Canada",0.05180415054801874,148.20410971894214
+"Halifax County, Nova Scotia, Canada",0.05397245086863385,55.631380665263016
+"Laval Territory, Quebec, Canada",0.061526079655362546,28.283489028131957
+"Longueuil Territory, Quebec, Canada",0.04985494442213053,25.182876114717434
+"Essex County, Ontario, Canada",0.03796737597743655,183.64345807214747
+"Capital Regional district, British Columbia, Canada",0.05953810411657921,45.26980682663367
+"Division No. 11, Saskatchewan, Canada",0.04575979898820052,504.1138514462749
+"Fraser Valley Regional district, British Columbia, Canada",0.07240016236140495,74.56730347207281
+"Gatineau Territory, Quebec, Canada",0.05091480663168615,76.57464016296937
+"Division No. 6, Saskatchewan, Canada",0.0521654812499137,578.4504806281265
+"Division No. 1, Newfoundland and Labrador, Canada",0.07675211738063917,89.33365857154683
+"Wellington County, Ontario, Canada",0.08356466200171582,361.4556007200996
+"Central Okanagan Regional district, British Columbia, Canada",0.07283039815181068,444.8648641195087
+"Division No. 8, Alberta, Canada",0.03984086375364719,894.7517227073852
+"Roussillon CRM, Quebec, Canada",0.042184474200783945,28.48189294690184
+"Division No. 2, Alberta, Canada",0.04871529814269939,878.1281948955574
+"Sherbrooke Territory, Quebec, Canada",0.0525968309699885,222.12117404131547
+"Les Moulins CRM, Quebec, Canada",0.057871272178231806,35.508753278054016
+"Nanaimo Regional district, British Columbia, Canada",0.06317376820086977,71.45624509405256
+"Le Saguenay-et-son-Fjord CDR, Quebec, Canada",0.058036089836021286,115.5909790283014
+"Greater Sudbury / Grand Sudbury CDR, Ontario, Canada",0.06875680264602842,271.5502813292738
+"Thérèse-De Blainville CRM, Quebec, Canada",0.07179877224944387,52.64595344152209
+"Westmorland County, New Brunswick, Canada",0.036383363328965294,29.829979088619332
+"Vaudreuil-Soulanges CRM, Quebec, Canada",0.060230077596978675,42.356975779678216
+"Frontenac County, Ontario, Canada",0.045277077456193394,108.7751962982055
+"Francheville CDR, Quebec, Canada",0.03216767991738246,37.133284700965895
+"Lévis Territory, Quebec, Canada",0.04470140752276432,69.04951993367852
+"Peterborough County, Ontario, Canada",0.05832204592793835,228.91283274192338
+"Thunder Bay District, Ontario, Canada",0.04670204104646626,231.40132180089273
+"Hastings County, Ontario, Canada",0.05354423216835932,127.73802714460025
+"Brant CDR, Ontario, Canada",0.05548356510605477,225.2458783967897
+"Thompson-Nicola Regional district, British Columbia, Canada",0.08451567376879353,549.416897918748
+"La Rivière-du-Nord CRM, Quebec, Canada",0.0707551241430088,138.8096902327305
+"La Vallée-du-Richelieu CRM, Quebec, Canada",0.035728100303575594,24.22028328493223
+"Lambton County, Ontario, Canada",0.046193615324276766,190.33282941343228
+"L'Assomption CRM, Quebec, Canada",0.043975177109046755,17.987137381667296
+"Oxford County, Ontario, Canada",0.057463529856022245,287.1209102543977
+"Le Haut-Richelieu CRM, Quebec, Canada",0.030116994836879504,34.89935971428169
+"Division No. 19, Alberta, Canada",0.04665286610594765,651.3381015841404
+"Haldimand-Norfolk CDR, Ontario, Canada",0.05213700408846699,206.3515806992266
+"Stormont, Dundas and Glengarry United counties, Ontario, Canada",0.035911368821264486,67.13432967687874
+"Algoma District, Ontario, Canada",0.04548785538613332,221.17668132224352
+"Drummond CRM, Quebec, Canada",0.03823914350441832,92.17548956209227
+"Renfrew County, Ontario, Canada",0.057227198697575594,151.98070981707522
+"York County, New Brunswick, Canada",0.05320051346093391,68.86793223799197
+"Chatham-Kent CDR, Ontario, Canada",0.05282721854958887,182.8699060578664
+"Leeds and Grenville United counties, Ontario, Canada",0.049437418598832515,101.15326824542262
+"Deux-Montagnes CRM, Quebec, Canada",0.04817997266169398,30.627269590888726
+"Grey County, Ontario, Canada",0.06014220625194838,300.68650488202206
+"Cape Breton County, Nova Scotia, Canada",0.0347385351103526,27.19621119052636
+"Fraser-Fort George Regional district, British Columbia, Canada",0.060977097265163774,661.0890854172821
+"Prescott and Russell United counties, Ontario, Canada",0.04633936343970327,62.42959427803047
+"Division No. 10, Alberta, Canada",0.04709383579039668,681.2661622065423
+"Elgin County, Ontario, Canada",0.043590994302587054,228.72016982190425
+"La Haute-Yamaska CRM, Quebec, Canada",0.04224681529872408,132.82819397668547
+"North Okanagan Regional district, British Columbia, Canada",0.084099394613544,484.685302760486
+"Okanagan-Similkameen Regional district, British Columbia, Canada",0.0805380902411267,477.0741956107305
+"Queens County, Prince Edward Island, Canada",0.03791859314374126,23.994808003008416
+"Les Maskoutains CRM, Quebec, Canada",0.035192827891846024,37.59405184429026
+"Northumberland County, Ontario, Canada",0.05956401023245351,132.37482029876938
+"Division No. 15, Saskatchewan, Canada",0.03802524622242256,482.8258808821262
+"Cowichan Valley Regional district, British Columbia, Canada",0.07338038377597929,90.71402850407742
+"Nipissing District, Ontario, Canada",0.06442616763559202,224.82769625016994
+"Division No. 2, Manitoba, Canada",0.056271721072638316,251.24808143462388
+"Division No. 1, Alberta, Canada",0.04406800899152887,722.4430884248361
+"Perth County, Ontario, Canada",0.04109023637941363,362.99651521410834
+"Marguerite-D'Youville CRM, Quebec, Canada",0.05094849734617011,31.40029837490331
+"Kawartha Lakes CDR, Ontario, Canada",0.05255980094911106,263.6887228764113
+"Gloucester County, New Brunswick, Canada",0.03752705703888895,25.398265197076523
+"Cochrane District, Ontario, Canada",0.06107678504223937,262.25165637274597
+"Lanark County, Ontario, Canada",0.04935421750890002,140.16720284916514
+"Saint John County, New Brunswick, Canada",0.06540483265763276,38.24789635089954
+"Division No. 16, Alberta, Canada",0.0669726292794985,329.99686177898076
+"Arthabaska CRM, Quebec, Canada",0.053373219094899005,147.0172044173161
+"Bruce County, Ontario, Canada",0.052390930779145584,231.11966270733043
+"Comox Valley Regional district, British Columbia, Canada",0.05166695233276965,55.509694576355535
+"Kings County, New Brunswick, Canada",0.07365587934464743,63.38980960497779
+"Joliette CRM, Quebec, Canada",0.04912888918757053,60.79235810535906
+"Division No. 7, Manitoba, Canada",0.03867789569256167,389.1293084443286
+"Beauharnois-Salaberry CRM, Quebec, Canada",0.05087262258707194,40.3433763334557
+"Division No. 13, Alberta, Canada",0.050232148474607385,678.3580188751922
+"Division No. 12, Alberta, Canada",0.049561875322982486,577.5569715498372
+"Muskoka District municipality, Ontario, Canada",0.07437072421159488,276.63711577301183
+"Dufferin County, Ontario, Canada",0.08889815813401823,455.0332936602084
+"Kenora District, Ontario, Canada",0.0493659160764686,331.58850245509814
+"East Kootenay Regional district, British Columbia, Canada",0.07667713817246304,1017.8301404513032
+"Brome-Missisquoi CRM, Quebec, Canada",0.05386806789195322,140.85849630474527
+"Cariboo Regional district, British Columbia, Canada",0.08194825259806977,767.4091146438359
+"Kings County, Nova Scotia, Canada",0.05651729164428853,54.657426867997934
+"Central Kootenay Regional district, British Columbia, Canada",0.12145251324480462,743.1559633001849
+"Division No. 17, Alberta, Canada",0.05225580389744556,501.42539276008836
+"Peace River Regional district, British Columbia, Canada",0.05483015463296053,693.5571039537756
+"Huron County, Ontario, Canada",0.04499732392214673,275.5269164587027
+"Mirabel Territory, Quebec, Canada",0.07180976392875235,67.26862058608461
+"Montcalm CRM, Quebec, Canada",0.07234098717795862,87.72930287353908
+"Division No. 3, Manitoba, Canada",0.040622185034353664,269.6384027703377
+"Rimouski-Neigette CRM, Quebec, Canada",0.05591752181205304,73.75283661403539
+"Columbia-Shuswap Regional district, British Columbia, Canada",0.09378554524877868,549.8478509944798
+"Division No. 5, Alberta, Canada",0.053669901808470866,895.6926969004459
+"Portneuf CRM, Quebec, Canada",0.05534540579286107,94.60913903119362
+"Matawinie CRM, Quebec, Canada",0.08287855065735844,271.7034900273915
+"Memphrémagog CRM, Quebec, Canada",0.06055851682488833,255.17987060167718
+"Les Collines-de-l'Outaouais CRM, Quebec, Canada",0.07627957633586464,166.0189733949808
+"Beauce-Sartigan CRM, Quebec, Canada",0.05768256547048546,255.15730358467258
+"Lac-Saint-Jean-Est CRM, Quebec, Canada",0.043401311678969226,132.11966994970592
+"Pierre-De Saurel CRM, Quebec, Canada",0.028819194775574705,17.257133278554523
+"Division No. 13, Manitoba, Canada",0.04171545584317446,227.68247398280286
+"Colchester County, Nova Scotia, Canada",0.04766179249353262,55.143675296759056
+"Les Laurentides CRM, Quebec, Canada",0.08720457404527762,334.71582747769446
+"Squamish-Lillooet Regional district, British Columbia, Canada",0.10976367729416461,344.47630886902755
+"Shawinigan Territory, Quebec, Canada",0.052833185780175505,129.35791160909343
+"Lunenburg County, Nova Scotia, Canada",0.051270427127641856,53.21609523485143
+"Strathcona Regional district, British Columbia, Canada",0.059441632856996524,48.51523030007233
+"Division No. 17, Saskatchewan, Canada",0.04056414966471914,579.6294386380117
+"La Jacques-Cartier CRM, Quebec, Canada",0.08559696090268887,255.7875491610399
+"Division No. 7, Saskatchewan, Canada",0.041803061437574965,579.352776542909
+"Les Pays-d'en-Haut CRM, Quebec, Canada",0.09251655985588503,298.25604070795475
+"Parry Sound District, Ontario, Canada",0.06646852295779618,267.48244250474556
+"Prince County, Prince Edward Island, Canada",0.03330117190093522,16.49604651544451
+"Nord-du-Québec CDR, Quebec, Canada",0.045400288120932546,177.59468117854448
+"Lennox and Addington County, Ontario, Canada",0.04579573178675558,116.02831825103821
+"Hants County, Nova Scotia, Canada",0.046650322631181726,59.391132568754465
+"Northumberland County, New Brunswick, Canada",0.04970025610167376,42.075388220759095
+"D'Autray CRM, Quebec, Canada",0.04801751209683754,58.65997706462123
+"Pictou County, Nova Scotia, Canada",0.04927191827280415,52.2739604281978
+"Les Appalaches CRM, Quebec, Canada",0.049884893025711856,339.44872137340207
+"La Vallée-de-l'Or CRM, Quebec, Canada",0.05099200694176328,312.52629592867606
+"Rouyn-Noranda Territory, Quebec, Canada",0.058561109828477356,299.5420991222067
+"Division No. 22, Manitoba, Canada",0.04289127166628211,215.69971853122712
+"Division No. 3, Alberta, Canada",0.04681855212132122,1082.4624319117584
+"Division No. 7, Alberta, Canada",0.048332150392591,729.0590497948845
+"Yukon Territory, Yukon, Canada",0.0644116116398318,697.8478116362461
+"Division No. 5, Newfoundland and Labrador, Canada",0.0845152139126766,106.06357540638132
+"Sept-Rivières--Caniapiscau CDR, Quebec, Canada",0.03230936539047078,70.19636125736741
+"Bellechasse CRM, Quebec, Canada",0.04415886109519954,177.03616488315268
+"Division No. 16, Saskatchewan, Canada",0.04458854009641853,535.4995564781054
+"La Nouvelle-Beauce CRM, Quebec, Canada",0.04324324304966661,192.10528136207833
+"Rouville CRM, Quebec, Canada",0.02992100432329353,42.416617330590626
+"Kitimat-Stikine Regional district, British Columbia, Canada",0.07611448665847162,175.25481800788495
+"Bulkley-Nechako Regional district, British Columbia, Canada",0.06835483194219935,683.9734976914702
+"Division No. 15, Alberta, Canada",0.1035249375714504,1358.7888145944814
+"Division No. 6, Newfoundland and Labrador, Canada",0.060787670335083165,82.28884312105876
+"Maskinongé CRM, Quebec, Canada",0.048119267967388524,92.19792506500264
+"Antoine-Labelle CRM, Quebec, Canada",0.07349587581290314,263.7655497624911
+"Division No. 9, Saskatchewan, Canada",0.04622039542771054,507.38473811527234
+"Division No. 18, Saskatchewan, Canada",0.047429072602452875,377.1588535427476
+"Division No. 14, Saskatchewan, Canada",0.048859928885879964,434.9665509751391
+"Rivière-du-Loup CRM, Quebec, Canada",0.06699940229957027,106.73171760254799
+"Argenteuil CRM, Quebec, Canada",0.050235709831182064,118.5233481895349
+"Lotbinière CRM, Quebec, Canada",0.03928031866756539,118.68398771035068
+"Division No. 8, Newfoundland and Labrador, Canada",0.06345460457721355,35.675720540034625
+"Kootenay Boundary Regional district, British Columbia, Canada",0.11097078816407295,685.0806644228364
+"Alberni-Clayoquot Regional district, British Columbia, Canada",0.058001152236086755,51.929253402133924
+"Division No. 7, Newfoundland and Labrador, Canada",0.0647429452416066,37.77042132586128
+"Madawaska County, New Brunswick, Canada",0.07621672920513282,201.57805495513145
+"Kent County, New Brunswick, Canada",0.03389072434952338,24.15658957456178
+"Sunshine Coast Regional district, British Columbia, Canada",0.08276650142550562,75.7961554647732
+"Division No. 5, Saskatchewan, Canada",0.0380348646403294,558.2722546499106
+"Le Val-Saint-François CRM, Quebec, Canada",0.06196081501091253,224.61232066319502
+"Timiskaming District, Ontario, Canada",0.05567935365028365,264.39781389712306
+"Le Domaine-du-Roy CRM, Quebec, Canada",0.046841581717173425,146.14792218139794
+"Division No. 8, Saskatchewan, Canada",0.05043957232243617,738.1488091917898
+"Albert County, New Brunswick, Canada",0.044663099042892514,47.48479982283068
+"Restigouche County, New Brunswick, Canada",0.06796052725160608,111.71420647910946
+"Cumberland County, Nova Scotia, Canada",0.05297378951323668,51.45212092316848
+"Division No. 1, Saskatchewan, Canada",0.03812571212361909,584.9483813006111
+"Les Jardins-de-Napierville CRM, Quebec, Canada",0.04212428146926481,58.36605172074009
+"La Côte-de-Beaupré CRM, Quebec, Canada",0.056060195689470224,129.23516435287507
+"Manicouagan CRM, Quebec, Canada",0.04485852690493219,40.0489273144578
+"Division No. 14, Alberta, Canada",0.0744377263040878,971.0291109972578
+"Sunbury County, New Brunswick, Canada",0.04093057524907215,29.420828366574412
+"Division No. 18, Manitoba, Canada",0.037461511052203765,235.03924935235113
+"Carleton County, New Brunswick, Canada",0.058964039762082816,122.909513680511
+"Charlotte County, New Brunswick, Canada",0.04899639489368301,37.7714538393274
+"Prince Edward CDR, Ontario, Canada",0.050918202853501966,91.89890552902004
+"Division No. 12, Manitoba, Canada",0.05179358308162114,241.15899410897705
+"Abitibi CRM, Quebec, Canada",0.06910641714554244,301.7826872882076
+"Yarmouth County, Nova Scotia, Canada",0.03609919299807082,21.482441212040214
+"Division No. 9, Manitoba, Canada",0.04896773022771079,255.9919421056347
+"Division No. 10, Newfoundland and Labrador, Canada",0.03801789436100227,232.67831511758482
+"Papineau CRM, Quebec, Canada",0.06698778228432385,159.74865748821293
+"Maria-Chapdelaine CRM, Quebec, Canada",0.05823299107817231,133.18957459207525
+"Nicolet-Yamaska CRM, Quebec, Canada",0.035237277464167265,39.98836770034501
+"L'Érable CRM, Quebec, Canada",0.05027076172974744,171.6829002065028
+"Division No. 15, Manitoba, Canada",0.045819516552984135,486.3241997521299
+"Division No. 12, Saskatchewan, Canada",0.04372183474297926,563.8373834377222
+"Le Haut-Saint-François CRM, Quebec, Canada",0.048960310662415026,276.1200058655074
+"Division No. 2, Saskatchewan, Canada",0.03989418012282901,596.3661466531676
+"Montmagny CRM, Quebec, Canada",0.03677242433890193,108.87930992297565
+"Sudbury District, Ontario, Canada",0.06253991377749774,251.66947302792255
+"Le Haut-Saint-Laurent CRM, Quebec, Canada",0.05863317944505586,63.7511571957585
+"Division No. 13, Saskatchewan, Canada",0.044271640102166325,661.9130418028896
+"Division No. 17, Manitoba, Canada",0.040333533532500146,301.70902606799984
+"Le Granit CRM, Quebec, Canada",0.0531321154405937,431.3100619354988
+"Division No. 21, Manitoba, Canada",0.06882891131347289,274.555922478682
+"Kamouraska CRM, Quebec, Canada",0.06196618802517641,84.9491398830891
+"Annapolis County, Nova Scotia, Canada",0.05028907901741698,71.00208946817573
+"Powell River Regional district, British Columbia, Canada",0.07366288280891511,82.29724255198698
+"La Matanie CRM, Quebec, Canada",0.05512556924646602,66.80774599913788
+"Region 6 Region, Northwest Territories, Canada",0.041286972755083876,183.0686812323901
+"Bécancour CRM, Quebec, Canada",0.035613148369068454,38.509249196340825
+"Haliburton County, Ontario, Canada",0.07165309381570328,362.46569320462265
+"Division No. 9, Alberta, Canada",0.049930372062974994,1009.2186881494968
+"La Vallée-de-la-Gatineau CRM, Quebec, Canada",0.07247030745850337,196.7199230396527
+"Abitibi-Ouest CRM, Quebec, Canada",0.046386323353297634,283.97981515341814
+"Antigonish County, Nova Scotia, Canada",0.052599422054612245,47.222152028726384
+"Division No. 1, Manitoba, Canada",0.05505104124153464,272.333805523626
+"Division No. 14, Manitoba, Canada",0.04313686596542983,246.14847773386984
+"Témiscouata CRM, Quebec, Canada",0.0707336954951524,252.549964405709
+"Rainy River District, Ontario, Canada",0.044928648563048686,355.72415367033824
+"Qikiqtaaluk Region, Nunavut, Canada",0.061050059042087705,45.83641300492299
+"Robert-Cliche CRM, Quebec, Canada",0.06492140539858797,259.55002572795723
+"Division No. 4, Newfoundland and Labrador, Canada",0.04408550478824521,42.00563181224041
+"Division No. 2, Newfoundland and Labrador, Canada",0.08018284716740506,41.215305729332925
+"Coaticook CRM, Quebec, Canada",0.058044134284343345,324.27219591403974
+"La Mitis CRM, Quebec, Canada",0.055424624101660575,119.35460565837332
+"Kings County, Prince Edward Island, Canada",0.03833730019435586,22.359438126609334
+"Victoria County, New Brunswick, Canada",0.0696036775641013,179.00367060232907
+"Skeena-Queen Charlotte Regional district, British Columbia, Canada",0.0909213622358069,48.63980236154567
+"La Matapédia CRM, Quebec, Canada",0.07824520105245907,218.38979567681073
+"L'Islet CRM, Quebec, Canada",0.04874640066604975,192.18198368259436
+"Bonaventure CRM, Quebec, Canada",0.055509453515365396,43.68761741030126
+"La Côte-de-Gaspé CRM, Quebec, Canada",0.08781135326317321,130.26214127437314
+"Inverness County, Nova Scotia, Canada",0.07240835130465696,81.55972064493031
+"Le Rocher-Percé CRM, Quebec, Canada",0.053949988536605764,50.06739240702232
+"Digby County, Nova Scotia, Canada",0.0498226657816385,53.433939822048906
+"Les Etchemins CRM, Quebec, Canada",0.05442322755260123,399.22412400372343
+"Division No. 10, Saskatchewan, Canada",0.042493872562913,585.8707236363119
+"Témiscamingue CRM, Quebec, Canada",0.07111539739758403,236.7203231804208
+"Acton CRM, Quebec, Canada",0.040635093897075376,101.14221917713459
+"Charlevoix-Est CRM, Quebec, Canada",0.07561425711567381,158.5352565374245
+"Division No. 19, Manitoba, Canada",0.05301814552609977,229.6637900980183
+"La Tuque Territory, Quebec, Canada",0.07867558408554115,256.7347117295385
+"Pontiac CRM, Quebec, Canada",0.06646584410681444,148.15327214142545
+"Division No. 9, Newfoundland and Labrador, Canada",0.05645398862106651,31.707583881906
+"Les Sources CRM, Quebec, Canada",0.06315828978025999,234.8439038556471
+"Division No. 8, Manitoba, Canada",0.03740341512387149,296.2995385019292
+"Manitoulin District, Ontario, Canada",0.05182945728295827,212.9923216074471
+"Division No. 3, Newfoundland and Labrador, Canada",0.07591559843638612,42.48520297453157
+"Shelburne County, Nova Scotia, Canada",0.028317102968343714,16.256515256531795
+"Avignon CRM, Quebec, Canada",0.07562461892264617,91.15906567483272
+"Charlevoix CRM, Quebec, Canada",0.06985860271059226,202.22783287934922
+"Division No. 5, Manitoba, Canada",0.03909215593006606,482.5904031164815
+"Division No. 18, Alberta, Canada",0.062302997303722255,847.8171162206045
+"Division No. 10, Manitoba, Canada",0.05243248880919303,234.50458902500552
+"Mékinac CRM, Quebec, Canada",0.05635340139273041,168.62696636364151
+"Communauté maritime des Îles-de-la-Madeleine Territory, Quebec, Canada",0.036430306717971574,16.9619400928552
+"Division No. 3, Saskatchewan, Canada",0.04311195728524049,759.77513753453
+"Kivalliq Region, Nunavut, Canada",0.030422839560659175,13.650831382218719
+"La Haute-Gaspésie CRM, Quebec, Canada",0.0827272884664931,124.8932980693551
+"Division No. 4, Saskatchewan, Canada",0.048934238946280455,884.5394969041913
+"Queens County, New Brunswick, Canada",0.051313640585349846,41.29464697907608
+"Queens County, Nova Scotia, Canada",0.03943894303368429,37.766955982630826
+"La Haute-Côte-Nord CRM, Quebec, Canada",0.06127467836669026,76.02838704958884
+"Division No. 16, Manitoba, Canada",0.039218648514165004,549.0922709804453
+"Division No. 6, Manitoba, Canada",0.038393252084144,441.67046832016223
+"Mount Waddington Regional district, British Columbia, Canada",0.07650361525656413,58.081257841983216
+"Division No. 4, Manitoba, Canada",0.05459121811339228,454.8457855369447
+"Division No. 20, Manitoba, Canada",0.04096804454599453,351.7070018365033
+"Minganie--Le Golfe-du-Saint-Laurent CDR, Quebec, Canada",0.03973396722568226,19.707084482649343
+"Division No. 4, Alberta, Canada",0.04492751820950335,773.3002776598942
+"Les Basques CRM, Quebec, Canada",0.07731931863132349,127.73250054941455
+"Richmond County, Nova Scotia, Canada",0.03635611852193646,21.490059920375202
+"Victoria County, Nova Scotia, Canada",0.061663666194818806,90.40370566716551
+"Guysborough County, Nova Scotia, Canada",0.04901141130365555,45.352581685729376
+"L'Île-d'Orléans CRM, Quebec, Canada",0.04315117055003257,63.37780600821204
+"Kitikmeot Region, Nunavut, Canada",0.03125452124083426,13.247610410367626
+"Region 5 Region, Northwest Territories, Canada",0.04984630687010288,180.45228919498766
+"Region 1 Region, Northwest Territories, Canada",0.04843497882105113,12.561537000720111
+"Division No. 23, Manitoba, Canada",0.046254105794431934,212.07071107027537
+"Northern Rockies Regional district, British Columbia, Canada",0.0611134759725207,459.6637706263716
+"Central Coast Regional district, British Columbia, Canada",0.1127487536571078,262.70332906239554
+"Region 4 Region, Northwest Territories, Canada",0.0445406569003111,166.668099579965
+"Region 3 Region, Northwest Territories, Canada",0.037716781122703484,191.9825046769901
+"Division No. 11, Newfoundland and Labrador, Canada",0.07454704887983132,43.230483114449015
+"Region 2 Region, Northwest Territories, Canada",0.03399457412819415,95.12306136362925
+"Stikine Region, British Columbia, Canada",0.06357480148511106,790.005623800046

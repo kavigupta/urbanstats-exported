@@ -1,0 +1,1026 @@
+longname,PW Mean Hilliness (Grade),PW Mean Elevation
+"Toronto Population Center, ON, Canada",0.05162065338220257,159.0051887261509
+"Montréal Population Center, QC, Canada",0.05335247077434686,34.96350415178274
+"Vancouver Population Center, BC, Canada",0.050814042445794794,56.11873981140444
+"Calgary Population Center, AB, Canada",0.04773590770899746,1094.7126003157089
+"Edmonton Population Center, AB, Canada",0.0532710764348347,687.3150244211366
+"Ottawa - Gatineau Population Center, QC-ON, Canada",0.05143585664486943,80.52244402585093
+"Winnipeg Population Center, MB, Canada",0.05250497604338362,233.68514488058597
+"Québec Population Center, QC, Canada",0.04509769745421851,74.06810848320184
+"Hamilton Population Center, ON, Canada",0.0430848905081502,142.91128856568176
+"Kitchener Population Center, ON, Canada",0.07831841193261382,326.1740035408125
+"London Population Center, ON, Canada",0.03838063910048315,264.2853987974137
+"Victoria Population Center, BC, Canada",0.0532875225861738,37.42060483131496
+"Halifax Population Center, NS, Canada",0.05534160337977611,55.14637821271409
+"Oshawa Population Center, ON, Canada",0.060188754284450766,116.39112242583562
+"Windsor Population Center, ON, Canada",0.03639886740391734,183.85828064019137
+"Saskatoon Population Center, SK, Canada",0.04709360481755346,499.9991905605394
+"St. Catharines - Niagara Falls Population Center, ON, Canada",0.05064550012327287,137.81308179722367
+"Regina Population Center, SK, Canada",0.0530237425550325,577.4261765079616
+"St. John's Population Center, NL, Canada",0.08091403236973382,99.53489527074895
+"Kelowna Population Center, BC, Canada",0.06710693705228697,421.58362533273583
+"Barrie Population Center, ON, Canada",0.06760634241566607,261.28297395721216
+"Sherbrooke Population Center, QC, Canada",0.05261224829822029,222.5896071647327
+"Guelph Population Center, ON, Canada",0.08525705778036838,333.66054136987367
+"Kanata Population Center, ON, Canada",0.03759227708632178,107.38713881708543
+"Abbotsford Population Center, BC, Canada",0.07136093112462386,70.09392237170233
+"Trois-Rivières Population Center, QC, Canada",0.03128529622205275,32.40738054908888
+"Kingston Population Center, ON, Canada",0.041446001350839895,94.65231915297659
+"Milton Population Center, ON, Canada",0.05121956469237167,192.7006061404387
+"Moncton Population Center, NB, Canada",0.035464392410336575,27.427657177483212
+"White Rock Population Center, BC, Canada",0.052585675958991725,60.301544663108615
+"Nanaimo Population Center, BC, Canada",0.06286494827271386,75.79661682189038
+"Brantford Population Center, ON, Canada",0.05164340825962852,218.32008726746065
+"Chicoutimi - Jonquière Population Center, QC, Canada",0.0561275870827721,104.98458502994276
+"Saint-Jérôme Population Center, QC, Canada",0.07024067354727608,109.46068696243097
+"Red Deer Population Center, AB, Canada",0.03605909424139179,887.9663072266059
+"Thunder Bay Population Center, ON, Canada",0.041213300255130904,204.36314774355503
+"Lethbridge Population Center, AB, Canada",0.04306294589430234,911.9098102495353
+"Kamloops Population Center, BC, Canada",0.07557967734124932,476.9309443411046
+"Sudbury Population Center, ON, Canada",0.07143680423772909,265.8332498089162
+"Saint-Jean-sur-Richelieu Population Center, QC, Canada",0.02921305338731843,33.557189575561
+"Peterborough Population Center, ON, Canada",0.057517712344879755,217.9136946770268
+"Chilliwack Population Center, BC, Canada",0.06497231231941551,45.79574940587371
+"Châteauguay Population Center, QC, Canada",0.04338283030135849,35.02124994678085
+"Belleville Population Center, ON, Canada",0.04210196917548454,82.93344337064411
+"Sarnia Population Center, ON, Canada",0.04032553787041026,184.95430505735882
+"Airdrie Population Center, AB, Canada",0.04509595338936326,1086.7345672444928
+"Drummondville Population Center, QC, Canada",0.0361814622098448,90.55445775565025
+"Welland - Pelham Population Center, ON, Canada",0.05721231569901418,186.68779554198707
+"Fort McMurray Population Center, AB, Canada",0.06726710721728699,327.6164889609015
+"Prince George Population Center, BC, Canada",0.05678427759303135,622.4344205139175
+"Sault Ste. Marie Population Center, ON, Canada",0.03643476030876238,195.00569455826997
+"Fredericton Population Center, NB, Canada",0.04835987228308719,41.3745194056104
+"Medicine Hat Population Center, AB, Canada",0.04493301401526102,703.5046038985371
+"Grande Prairie Population Center, AB, Canada",0.04081667357879822,662.8469821660534
+"Granby Population Center, QC, Canada",0.0368293329442604,118.15548338034245
+"Saint John Population Center, NB, Canada",0.06414944463909361,29.099963877870834
+"Bowmanville - Newcastle Population Center, ON, Canada",0.059150358350015066,95.99041987457062
+"Beloeil Population Center, QC, Canada",0.04334881172056694,29.02386616304555
+"Charlottetown Population Center, PE, Canada",0.03514060575342911,19.259511089451575
+"Vernon Population Center, BC, Canada",0.07265659162149986,432.7914671499776
+"North Bay Population Center, ON, Canada",0.06432320544477078,212.08437194485572
+"Saint-Hyacinthe Population Center, QC, Canada",0.03661728549616086,33.01261702530717
+"Brandon Population Center, MB, Canada",0.037849235009733105,386.08658974588354
+"Joliette Population Center, QC, Canada",0.044446806129582926,59.00453425466891
+"Courtenay Population Center, BC, Canada",0.04567806794840052,38.09468236787307
+"Cornwall Population Center, ON, Canada",0.031275003632520365,56.69309972427541
+"Victoriaville Population Center, QC, Canada",0.05323684709897218,142.3912692812864
+"Woodstock Population Center, ON, Canada",0.052546693289798906,300.6745932921889
+"St. Thomas Population Center, ON, Canada",0.03810488808097604,235.81963740605187
+"Chatham Population Center, ON, Canada",0.05770125479459034,181.74843980536258
+"Georgetown Population Center, ON, Canada",0.06481018826802333,245.45227243588454
+"Salaberry-de-Valleyfield Population Center, QC, Canada",0.04799949884530406,42.60929038436764
+"Spruce Grove Population Center, AB, Canada",0.04104718863728455,692.4842328686215
+"Shawinigan Population Center, QC, Canada",0.0525760935559709,124.9562506321847
+"Rimouski Population Center, QC, Canada",0.05272950881796427,42.711117236786485
+"Bradford Population Center, ON, Canada",0.06864669809792873,241.72185933308424
+"Campbell River Population Center, BC, Canada",0.050058267866772525,34.58287019857934
+"Penticton Population Center, BC, Canada",0.060190871982833856,387.4033967756473
+"Prince Albert Population Center, SK, Canada",0.03326734791586413,447.405566680312
+"Stouffville Population Center, ON, Canada",0.06798917180256821,256.78107035320636
+"Sorel Population Center, QC, Canada",0.028111304542172928,16.381036499196508
+"Mission Population Center, BC, Canada",0.06410214955760202,88.32826026915522
+"Leamington Population Center, ON, Canada",0.03890791286848654,181.39206287811183
+"Orangeville Population Center, ON, Canada",0.09607904634617916,446.96521995282234
+"Leduc Population Center, AB, Canada",0.050337776467407135,739.6624567112235
+"Orillia Population Center, ON, Canada",0.08148362185302463,240.21934241139425
+"Stratford Population Center, ON, Canada",0.03637596499339391,365.75221347578037
+"Moose Jaw Population Center, SK, Canada",0.04076336934410636,553.5410448739983
+"Cochrane Population Center, AB, Canada",0.06204364836243144,1173.675160622383
+"Lloydminster Population Center, SK-AB, Canada",0.04006561601596819,651.243609240285
+"Cape Breton - Sydney Population Center, NS, Canada",0.03573650742493006,30.89448421055542
+"Okotoks Population Center, AB, Canada",0.04706441123706625,1072.1965397590395
+"Innisfil Population Center, ON, Canada",0.052667432784547975,230.1948242601535
+"Timmins Population Center, ON, Canada",0.062318754262816134,290.0383731424535
+"Saint-Georges Population Center, QC, Canada",0.05815692423996382,219.84976345659487
+"Parksville Population Center, BC, Canada",0.049198993549099596,33.901724060473484
+"Keswick - Elmhurst Beach Population Center, ON, Canada",0.04700941051079256,225.31400169821012
+"Fort Saskatchewan Population Center, AB, Canada",0.045845515193720064,628.240772604721
+"Bolton Population Center, ON, Canada",0.07766560052852113,244.88355046308487
+"Midland Population Center, ON, Canada",0.06997027085253842,212.42323174268347
+"Val-d'Or Population Center, QC, Canada",0.052004466468675785,316.01091163790113
+"Quispamsis - Rothesay Population Center, NB, Canada",0.07465615662055237,51.81008577267013
+"Whitehorse Population Center, YT, Canada",0.05796043386882554,705.5522466472619
+"Duncan Population Center, BC, Canada",0.05564586283682337,42.43101591864596
+"Hudson Population Center, QC, Canada",0.06280993490598792,65.63746602093734
+"Tsawwassen Population Center, BC, Canada",0.03566729085210413,22.705220813531803
+"Truro Population Center, NS, Canada",0.047185127873421905,37.469338508779984
+"Alliston Population Center, ON, Canada",0.08650594160495778,222.94307367549226
+"Fergus Population Center, ON, Canada",0.11032536573805372,414.66853067604035
+"Rouyn-Noranda Population Center, QC, Canada",0.05392220245634588,298.5398635478167
+"Ladner Population Center, BC, Canada",0.015057526789881622,9.628065253534698
+"Collingwood Population Center, ON, Canada",0.05275247637303878,185.2842604437768
+"Lindsay Population Center, ON, Canada",0.04922616302049861,261.81500807873044
+"Owen Sound Population Center, ON, Canada",0.05851771658673938,204.13246584307882
+"Brockville Population Center, ON, Canada",0.04815766189488375,93.65347970796232
+"Magog Population Center, QC, Canada",0.04841854064450955,231.66806606589188
+"Squamish Population Center, BC, Canada",0.0713389729435953,40.9887439081639
+"Wasaga Beach Population Center, ON, Canada",0.07171721365174416,187.5629912971928
+"Port Alberni Population Center, BC, Canada",0.055727228927880616,52.24046806890075
+"Chestermere Population Center, AB, Canada",0.04224271264100017,1029.915764321953
+"Sept-Îles Population Center, QC, Canada",0.02407093073141536,10.61507539571376
+"Fort St. John Population Center, BC, Canada",0.03416294680237974,679.7241648727024
+"Beaumont Population Center, AB, Canada",0.049827916214434415,724.0606317147083
+"Varennes Population Center, QC, Canada",0.0524507732912235,18.185008341145075
+"Alma Population Center, QC, Canada",0.04499636559447321,120.9755742944695
+"Cranbrook Population Center, BC, Canada",0.05402059424560074,947.9819845639174
+"Cobourg Population Center, ON, Canada",0.040520763911192574,81.2767780100984
+"Yellowknife Population Center, NT, Canada",0.04205194277281069,183.32630825226056
+"Les Coteaux Population Center, QC, Canada",0.04742866170280798,42.29593591982288
+"New Glasgow Population Center, NS, Canada",0.046777852637943464,39.59089878898748
+"Corner Brook Population Center, NL, Canada",0.09234471715586698,119.4899426433041
+"Rivière-du-Loup Population Center, QC, Canada",0.0668068540228814,79.62265784228096
+"Tillsonburg Population Center, ON, Canada",0.06060672110354293,236.38287389791074
+"Camrose Population Center, AB, Canada",0.06158073295397852,743.8437321239502
+"Steinbach Population Center, MB, Canada",0.06768319572895777,258.0506249957339
+"Buckingham Population Center, QC, Canada",0.05154304010924686,112.97848127584452
+"Stony Plain Population Center, AB, Canada",0.04183647218911751,709.2894748310474
+"Valley East Population Center, ON, Canada",0.06460546085882213,283.98695334628627
+"Thetford Mines Population Center, QC, Canada",0.04056052649652549,332.84224160033256
+"Glace Bay Population Center, NS, Canada",0.03653376457037979,19.418880379490584
+"Pembroke Population Center, ON, Canada",0.04618514889361699,130.15250682447672
+"L'Assomption Population Center, QC, Canada",0.0435180019884571,18.67318546738868
+"Swift Current Population Center, SK, Canada",0.05349110781687775,754.8286956681565
+"Sylvan Lake Population Center, AB, Canada",0.043712800437640524,962.5336476005967
+"Simcoe Population Center, ON, Canada",0.061584394081149414,221.17125588590176
+"Salmon Arm Population Center, BC, Canada",0.07072588489238298,450.8580537143491
+"Strathroy Population Center, ON, Canada",0.03628494909065217,224.0235177810596
+"Bathurst Population Center, NB, Canada",0.031612352139032476,12.047300452725723
+"Yorkton Population Center, SK, Canada",0.045684911754987526,510.29364552559076
+"Laurentides Population Center, QC, Canada",0.07285590482453085,55.83250153591389
+"Port Colborne Population Center, ON, Canada",0.037456229818740236,174.45282165170238
+"Fort Erie Population Center, ON, Canada",0.034366077371339704,182.55666523911557
+"Winkler Population Center, MB, Canada",0.03612894804546716,266.1458355938273
+"Amherstburg Population Center, ON, Canada",0.03920211842341962,180.8826676722153
+"Paris Population Center, ON, Canada",0.07528506226032433,251.8732607494443
+"Summerside Population Center, PE, Canada",0.02861917782654125,15.017042705134672
+"Kentville Population Center, NS, Canada",0.06763670073407933,43.23876172951774
+"Brooks Population Center, AB, Canada",0.06329189668238959,743.4749254087676
+"Terrace Population Center, BC, Canada",0.06296755322059185,86.87896485489304
+"Angus - Borden CFB-BFC Population Center, ON, Canada",0.07549593107068119,194.65182298692503
+"Petawawa Population Center, ON, Canada",0.04884799730598545,144.84892291675575
+"New Hamburg Population Center, ON, Canada",0.05572493507738555,340.04296796710014
+"High River Population Center, AB, Canada",0.04131272805071295,1033.8688854961135
+"Carleton Place Population Center, ON, Canada",0.04703780500276671,139.46500079399925
+"Strathmore Population Center, AB, Canada",0.05600791314794344,972.0273025407967
+"North Battleford Population Center, SK, Canada",0.04240176492011896,522.598742404104
+"Rockland Population Center, ON, Canada",0.06639584588596367,55.82441490573114
+"Ingersoll Population Center, ON, Canada",0.052623371531784376,282.84125701924944
+"Port-Alfred-Bagotville Population Center, QC, Canada",0.06285509013909313,48.205590551803056
+"Cowansville Population Center, QC, Canada",0.04206394798801203,118.14725981133586
+"Beamsville Population Center, ON, Canada",0.06541544513701128,108.31784083642489
+"Canmore Population Center, AB, Canada",0.08555117159914964,1336.3503747679563
+"Edmundston Population Center, NB, Canada",0.06946821078076859,167.60674605379398
+"Powell River Population Center, BC, Canada",0.07052719665108155,76.55928155181198
+"Aldergrove Population Center, BC, Canada",0.03818240882312513,100.9269970899166
+"Port Hope Population Center, ON, Canada",0.060291529124967394,105.76338856510121
+"Portage la Prairie Population Center, MB, Canada",0.04108545108034426,253.80622164514853
+"Trail - Fruitvale Population Center, BC, Canada",0.12585704309506276,532.8336773988373
+"Lacombe Population Center, AB, Canada",0.04013814713619433,855.2856974070953
+"Duck Lake Population Center, BC, Canada",0.09110118107531014,461.4750415451117
+"Wetaskiwin Population Center, AB, Canada",0.047852959091846725,752.4796481958067
+"Warman Population Center, SK, Canada",0.046454519143097665,507.19003371864255
+"Sydney Mines Population Center, NS, Canada",0.024623592600443073,11.270996262963006
+"Thompson Population Center, MB, Canada",0.05220108331103275,210.8804191944063
+"Caledonia Population Center, ON, Canada",0.03893821480100903,195.29241997135645
+"Sainte-Agathe-des-Monts - Val-David Population Center, QC, Canada",0.07121936234554326,366.7290971840056
+"Quesnel Population Center, BC, Canada",0.05979415825073398,526.5402760915196
+"Grand Falls-Windsor Population Center, NL, Canada",0.05756781179259178,70.74469196524738
+"Williams Lake Population Center, BC, Canada",0.09794037712939127,653.7686410769024
+"Prince Rupert Population Center, BC, Canada",0.09361845787515766,50.40925615220003
+"Uxbridge Population Center, ON, Canada",0.048202962511777116,274.3598304622636
+"Saint-Augustin Population Center, QC, Canada",0.07616381246205661,53.62154872314235
+"Hawkesbury Population Center, QC-ON, Canada",0.03704552863040716,53.59972074180453
+"Dawson Creek Population Center, BC, Canada",0.06399370867720951,672.3352193321907
+"Chatham - Douglastown Population Center, NB, Canada",0.046833719909819875,24.713918922146753
+"Sooke Population Center, BC, Canada",0.056533252593625835,43.5951515254133
+"Arnprior Population Center, ON, Canada",0.06200898923882538,99.57066816344782
+"Sainte-Anne-des-Plaines Population Center, QC, Canada",0.10298942555846059,71.16752576629331
+"Lavaltrie Population Center, QC, Canada",0.046097881797031615,17.50915781687797
+"Lachute Population Center, QC, Canada",0.038210050686029166,65.22031902877187
+"Saint-Amable Population Center, QC, Canada",0.04362155135748674,40.50984698184273
+"Nelson Population Center, BC, Canada",0.12719495611041928,662.0431772134689
+"Ladysmith Population Center, BC, Canada",0.08232049600318897,78.96980530887593
+"Hauterive Population Center, QC, Canada",0.03534572712476789,27.510302198388917
+"Elliot Lake Population Center, ON, Canada",0.06658960881579444,334.99077360796105
+"Kenora Population Center, ON, Canada",0.046838524831007894,336.4108968381161
+"Weyburn Population Center, SK, Canada",0.03483779925488901,567.6983199708478
+"Dolbeau Population Center, QC, Canada",0.05897053028242307,116.30146884619764
+"Binbrook Population Center, ON, Canada",0.03600397122918569,205.31942620506294
+"Elmira Population Center, ON, Canada",0.046541056383726846,359.6727648689023
+"Sainte-Marie Population Center, QC, Canada",0.04561255256998611,173.95699033197437
+"Estevan Population Center, SK, Canada",0.039943180935903676,560.7270460494575
+"Martensville Population Center, SK, Canada",0.0350523214230227,508.21103725303647
+"Morinville Population Center, AB, Canada",0.033625680015705914,701.4982401385766
+"Matane Population Center, QC, Canada",0.03757203921491268,19.686014613406055
+"Wallaceburg Population Center, ON, Canada",0.05436206925636255,171.8533011267521
+"Blackfalds Population Center, AB, Canada",0.0359133062008702,875.4711076130884
+"Castlegar Population Center, BC, Canada",0.0726015471663618,463.01372196315856
+"Marieville Population Center, QC, Canada",0.022130560360852012,33.62316593817116
+"Whistler Population Center, BC, Canada",0.12933358537638312,704.2851784590889
+"Gander Population Center, NL, Canada",0.06885751534016628,126.56773927523317
+"Bracebridge Population Center, ON, Canada",0.08868421745940595,249.35991848224452
+"Summerland Population Center, BC, Canada",0.08754074764666668,470.4733349264425
+"Selkirk Population Center, MB, Canada",0.02888582829112632,222.35869315020932
+"Port Elgin Population Center, ON, Canada",0.042574556198327826,202.3795750780612
+"Tottenham Population Center, ON, Canada",0.08102610026667005,247.7563366513946
+"Gibsons Population Center, BC, Canada",0.07298493732465808,69.07582540862475
+"Port Perry Population Center, ON, Canada",0.039990523773171666,261.38762614604383
+"Amherst Population Center, NS, Canada",0.05695435051492331,22.02602051912719
+"Listowel Population Center, ON, Canada",0.036019384543923144,385.27268400736193
+"Crystal Beach Population Center, ON, Canada",0.03512154745946711,181.15244842432045
+"Smiths Falls Population Center, ON, Canada",0.03736289510313482,124.3160645954413
+"Sechelt Population Center, BC, Canada",0.05914288489915641,37.0189356500881
+"Acton Population Center, ON, Canada",0.07428530670580971,350.42529786891527
+"Kincardine Population Center, ON, Canada",0.053031448892159716,200.23156724121375
+"Amos Population Center, QC, Canada",0.07564601283183002,296.9692805907965
+"Whitecourt Population Center, AB, Canada",0.05488222490919212,702.8026193436638
+"Hinton Population Center, AB, Canada",0.07723351611753218,1045.5812437917123
+"Morden Population Center, MB, Canada",0.036940485169655285,298.47317761172786
+"Baie-Comeau Population Center, QC, Canada",0.06406743638793333,60.03425943442675
+"Labrador City Population Center, NL, Canada",0.03535289970241456,544.9035526020721
+"Shelburne Population Center, ON, Canada",0.07390966284168661,494.00205248446684
+"Olds Population Center, AB, Canada",0.032639900368266236,1029.9399620757647
+"Taber Population Center, AB, Canada",0.05465368706721427,805.5610872512731
+"Donnacona Population Center, QC, Canada",0.04822259382261111,31.263374604166657
+"Montmagny Population Center, QC, Canada",0.025666116843595172,17.035228190881117
+"Saint-Sauveur-des-Monts Population Center, QC, Canada",0.07823780884230262,223.31031048500924
+"Campbellton Population Center, NB, Canada",0.08243270529156005,38.28439807834578
+"Bridgewater Population Center, NS, Canada",0.05226559832424068,38.9846808176937
+"Embrun Population Center, ON, Canada",0.043261389495731266,66.63807626383233
+"Coaldale Population Center, AB, Canada",0.043675938302955755,857.5270984289549
+"Oromocto Population Center, NB, Canada",0.04237185831333645,26.23690094462116
+"Shediac Population Center, NB, Canada",0.02758581420327193,12.275703720584218
+"Sutton Population Center, ON, Canada",0.04660685215810029,223.72115844128103
+"King Population Center, ON, Canada",0.05089981578602995,289.2153592253204
+"Renfrew Population Center, ON, Canada",0.06337509322437877,128.01223302078319
+"Banff Population Center, AB, Canada",0.1214517466100019,1420.4407483750558
+"Essex Population Center, ON, Canada",0.037309832575852575,197.22595976927468
+"Napanee Population Center, ON, Canada",0.051974000893249876,90.00171043143354
+"Edson Population Center, AB, Canada",0.06447203893620218,923.0313351136937
+"Roberval Population Center, QC, Canada",0.048316524273068415,111.7363018394771
+"Dauphin Population Center, MB, Canada",0.0333959858613295,288.236890867942
+"Aylmer Population Center, ON, Canada",0.038445224847098815,227.0711612069761
+"Port Dover Population Center, ON, Canada",0.05391318053944018,185.28692489190655
+"Farnham Population Center, QC, Canada",0.03508330312063246,58.631059882484834
+"Yarmouth Population Center, NS, Canada",0.03880997636869056,21.377847255721967
+"Contrecoeur Population Center, QC, Canada",0.0434743712008314,22.314859182733322
+"Hanover Population Center, ON, Canada",0.04374280965664213,284.4160719328577
+"Goderich Population Center, ON, Canada",0.039517935256135624,214.33005423576188
+"Revelstoke Population Center, BC, Canada",0.06710131666545394,466.3586603952254
+"Mont-Laurier Population Center, QC, Canada",0.05903226346040652,227.29419340973027
+"L'Épiphanie Population Center, QC, Canada",0.04046588867842594,22.650250221731042
+"Grand Centre Population Center, AB, Canada",0.052853568169924495,531.6577482140381
+"La Tuque Population Center, QC, Canada",0.08401662172235909,167.0401182971538
+"Stephenville Population Center, NL, Canada",0.03375774501494295,15.094619643758822
+"The Pas Population Center, MB, Canada",0.07453729564377913,268.1652930814955
+"Shawnigan - Mill Bay Population Center, BC, Canada",0.07421091150031817,118.02695764337773
+"St. Marys Population Center, ON, Canada",0.04444499605629909,320.56638851741
+"Angers Population Center, QC, Canada",0.0397838099276323,46.264489278843
+"Cold Lake Population Center, AB, Canada",0.04889102465497036,548.3784569340369
+"Fort Frances Population Center, ON, Canada",0.031438946873800167,342.8893508969393
+"Kingston - Greenwood Population Center, NS, Canada",0.0443666052101881,23.15407269961905
+"Kapuskasing Population Center, ON, Canada",0.0673309520096921,215.9317858073392
+"Ponoka Population Center, AB, Canada",0.04175781224040181,813.5952774069948
+"Plessisville Population Center, QC, Canada",0.04603618223996827,152.93684727125705
+"Saint-Rémi Population Center, QC, Canada",0.03749445646517691,57.59482083184459
+"Innisfail Population Center, AB, Canada",0.0384649730044816,950.4881693070113
+"Happy Valley-Goose Bay Population Center, NL, Canada",0.03735084642111649,17.778678737811408
+"Iqaluit Population Center, NU, Canada",0.055729911624670996,37.02946678859527
+"Drayton Valley Population Center, AB, Canada",0.05113221064411472,853.9262377217461
+"Sturgeon Falls Population Center, ON, Canada",0.04801448735516438,206.64342960624796
+"Bay Roberts Population Center, NL, Canada",0.04100763875309392,21.508781974413854
+"Parry Sound Population Center, ON, Canada",0.05993568873322693,206.32068965402635
+"Saint-Félicien Population Center, QC, Canada",0.03930155308333852,105.4435430487203
+"Kitimat Population Center, BC, Canada",0.044517273467822034,65.3863103460497
+"New Waterford Population Center, NS, Canada",0.03196624791767216,26.218671997757152
+"Huntsville Population Center, ON, Canada",0.07285934234567669,306.7183148510197
+"Enfield - Lantz Population Center, NS, Canada",0.04203122944503454,24.60190655973015
+"Pont-Rouge Population Center, QC, Canada",0.04618243391230605,100.79584659665389
+"Devon Population Center, AB, Canada",0.050599235406592356,702.4392093531109
+"Slave Lake Population Center, AB, Canada",0.06758928978178,578.0010129394598
+"Rocky Mountain House Population Center, AB, Canada",0.043209771617404996,986.8878322443628
+"Nobleton Population Center, ON, Canada",0.05531185890288872,257.22504184394637
+"Drumheller Population Center, AB, Canada",0.061485493491532116,690.7517291149599
+"Chibougamau Population Center, QC, Canada",0.04386260596706956,398.99483239095235
+"Perth Population Center, ON, Canada",0.04411249621526451,133.77594783434506
+"Wainwright Population Center, AB, Canada",0.059036540523633316,679.1788111717368
+"Smithville Population Center, ON, Canada",0.054003234271866735,183.51713809880982
+"Bonnyville Population Center, AB, Canada",0.04543165070310682,551.3244787775658
+"Beaupré Population Center, QC, Canada",0.04120670076513678,30.23962792470496
+"Coaticook Population Center, QC, Canada",0.05370334408887067,306.5879130388395
+"Corunna Population Center, ON, Canada",0.05471107672156268,198.34179410790236
+"Carbonear Population Center, NL, Canada",0.044467790956368346,22.282234631715962
+"Saint-Jovite Population Center, QC, Canada",0.05449322976921301,222.57018512346434
+"Chelmsford Population Center, ON, Canada",0.03805083225892139,270.58380777109164
+"Tay Population Center, ON, Canada",0.06185257539468516,194.15813318850357
+"Kirkland Lake Population Center, ON, Canada",0.05321585385057356,322.5009872692973
+"Clarenville-Shoal Harbour Population Center, NL, Canada",0.06914284875084839,33.30544200344749
+"Russell Population Center, ON, Canada",0.051013560835649396,71.03450724034515
+"Almonte Population Center, ON, Canada",0.05718272813890719,125.82339708951005
+"Nicolet Population Center, QC, Canada",0.03410407368334827,22.07782979699858
+"Chippawa Population Center, ON, Canada",0.05907199064013416,174.7684676455282
+"Sainte-Adèle Population Center, QC, Canada",0.09830555084734663,241.53732151800645
+"Dunnville Population Center, ON, Canada",0.04770992833758327,172.12599674875875
+"Manotick Station Population Center, ON, Canada",0.03931178460072697,100.69940829289078
+"Brighton Population Center, ON, Canada",0.05431467091055408,79.13111904346269
+"Porcupine Population Center, ON, Canada",0.04323449669484099,282.7743727482555
+"Lac-Mégantic Population Center, QC, Canada",0.04899451752057939,423.10328644460384
+"Gravenhurst Population Center, ON, Canada",0.05684520569887545,249.4430185461835
+"Mont-Joli Population Center, QC, Canada",0.051573096351285735,83.67404589663016
+"Melfort Population Center, SK, Canada",0.04727639064016377,460.10446943401774
+"Oliver Population Center, BC, Canada",0.055908448382141505,311.521161450394
+"Mount Albert Population Center, ON, Canada",0.050222735453442684,254.08979432400585
+"St. Paul Population Center, AB, Canada",0.034836428417310154,642.0689719584918
+"Rawdon Population Center, QC, Canada",0.06147739689876008,166.72666111132222
+"Petrolia Population Center, ON, Canada",0.05731805723299364,196.43997868653557
+"La Sarre Population Center, QC, Canada",0.04078818920617721,274.9680213141118
+"Asbestos Population Center, QC, Canada",0.06406559195771577,236.7706743905523
+"Antigonish Population Center, NS, Canada",0.03418142844460652,11.522791955427248
+"Stettler Population Center, AB, Canada",0.05314054835620558,820.0795184485619
+"Niverville Population Center, MB, Canada",0.04539025016382312,233.5241795719368
+"Louiseville Population Center, QC, Canada",0.01855728677707344,12.234951127281475
+"Lively Population Center, ON, Canada",0.07747089893717717,263.94519757971005
+"Fernie Population Center, BC, Canada",0.04976622862955903,1008.6846300914332
+"Windsor Population Center, NS, Canada",0.039099587028873894,20.152461108209486
+"Rockwood Population Center, ON, Canada",0.09262072459826874,368.848838374637
+"Creston Population Center, BC, Canada",0.0630755934393234,612.0059221158043
+"Sussex Population Center, NB, Canada",0.04709008860655026,27.365629228443748
+"Port-Cartier Population Center, QC, Canada",0.04621704484997896,13.899290347477182
+"Redcliff Population Center, AB, Canada",0.04203764101803485,738.5996643326032
+"Ayr Population Center, ON, Canada",0.06670600778576201,295.90127623276896
+"Gananoque Population Center, ON, Canada",0.04095338870274998,86.03711522642277
+"Vegreville Population Center, AB, Canada",0.045004636211418855,634.2892761962903
+"Dryden Population Center, ON, Canada",0.032182580469788176,384.2169717701623
+"Bromont Population Center, QC, Canada",0.07325292486210058,161.70559134759986
+"Delhi Population Center, ON, Canada",0.05096927854145825,232.739592732222
+"Armstrong Population Center, BC, Canada",0.057671370538096706,372.00135584525236
+"La Ronge Population Center, SK, Canada",0.046720023787569016,365.882248982701
+"Smithers Population Center, BC, Canada",0.04801829203250452,490.2146964410233
+"Humboldt Population Center, SK, Canada",0.03504643666211253,561.8656214917519
+"Mississauga Beach Population Center, ON, Canada",0.04612518998261493,85.40454123232159
+"Merritt Population Center, BC, Canada",0.044478038459554343,604.0923449866228
+"Acton Vale Population Center, QC, Canada",0.033888286812420516,97.55404036219151
+"Langdon Population Center, AB, Canada",0.04444530107322048,1000.5047444187136
+"Meadow Lake Population Center, SK, Canada",0.03431163343164168,473.8812957398861
+"Meaford Population Center, ON, Canada",0.04878390627863509,194.52015488661377
+"Wolfville Population Center, NS, Canada",0.05673439007827697,47.633844666816785
+"Stonewall Population Center, MB, Canada",0.03822596586947878,247.4106045503181
+"Oakbank Population Center, MB, Canada",0.04034079034285254,243.67913386789155
+"Mount Forest Population Center, ON, Canada",0.05331754077086971,424.50071218571367
+"Didsbury Population Center, AB, Canada",0.0421491275013519,1033.0648432286314
+"Peachland Population Center, BC, Canada",0.11603993304020833,402.18981224130425
+"Windsor Population Center, QC, Canada",0.06286376270812959,166.87202202621694
+"Neepawa Population Center, MB, Canada",0.04570137430218545,358.23488474930895
+"Saint-Apollinaire Population Center, QC, Canada",0.037397734731657035,109.15655035801431
+"Kimberley Population Center, BC, Canada",0.08511251792122904,1110.9138584518425
+"Sainte-Brigitte-de-Laval Population Center, QC, Canada",0.0945439425615073,244.82910332721596
+"Mitchell Population Center, ON, Canada",0.03673983051134356,343.05968158065684
+"Exeter Population Center, ON, Canada",0.028557071360651054,269.43694428796437
+"Osoyoos Population Center, BC, Canada",0.03664277752596797,286.8941750698587
+"Westlock Population Center, AB, Canada",0.04284637542966789,653.63045835034
+"Azilda Population Center, ON, Canada",0.03889041588559454,263.08562812755895
+"Napierville Population Center, QC, Canada",0.04334931594508765,53.24103737392397
+"Waterloo Population Center, QC, Canada",0.051635489551168284,222.3857612951023
+"Walkerton Population Center, ON, Canada",0.05334825797727323,263.112905526305
+"Flin Flon Population Center, MB-SK, Canada",0.08694829819313948,307.3869981970476
+"White City Population Center, SK, Canada",0.04482449982289397,608.9206210303826
+"Stayner Population Center, ON, Canada",0.04247249438348042,214.53371570495338
+"Lac-Alouette Population Center, QC, Canada",0.08024086110046286,121.77531722066996
+"Tilbury Population Center, ON, Canada",0.049648264049946704,175.37115747726378
+"Berthierville Population Center, QC, Canada",0.03455802960138137,10.858390356982264
+"Woodstock Population Center, NB, Canada",0.04779628836005092,56.07395131145508
+"Caledon East Population Center, ON, Canada",0.07291912254467729,305.5786586116642
+"Amqui Population Center, QC, Canada",0.0850874165212604,178.5634009911279
+"Tracadie-Sheila Population Center, NB, Canada",0.026217498819698346,11.724506444776521
+"Picton Population Center, ON, Canada",0.06364676456189829,100.66880156380736
+"Aldergrove East Population Center, BC, Canada",0.04234202468680405,105.77994518652766
+"Blenheim Population Center, ON, Canada",0.04171550362797589,208.95434076695585
+"Hope Population Center, BC, Canada",0.1008757775087703,74.64092627581924
+"Sainte-Martine Population Center, QC, Canada",0.05728922434453889,34.71075213430738
+"Princeville Population Center, QC, Canada",0.04886599070217528,158.12988338975043
+"Terrasse-des-Pins Population Center, QC, Canada",0.06875471676058297,183.04154055423805
+"Vineland Population Center, ON, Canada",0.04488706835155876,100.02639658075329
+"Verchères Population Center, QC, Canada",0.05018188823259901,18.285926920220298
+"Dorchester Population Center, ON, Canada",0.04604008696591194,260.2567009962918
+"Grand Falls / Grand-Sault Population Center, NB, Canada",0.07450815195820969,162.7557164679263
+"Deer Lake Population Center, NL, Canada",0.04921502425763057,35.95225907334566
+"Baie-Saint-Paul Population Center, QC, Canada",0.026470134128641815,14.83085662789908
+"Peace River Population Center, AB, Canada",0.08211522689611979,343.24616153777606
+"New Liskeard Population Center, ON, Canada",0.044369983399495765,197.88902729032787
+"Richmond Population Center, ON, Canada",0.038875403495164995,95.81966521964469
+"Altona Population Center, MB, Canada",0.03973947428753873,245.61890809981972
+"Waterford Population Center, ON, Canada",0.04903468303121288,241.3104597699471
+"Cumberland Population Center, BC, Canada",0.05624314884271079,165.93377401603414
+"Grand Forks Population Center, BC, Canada",0.04648911845640031,520.6634942598625
+"Beeton Population Center, ON, Canada",0.11443675339550644,225.89447290653038
+"Nipawin Population Center, SK, Canada",0.04247494060012188,368.61428582295093
+"Maniwaki Population Center, QC, Canada",0.054114015769206596,170.99316672610004
+"Prescott Population Center, ON, Canada",0.04259456401456842,86.61452301204598
+"Melville Population Center, SK, Canada",0.03290810314957717,556.2323902995003
+"Barrhead Population Center, AB, Canada",0.05742700021865061,640.3832889023802
+"Kemptville Population Center, ON, Canada",0.0455440222322965,93.25747150283618
+"Chemainus Population Center, BC, Canada",0.06256321549346963,41.105162520460624
+"Jasper Population Center, AB, Canada",0.06865055083745303,1057.0035607880977
+"Southampton Population Center, ON, Canada",0.04580888866780039,194.97584539906407
+"Sparwood Population Center, BC, Canada",0.05592827420506211,1130.6762960662018
+"Swan River Population Center, MB, Canada",0.035575544624053455,334.2249579767236
+"Espanola Population Center, ON, Canada",0.04198595463968264,196.86393503535712
+"Casselman Population Center, ON, Canada",0.03566660166960138,59.59527973050099
+"Raymond Population Center, AB, Canada",0.039146909915514214,951.631864446062
+"Kent Population Center, BC, Canada",0.04732777917719477,19.97087586105162
+"La Pocatière Population Center, QC, Canada",0.05519408990541161,29.08644752061374
+"Saint-Césaire Population Center, QC, Canada",0.025254263862068558,35.98180464334793
+"Bromptonville Population Center, QC, Canada",0.047070232546818025,150.84296830451822
+"Deep River Population Center, ON, Canada",0.052361522367630774,131.24576211867878
+"Sackville Population Center, NB, Canada",0.03369594630123803,13.840478237596216
+"Sioux Lookout Population Center, ON, Canada",0.03796200361901333,370.8916415028052
+"Cochrane Population Center, ON, Canada",0.06161562404061966,263.81015853147477
+"East Angus Population Center, QC, Canada",0.0426238584599161,211.0454546429056
+"Carstairs Population Center, AB, Canada",0.03454130574788346,1048.3858027137296
+"Battleford Population Center, SK, Canada",0.0441955860404792,488.0820973361827
+"Rossland Population Center, BC, Canada",0.12245557358849604,993.6760982019305
+"Golden Population Center, BC, Canada",0.05420774085475315,799.6484760993457
+"Cobble Hill Population Center, BC, Canada",0.08311599231084014,87.24402451161784
+"Beauceville Population Center, QC, Canada",0.09010975150478691,188.81263659416413
+"Crossfield Population Center, AB, Canada",0.03399907035992213,1104.8840286718373
+"Bobcaygeon Population Center, ON, Canada",0.05817941661528252,249.18057289821772
+"Filion Population Center, QC, Canada",0.04979608553277312,169.52858465094454
+"Chisasibi Population Center, QC, Canada",0.027986113449120595,15.434883272651083
+"Vermilion Population Center, AB, Canada",0.040128713073918805,611.4447147027956
+"Saint-Félix-de-Valois Population Center, QC, Canada",0.04959071104419455,136.74686046875163
+"Hearst Population Center, ON, Canada",0.041037558415231025,237.9727461408299
+"Wellesley Population Center, ON, Canada",0.04326119301097104,358.10393741989515
+"La Malbaie Population Center, QC, Canada",0.06801725075061375,41.489908380634944
+"Cardston Population Center, AB, Canada",0.037076196738690066,1152.36426410313
+"Hampton Population Center, NB, Canada",0.08134925409951728,35.81612283506325
+"Saint-Joseph-de-Beauce Population Center, QC, Canada",0.05442134892675125,169.4649039487245
+"Thornbury Population Center, ON, Canada",0.05597496407910757,195.36621029420482
+"Sainte-Julienne Population Center, QC, Canada",0.06506841470358647,100.34946459257779
+"Pincher Creek Population Center, AB, Canada",0.047365316684625354,1140.680126321642
+"High Level Population Center, AB, Canada",0.03642618279759955,329.62350667209546
+"Saint-Germain-de-Grantham Population Center, QC, Canada",0.03168872393779954,87.95678309980063
+"Claresholm Population Center, AB, Canada",0.04764591735453063,1028.2795908861592
+"Port Hardy Population Center, BC, Canada",0.06098506943684861,34.16003286450576
+"Domaine-Ouellet Population Center, QC, Canada",0.05119931677997121,25.55845190108768
+"St. Stephen Population Center, NB, Canada",0.04098380465074534,15.673075579509307
+"Still Water Lake Population Center, NS, Canada",0.050870119614140695,102.47101188963826
+"Campbellford Population Center, ON, Canada",0.06480796340685585,147.15528072405354
+"Sainte-Anne-des-Monts Population Center, QC, Canada",0.05915962657198077,29.38176850386633
+"Fossambault-sur-le-Lac Population Center, QC, Canada",0.07437910582327825,174.41596767585727
+"Penhold Population Center, AB, Canada",0.04216343250543814,895.3548415274918
+"St. George Population Center, ON, Canada",0.06768616126122136,232.31547324737983
+"Beaverton Population Center, ON, Canada",0.05048598944068911,227.98112482373173
+"Invermere Population Center, BC, Canada",0.0631475218345494,832.354036651551
+"Black Lake Population Center, QC, Canada",0.06723239776600178,273.6787215028565
+"Haileybury Population Center, ON, Canada",0.05385550179466752,221.9528847225948
+"Warwick Population Center, QC, Canada",0.05484812565330488,144.42249503919197
+"Lorette Population Center, MB, Canada",0.02907279000432369,235.7289479147357
+"Ballantrae Population Center, ON, Canada",0.047753970877937355,328.59046973565125
+"Caraquet Population Center, NB, Canada",0.0462925869371961,17.47461941495768
+"Mistissini Population Center, QC, Canada",0.06213039106214822,393.65381300015787
+"Saint-Pie Population Center, QC, Canada",0.03750818539573046,42.84374930775012
+"Lake Cowichan Population Center, BC, Canada",0.0506541807506355,180.6117720673703
+"Tavistock Population Center, ON, Canada",0.03245806885477181,342.2907544661727
+"Saint-Agapit Population Center, QC, Canada",0.035219670440430964,125.2851185307728
+"Mitchell Population Center, MB, Canada",0.058196304298556496,247.3815927519855
+"Shannon Population Center, QC, Canada",0.0481854869352916,176.12769716515461
+"Channel-Port aux Basques Population Center, NL, Canada",0.030996369001747667,9.103625520103417
+"Beausejour Population Center, MB, Canada",0.05762523035702936,237.0121729164262
+"Clinton Population Center, ON, Canada",0.04702503383697964,290.32995472839195
+"Lucan Population Center, ON, Canada",0.0389398806574442,298.6061820111354
+"Frankford Population Center, ON, Canada",0.06802674623478017,103.14328592973752
+"Richmond Population Center, QC, Canada",0.047060477812246926,134.20957237049473
+"Bridgenorth - Chemong Park Area Population Center, ON, Canada",0.05690861582016981,265.15406130354796
+"Saint-Gabriel Population Center, QC, Canada",0.0654502932728637,183.26987622777452
+"Wheatley Population Center, ON, Canada",0.03793845605091124,175.93332924851052
+"Hagersville Population Center, ON, Canada",0.03503172884018862,216.1686336888412
+"Saint-Raymond Population Center, QC, Canada",0.07855537404599827,160.92760650947116
+"Melocheville Population Center, QC, Canada",0.0577600600321315,31.996822005340825
+"Fort Macleod Population Center, AB, Canada",0.03645429123380404,940.7244440097545
+"Norwich Population Center, ON, Canada",0.07517363185746939,264.3187108599131
+"Rigaud Population Center, QC, Canada",0.0503099578389297,44.61406179354462
+"Grande Cache Population Center, AB, Canada",0.0694732627776623,1210.3888757487891
+"Grand Bend Population Center, ON, Canada",0.04627990614334595,185.09470714852836
+"Trois-Pistoles Population Center, QC, Canada",0.06769719521530868,41.52696484713538
+"Enderby Population Center, BC, Canada",0.07592238986219342,371.28801185046854
+"Marathon Population Center, ON, Canada",0.055950602259520275,228.02526103315708
+"Port Stanley Population Center, ON, Canada",0.04914011840069472,191.51705786527322
+"Virgil Population Center, ON, Canada",0.04216030439358177,87.58576245929227
+"Bishop's Falls Population Center, NL, Canada",0.04344479020748015,16.675013428497337
+"Inuvik Population Center, NT, Canada",0.051784415309726495,9.006089819457552
+"Port Hawkesbury Population Center, NS, Canada",0.050744585398127116,25.319605597881925
+"Malartic Population Center, QC, Canada",0.04874736890188851,311.16225402359976
+"Gibbons Population Center, AB, Canada",0.05962260380101704,662.7048223369148
+"Palmerston Population Center, ON, Canada",0.03555865177628969,404.2019030879106
+"Wingham Population Center, ON, Canada",0.04947545397258389,322.99702865567843
+"Bonavista Population Center, NL, Canada",0.03255338853676462,13.935021909615662
+"Carman Population Center, MB, Canada",0.04313349090268351,257.1407488386727
+"Pemberton Population Center, BC, Canada",0.10471252691987434,229.7634315227416
+"Lakefield Population Center, ON, Canada",0.0529442728361462,242.83938129181593
+"Kindersley Population Center, SK, Canada",0.04561470440913204,687.6332505594446
+"Capreol Population Center, ON, Canada",0.08757321066464169,305.12758746433605
+"La Crète Population Center, AB, Canada",0.0335984074120905,324.7238273439029
+"Alexandria Population Center, ON, Canada",0.03930630412441191,77.99692167523742
+"Virden Population Center, MB, Canada",0.04097443786571813,435.59619527763385
+"Three Hills Population Center, AB, Canada",0.04395964308576765,897.3264164867359
+"Ste. Anne Population Center, MB, Canada",0.06799493955901915,246.83625039193214
+"Havre-Saint-Pierre Population Center, QC, Canada",0.03473338841780562,9.271679883802953
+"Tisdale Population Center, SK, Canada",0.03021977149383851,448.6698871795187
+"Iroquois Falls Population Center, ON, Canada",0.10274921117327215,279.5547950842513
+"Mackenzie Population Center, BC, Canada",0.06242254721180045,757.640046350352
+"Saint-Joseph-de-Lanoraie Population Center, QC, Canada",0.0302063978832145,12.467763363794404
+"Thurso Population Center, QC, Canada",0.05016074450895602,52.82988041847945
+"Princeton Population Center, BC, Canada",0.09007719170547517,665.6114915901389
+"Coalhurst Population Center, AB, Canada",0.04414464624046678,925.1305602579184
+"Clairmont Population Center, AB, Canada",0.0430871422910252,675.578609263855
+"Dundalk Population Center, ON, Canada",0.08698276429588071,526.7431410364474
+"Gaspé Population Center, QC, Canada",0.08846160690348263,72.17456067116197
+"Crabtree Population Center, QC, Canada",0.0535297564233763,41.12296748503676
+"Cowichan Bay Population Center, BC, Canada",0.06574880016347769,68.37901115661178
+"Ridgetown Population Center, ON, Canada",0.04835585769708746,217.8455624432635
+"Pasadena Population Center, NL, Canada",0.04713646433337324,35.43587542385463
+"Arviat Population Center, NU, Canada",0.022257848666897253,8.946723741408766
+"Durham Population Center, ON, Canada",0.05078054007651537,353.0526922717164
+"Botwood Population Center, NL, Canada",0.04677922626083151,18.850271539186927
+"Saint-Anselme Population Center, QC, Canada",0.043680928289427004,156.96598452022405
+"Erin Population Center, ON, Canada",0.07241554340744599,396.9944241900817
+"Grand Valley Population Center, ON, Canada",0.08105882549843547,467.8567620338877
+"Roxton Pond Population Center, QC, Canada",0.02772045857237,130.35427329288927
+"Rankin Inlet Population Center, NU, Canada",0.03853169851934871,15.350599479866805
+"Clermont Population Center, QC, Canada",0.06680610650550792,63.87506098542847
+"Huntingdon Population Center, QC, Canada",0.060229081169434595,49.15128999699749
+"Seaforth Population Center, ON, Canada",0.03554163262741437,307.55454221395917
+"Marystown Population Center, NL, Canada",0.06887338996818759,23.961744504513593
+"Mount Brydges Population Center, ON, Canada",0.04117888557728072,243.56740185144184
+"Schomberg Population Center, ON, Canada",0.05720717147090949,234.3565075367377
+"Springhill Population Center, NS, Canada",0.0624066835439438,162.45738709271632
+"Saint-Jacques Population Center, QC, Canada",0.06753593125884091,55.02189648753912
+"Pictou Population Center, NS, Canada",0.04529018345638402,20.79661320896389
+"Arthur Population Center, ON, Canada",0.06267832890147289,463.0619899588152
+"Thamesford Population Center, ON, Canada",0.041568291302014115,286.9916674362337
+"Fort Nelson Population Center, BC, Canada",0.05269995201282968,415.04372856299403
+"Eskasoni 3 Population Center, NS, Canada",0.027496965613190413,6.809427967190681
+"Black Diamond Population Center, AB, Canada",0.046616434735921086,1189.632695981809
+"Harrow Population Center, ON, Canada",0.043443292502589076,191.5106504519295
+"Bedford Population Center, QC, Canada",0.028223101447003553,59.32460480464642
+"Liverpool Population Center, NS, Canada",0.03456115548232202,18.661561499358218
+"Ville Lambert Population Center, QC, Canada",0.03933246716686403,123.61985583919245
+"Neuville Population Center, QC, Canada",0.038670674885699974,11.372495734516065
+"Osgoode Population Center, ON, Canada",0.03603883439358903,92.074582050216
+"Saint-Pascal Population Center, QC, Canada",0.06951046355816473,56.92854456213588
+"Lac-Lapierre Population Center, QC, Canada",0.06012400481602626,77.99276139972443
+"Elmvale Population Center, ON, Canada",0.09319731155357074,215.8563003222532
+"Grimshaw Population Center, AB, Canada",0.03346693837009679,602.390151239375
+"Cap-aux-Meules Population Center, QC, Canada",0.027774226297419886,9.988534945818754
+"Killarney Population Center, MB, Canada",0.034597816119409985,491.4790121819541
+"Fenelon Falls Population Center, ON, Canada",0.04262419266895686,256.9901600445021
+"Château-Richer Population Center, QC, Canada",0.035750081298184265,16.372485645755535
+"Moosomin Population Center, SK, Canada",0.03417002248710768,575.6413469148989
+"La Salle Population Center, MB, Canada",0.06277158020551855,235.3444833084448
+"Berwick Population Center, NS, Canada",0.04394377905840506,39.34962779623061
+"Wawa Population Center, ON, Canada",0.07000409408880136,291.1200379851696
+"Forest Population Center, ON, Canada",0.050685078358654975,216.68699344423013
+"Fairview Population Center, AB, Canada",0.03324411712071003,660.0059330443029
+"Cabano Population Center, QC, Canada",0.0531372532499884,162.06203287689587
+"Winchester Population Center, ON, Canada",0.048786259663622274,72.23375833209931
+"Turner Valley Population Center, AB, Canada",0.038534332243038566,1221.0289068585537
+"Minnedosa Population Center, MB, Canada",0.05021844863949292,516.1087590626066
+"Unity Population Center, SK, Canada",0.04416356468773669,631.6034122620559
+"Lunenburg Population Center, NS, Canada",0.04030312709300864,13.58870349246402
+"Dresden Population Center, ON, Canada",0.05453293332046997,179.18790540925548
+"Morrisburg Population Center, ON, Canada",0.02073986053159192,73.65247666350379
+"Saint-Honoré Population Center, QC, Canada",0.05040406591435068,140.24748251532355
+"Tumbler Ridge Population Center, BC, Canada",0.0789852194438717,824.7844826844669
+"Rosetown Population Center, SK, Canada",0.03517962967924687,588.4078817246406
+"Hay River Population Center, NT, Canada",0.05246748430120497,167.86271781886032
+"Chase Population Center, BC, Canada",0.13151720947447415,396.04539069814507
+"Dalhousie Population Center, NB, Canada",0.0738529237220263,36.74240289793914
+"Blind Bay Population Center, BC, Canada",0.09400250312012676,435.21980052690293
+"Lake Echo Population Center, NS, Canada",0.06488994800250149,33.2194363454575
+"Pilot Butte Population Center, SK, Canada",0.047662150604578186,615.5242226711789
+"Wyoming Population Center, ON, Canada",0.04891918481432394,206.44772093110862
+"Gimli Population Center, MB, Canada",0.02744507608578426,215.89301384828678
+"Colchester Population Center, ON, Canada",0.031614774547252804,178.05773295014305
+"Assiniboia Population Center, SK, Canada",0.044565841055426304,749.8197327053475
+"Indian Brook 14 Population Center, NS, Canada",0.04152741816007581,37.21956939256254
+"Évain Population Center, QC, Canada",0.058288681938489684,294.9354696831277
+"Magrath Population Center, AB, Canada",0.04280216763980636,973.1617625850342
+"Drayton Population Center, ON, Canada",0.05222476298172298,416.4516731602528
+"Sexsmith Population Center, AB, Canada",0.03930198109711292,720.9845462573074
+"Constance Bay Population Center, ON, Canada",0.04893743271552272,67.25190948402715
+"Fort-Coulonge Population Center, QC, Canada",0.06748167995916235,112.92117483971414
+"Rimbey Population Center, AB, Canada",0.0366392548937591,930.4670841690624
+"Beaverlodge Population Center, AB, Canada",0.07355797900372586,725.020636703189
+"Ilderton Population Center, ON, Canada",0.034563246967881045,284.16508051718563
+"Hanna Population Center, AB, Canada",0.038639569203588665,817.3126474074345
+"Port McNeill Population Center, BC, Canada",0.06993556829168916,71.34061295789677
+"Rosedale Population Center, BC, Canada",0.08366980128369496,41.49435889952945
+"Disraeli Population Center, QC, Canada",0.027815034688353675,255.06269387552723
+"Sainte-Claire Population Center, QC, Canada",0.0492853155413028,207.156977815863
+"Métabetchouan Population Center, QC, Canada",0.0393180237132405,128.23993033639857
+"Starlight Village Population Center, NB, Canada",0.05674235613677804,107.81956590866088
+"Les Cèdres Population Center, QC, Canada",0.04259903520564252,36.629860560677926
+"Limoges Population Center, ON, Canada",0.039851419483624466,67.25603330487911
+"Senneterre Population Center, QC, Canada",0.038396456732461746,305.44494417747916
+"Okanagan Falls Population Center, BC, Canada",0.0806537049917253,369.06089653591243
+"Forestville Population Center, QC, Canada",0.05713707239788981,73.70805019425379
+"Esterhazy Population Center, SK, Canada",0.04244375200190324,511.9896456967497
+"Saint-Tite Population Center, QC, Canada",0.04326940375199943,142.13102714062438
+"Chandler Population Center, QC, Canada",0.030840414466354826,8.099873961703166
+"Shippagan Population Center, NB, Canada",0.026177427693138324,8.866727606122987
+"Springdale Population Center, NL, Canada",0.03826507137560116,11.204530540872483
+"New Maryland Population Center, NB, Canada",0.04485991177555282,107.02051951431127
+"Wendover Population Center, ON, Canada",0.034471283277335174,48.57644527104333
+"Blind River Population Center, ON, Canada",0.03735783275283011,184.561253548373
+"Stony Mountain Population Center, MB, Canada",0.05026205045796979,240.18650948064217
+"Glencoe Population Center, ON, Canada",0.04344310427519093,217.69061302052552
+"Long Sault Population Center, ON, Canada",0.032535452667526554,79.84843597808126
+"Fermont Population Center, QC, Canada",0.030702951963402204,599.8471596084885
+"Maple Creek Population Center, SK, Canada",0.04239646350093412,772.2288451022825
+"Saint-Quentin Population Center, NB, Canada",0.03408355542871015,286.0680132116867
+"Lac la Biche Population Center, AB, Canada",0.07493284721403355,556.5288130172908
+"Saint-Roch-de-l'Achigan Population Center, QC, Canada",0.07190613054203965,37.3041803039158
+"Pelican Narrows Population Center, SK, Canada",0.04058098034455326,327.5715583860677
+"Burns Lake Population Center, BC, Canada",0.07818046586192808,754.1908835689109
+"Outlook Population Center, SK, Canada",0.047316615322096314,535.6771670726773
+"Portneuf Population Center, QC, Canada",0.04988202759193499,35.07344334180761
+"Betsiamites Population Center, QC, Canada",0.021143900554742703,9.674740850452075
+"Houston Population Center, BC, Canada",0.04362600783125878,610.5456496850605
+"Stirling Population Center, ON, Canada",0.058500216083564385,110.20576895878963
+"Grand Bank Population Center, NL, Canada",0.04980825808288553,11.932861747730353
+"High Prairie Population Center, AB, Canada",0.04668608860433977,589.1264864899106
+"Lewisporte Population Center, NL, Canada",0.02596177074533904,8.368228178443061
+"Biggar Population Center, SK, Canada",0.033062759697958896,663.3220087546757
+"Sicamous Population Center, BC, Canada",0.05548059716482667,354.22769936127065
+"Westlake Population Center, AB, Canada",0.04461858951436528,687.881279626203
+"Ville-Marie Population Center, QC, Canada",0.06181191583867278,200.96399550855878
+"La Loche Population Center, SK, Canada",0.041204407043458534,444.95718794754134
+"Saint-Prosper Population Center, QC, Canada",0.05147700662907552,311.0739956367898
+"Saint-Marc-des-Carrières Population Center, QC, Canada",0.04994394764330421,40.19678997811395
+"Digby Population Center, NS, Canada",0.053623639788751884,26.28250453059385
+"Wiarton Population Center, ON, Canada",0.0584646099244285,194.2790207084772
+"Sainte-Madeleine Population Center, QC, Canada",0.037575566953264035,27.880052067688954
+"Stanley Mission 157 Population Center, SK, Canada",0.04663515505052771,361.80264232038377
+"St. Anthony Population Center, NL, Canada",0.06621875634289599,22.969404125182443
+"Nanton Population Center, AB, Canada",0.03706625043715866,1035.3043329951327
+"Heritage Pointe Population Center, AB, Canada",0.043275804117188794,1049.326207184275
+"Vanderhoof Population Center, BC, Canada",0.07568095377578021,642.6250851163212
+"St. Jacobs Population Center, ON, Canada",0.060890980668938645,331.4439164784222
+"Kuujjuaq Population Center, QC, Canada",0.05581577857583236,28.934730495805223
+"Bouctouche Population Center, NB, Canada",0.024605503976208466,9.278941469175154
+"Ucluelet Population Center, BC, Canada",0.04923233555642538,13.874086199560875
+"Souris Population Center, MB, Canada",0.038694118453892215,415.8061597225343
+"Rayleigh Population Center, BC, Canada",0.10702628823284199,376.6985938213691
+"Lebel-sur-Quévillon Population Center, QC, Canada",0.03102687727122859,284.71780697302876
+"Atikokan Population Center, ON, Canada",0.06399253639328496,395.12970055284467
+"Roberts Creek Population Center, BC, Canada",0.07294024615954209,37.09556437273098
+"Amigo Beach Population Center, ON, Canada",0.03523666702054328,218.5507826709846
+"Elkford Population Center, BC, Canada",0.07075241654930432,1277.7360472875846
+"Stoneham Population Center, QC, Canada",0.055164701679591914,186.14096110346654
+"Marchmont - Bass Lake Population Center, ON, Canada",0.05724188147075875,255.36485556734095
+"Montague Population Center, PE, Canada",0.035801385273393084,17.944472291929486
+"Harriston Population Center, ON, Canada",0.03985684845558476,391.2062120774635
+"New Richmond Population Center, QC, Canada",0.060017259776845695,19.999688139408697
+"Calmar Population Center, AB, Canada",0.045088566121688066,727.7255506180251
+"Saint-Ambroise-de-Kildare Population Center, QC, Canada",0.06278784249085369,81.87948499352329
+"Normandin Population Center, QC, Canada",0.06226703899478231,132.79317602224822
+"Chesley Population Center, ON, Canada",0.04873168353492239,279.2717375151668
+"Saint-Bruno Population Center, QC, Canada",0.036838289341239276,149.105499118051
+"East Broughton Population Center, QC, Canada",0.0500224455321116,382.87815539240677
+"Fort Qu'Appelle Population Center, SK, Canada",0.050864405898303267,483.460230023446
+"Pierreville Population Center, QC, Canada",0.03417600011329276,20.471439648131003
+"Carlisle Population Center, ON, Canada",0.05240576850600651,262.5584224646223
+"Laurier-Station Population Center, QC, Canada",0.03184993074564165,109.79558769560803
+"Rivière-Beaudette Population Center, QC, Canada",0.033760061743486794,46.36957470055878
+"Millet Population Center, AB, Canada",0.056811516512428425,755.9897752920847
+"Saint-Liboire Population Center, QC, Canada",0.030628537728246877,85.91407260269742
+"Cannington Population Center, ON, Canada",0.04374900632445393,253.06047381452646
+"Provost Population Center, AB, Canada",0.03133098260504188,668.5924544101207
+"Bow Island Population Center, AB, Canada",0.026467116641642044,796.1333759149946
+"Cross Lake 19A Population Center, MB, Canada",0.034285820262011144,205.1328206734818
+"Bath Population Center, ON, Canada",0.023758985154701876,74.83684750940272
+"Carberry Population Center, MB, Canada",0.03961144264754449,375.9008823207295
+"Saint-Jean-Baptiste Population Center, QC, Canada",0.02629547701832671,26.912393919862133
+"Indian Head Population Center, SK, Canada",0.04919662845010475,582.8924866507346
+"Watrous Population Center, SK, Canada",0.03128698621848986,542.7110309966257
+"Metcalfe Population Center, ON, Canada",0.043934974660010895,83.02822722010218
+"Tofield Population Center, AB, Canada",0.03415327022805128,697.0596538556018
+"Picture Butte Population Center, AB, Canada",0.04521556900360367,899.0694398192821
+"Waskaganish Population Center, QC, Canada",0.029454153589926823,20.759951400653776
+"Oro Station - Hawkestone Population Center, ON, Canada",0.024566838215286265,219.16414807690305
+"Valcourt Population Center, QC, Canada",0.052261121187094514,224.62321590728493
+"Redwater Population Center, AB, Canada",0.03983696384264493,633.867699751076
+"Morris Population Center, MB, Canada",0.0499610713665093,234.93841397774574
+"Lumsden Population Center, SK, Canada",0.06092815478750155,521.3646213321476
+"Milverton Population Center, ON, Canada",0.04523232369537067,389.55785805771075
+"Keremeos Population Center, BC, Canada",0.04323324303391149,417.81161592940975
+"Regina Beach Population Center, SK, Canada",0.049048173693830396,526.1087673766642
+"Ormstown Population Center, QC, Canada",0.05939889555333564,43.69786398316197
+"Coniston Population Center, ON, Canada",0.06975584372170225,244.4344884753524
+"Grunthal Population Center, MB, Canada",0.04773330428129333,260.2641044937413
+"Sundre Population Center, AB, Canada",0.04775340700576506,1091.3668095697708
+"Vankleek Hill Population Center, ON, Canada",0.04802248436021062,99.07130766014187
+"Cardinal Population Center, ON, Canada",0.02483146964718187,77.66616882029471
+"Lac-Etchemin Population Center, QC, Canada",0.04851564290229648,396.81888929683527
+"Saint-Sulpice Population Center, QC, Canada",0.03412681351580071,9.81509950729392
+"Shaunavon Population Center, SK, Canada",0.03681642264149028,918.3483227444488
+"Canora Population Center, SK, Canada",0.039503389861250314,491.7098664269678
+"Geraldton Population Center, ON, Canada",0.08154530239967929,321.4712463164938
+"Saint-Henri-de-Lévis Population Center, QC, Canada",0.02958266044699345,86.55530535745045
+"Sainte-Catherine-de-la-Jacques-Cartier Population Center, QC, Canada",0.051084896850774573,143.14138817521896
+"Dégelis Population Center, QC, Canada",0.055612524641627324,159.32279634065847
+"Fort Smith Population Center, NT, Canada",0.050185611661211806,200.0875043986682
+"Saint-Michel Population Center, QC, Canada",0.03718316280766642,68.71713576990892
+"Kensington Population Center, PE, Canada",0.04972866664059693,34.36776092564326
+"Millbrook Population Center, ON, Canada",0.06580229391400617,229.27186322238668
+"Blumenort Population Center, MB, Canada",0.06321254883537691,246.41926203357818
+"Balgonie Population Center, SK, Canada",0.050722954564765325,666.6462655103497
+"Lacolle Population Center, QC, Canada",0.03539379808489028,44.066414151297344
+"Mattawa Population Center, ON, Canada",0.06753700456485394,168.61713241724553
+"Cayuga Population Center, ON, Canada",0.036342845797667965,180.5900578668059
+"L'Ange-Gardien Population Center, QC, Canada",0.03899438624308849,69.3111009071543
+"Saint Andrews Population Center, NB, Canada",0.035109609408710996,14.129002414729348
+"Parkhill Population Center, ON, Canada",0.03627871537802958,201.88402246407054
+"One Hundred Mile House Population Center, BC, Canada",0.07190109023916239,947.2907380028902
+"Dalmeny Population Center, SK, Canada",0.03198067880618515,518.1055382831046
+"Wasagamack Population Center, MB, Canada",0.05552128674267048,240.1408953134075
+"Manitouwadge Population Center, ON, Canada",0.044973306846155615,329.0006163534564
+"Val-Maher Population Center, QC, Canada",0.047494562874882046,138.06390394515714
+"Saint-Martin Population Center, QC, Canada",0.058452697293151404,253.83997521178517
+"Inukjuak Population Center, QC, Canada",0.030994409324697932,7.088892772265462
+"Big Bay Point Population Center, ON, Canada",0.04490089205018583,221.84395337948982
+"Rougemont Population Center, QC, Canada",0.0351166622660172,51.32960774842869
+"Wynyard Population Center, SK, Canada",0.039571161004266164,555.7086328800019
+"Ferme-Neuve Population Center, QC, Canada",0.04595521530554941,214.06001321821668
+"Domaine-C.-L.-C. Population Center, QC, Canada",0.0637034628682848,67.98299044361345
+"Kamsack Population Center, SK, Canada",0.051057510110219875,442.50843526444453
+"Dutton Population Center, ON, Canada",0.029778846485705345,217.83670116091233
+"Baker Lake Population Center, NU, Canada",0.03434904436488737,13.537779365640183
+"Danville Population Center, QC, Canada",0.06075027721137434,170.8106967290029
+"Lillooet Population Center, BC, Canada",0.0957159236892682,247.50647498914103
+"Saint Grégoire Population Center, QC, Canada",0.0250913319876496,24.064738644566205
+"Saint-Ambroise Population Center, QC, Canada",0.044908648748069525,121.05633989870937
+"Cookstown Population Center, ON, Canada",0.05765590409245853,242.35081589775837
+"Saint-André-Avellin Population Center, QC, Canada",0.05421841795293615,160.28748502485476
+"Price Population Center, QC, Canada",0.0466250623449717,74.36091545353668
+"Gentilly Population Center, QC, Canada",0.029941986267005304,21.681251066251086
+"Russell Population Center, MB, Canada",0.03617472778449165,563.2979168936181
+"Massey Drive Population Center, NL, Canada",0.09067430757869692,244.67538744361104
+"Roblin Population Center, MB, Canada",0.03247200455930667,546.92295907212
+"Sandy Lake 88 Population Center, ON, Canada",0.04175716887851517,274.9140740559264
+"Deseronto Population Center, ON, Canada",0.02638587208161976,79.74287146780516
+"Manawan Population Center, QC, Canada",0.0656915601762331,462.17377867357146
+"St. Adolphe Population Center, MB, Canada",0.03726983189635174,231.10815476707432
+"Tofino Population Center, BC, Canada",0.07139528976437745,31.588686018604076
+"Saint-Thomas Population Center, QC, Canada",0.033030023737840954,24.603124409877413
+"Attawapiskat 91A Population Center, ON, Canada",0.03426407256222763,9.450909533623683
+"Alençon Population Center, QC, Canada",0.02097214331149951,8.478639630525675
+"Norwood Population Center, ON, Canada",0.05936607984281608,199.41719379103455
+"Ile des Chênes Population Center, MB, Canada",0.03837665602604348,232.89318586175906
+"Everett Population Center, ON, Canada",0.10961778277453113,248.82421467352117
+"Boissevain Population Center, MB, Canada",0.03106402872793267,508.06107806007566
+"Chesterville Population Center, ON, Canada",0.03520845623530832,67.11397651593605
+"Watford Population Center, ON, Canada",0.03519134692422921,234.2256927567947
+"Vulcan Population Center, AB, Canada",0.03196662298290365,1047.110114392371
+"Harrison Hot Springs Population Center, BC, Canada",0.061219339915103366,23.95731465528344
+"Salisbury Population Center, NB, Canada",0.02952253753426615,15.483278990407081
+"Hantsport Population Center, NS, Canada",0.04998472819415274,29.253949479434347
+"Tweed Population Center, ON, Canada",0.04695112869103093,141.3240173437968
+"McGregor Population Center, ON, Canada",0.058507757399106325,183.833531013505
+"Springbrook Population Center, AB, Canada",0.04038717541317579,896.1682618529773
+"Wellington Population Center, ON, Canada",0.030594758842545675,75.77359513607419
+"Blairmore Population Center, AB, Canada",0.09251711089568088,1315.857960708032
+"Plattsville Population Center, ON, Canada",0.06754508230292061,310.7355182663529
+"Carlyle Population Center, SK, Canada",0.030206646176078402,622.1646091281362
+"Pinawa Population Center, MB, Canada",0.05288257283354342,273.3745069108924
+"Saint-Donat-de-Montcalm Population Center, QC, Canada",0.06304080452866648,400.06831800628703
+"Saint-Alexis-des-Monts Population Center, QC, Canada",0.06229175509282064,161.1325020502415
+"Marmora Population Center, ON, Canada",0.07147950456304103,185.78170991911685
+"Fort St. James Population Center, BC, Canada",0.06424242784374226,693.7448480599122
+"Sunderland Population Center, ON, Canada",0.048949826080371614,263.56928012247994
+"Madoc Population Center, ON, Canada",0.07135520578571315,157.12573459870072
+"Ingleside Population Center, ON, Canada",0.027742582052719757,78.65700147286493
+"Lumby Population Center, BC, Canada",0.05869739540250432,498.5793742323103
+"Stanstead Population Center, QC, Canada",0.05903282749049617,314.7933815107478
+"Carp Population Center, ON, Canada",0.04621748269085379,102.39379970436293
+"Rosthern Population Center, SK, Canada",0.05142362562665348,507.0858079314194
+"Colborne Population Center, ON, Canada",0.05255448698931538,98.59668648844321
+"Moosonee Population Center, ON, Canada",0.0539291491494498,9.144217947682364
+"Saint-Léonard-d'Aston Population Center, QC, Canada",0.04259201002703571,69.74193535976026
+"Caledon Population Center, ON, Canada",0.06577322918465414,420.3742825600338
+"Saint-Alexandre [de-Kamouraska] Population Center, QC, Canada",0.05549310878982118,128.87927157673877
+"Richibucto 15 Population Center, NB, Canada",0.03471193337143036,17.14685851467965
+"Godefroy Population Center, QC, Canada",0.028648183443706704,13.208250129867901
+"Maliotenam Population Center, QC, Canada",0.05189395003596829,32.809155701746604
+"Puvirnituq Population Center, QC, Canada",0.02049971882245347,5.193368246114075
+"Saint-Étienne-des-Grès Population Center, QC, Canada",0.05418658641520708,105.9794257017027
+"Bon Accord Population Center, AB, Canada",0.04492986436762189,706.6552081965812
+"Dowling Population Center, ON, Canada",0.047484424462378404,277.8091433723301
+"Bonaventure Population Center, QC, Canada",0.021061092340231142,6.81944645472421
+"Crofton Population Center, BC, Canada",0.07679043747249166,46.24811276107079
+"McEwen Population Center, NB, Canada",0.03819060762073933,44.56802767617405
+"Saint-Basile-Sud Population Center, QC, Canada",0.05013891322792583,67.443598306487
+"Oak Bluff Population Center, MB, Canada",0.04455784348509841,232.5719332037298
+"Coleman Population Center, AB, Canada",0.06767575685648448,1328.0771893268773
+"Brookside Population Center, NS, Canada",0.035189148475882566,56.93023737065049
+"Saint-Gédéon Population Center, QC, Canada",0.06568654273361538,267.9581854744259
+"Shelburne Population Center, NS, Canada",0.03030712503558712,12.932223091483982
+"Nobleford Population Center, AB, Canada",0.06622182311109631,981.5733328571346
+"Miller's Landing Population Center, BC, Canada",0.10977964511700683,59.76308988885458
+"Scott Population Center, QC, Canada",0.032055346353602875,144.94182795803997
+"Wembley Population Center, AB, Canada",0.06589634722885652,727.7151556619606
+"Middleton Population Center, NS, Canada",0.038007558238389576,17.51377456356923
+"Fox Creek Population Center, AB, Canada",0.06900144489983988,833.9967325532702
+"Sainte-Croix Population Center, QC, Canada",0.03595091352435831,59.48377304450965
+"Maria Population Center, QC, Canada",0.028075279412123927,5.2690800870925525
+"Kingsey Falls Population Center, QC, Canada",0.040620917387321286,118.38892403946416
+"Wikwemikong Population Center, ON, Canada",0.06223118992765088,214.6933190900068
+"Whapmagoostui - Kuujjuarapik Population Center, QC, Canada",0.027616550195473277,9.405365577153622
+"Maskinongé Population Center, QC, Canada",0.023146293632412645,14.114667522018925
+"Iroquois Population Center, ON, Canada",0.02847184752702894,72.99132154240864
+"Cambridge Bay Population Center, NU, Canada",0.01421048575723605,4.392836289327069
+"Linière Population Center, QC, Canada",0.06388482732763777,257.51993017259184
+"Bayfield Population Center, ON, Canada",0.041975723466469966,200.56662042862663
+"Elk Point Population Center, AB, Canada",0.05530615073550556,601.4557401821097
+"Stoney Point Population Center, ON, Canada",0.04254278639123955,173.81297057777752
+"Lions Bay Population Center, BC, Canada",0.24941310264822403,169.38413127466012
+"Hastings Population Center, ON, Canada",0.05582038929501967,190.4008492060786
+"Cross Lake 19 Population Center, MB, Canada",0.027148255900182876,207.23853213219527
+"West Lorne Population Center, ON, Canada",0.03438595016010065,212.07406830172323
+"Saint-Antoine Population Center, NB, Canada",0.036714451937888186,48.201249876666566
+"Saint-Jean-Port-Joli Population Center, QC, Canada",0.031098095702741836,20.27454973389098
+"Two Hills Population Center, AB, Canada",0.04133492286098823,609.4755129733269
+"Yarrow Population Center, BC, Canada",0.03552367135345921,17.547208312544598
+"Saint-Éphrem-de-Tring Population Center, QC, Canada",0.0525391402760451,314.6929516765124
+"Chester Population Center, NS, Canada",0.03110774289711135,12.565905951044185
+"Englehart Population Center, ON, Canada",0.04987052848649645,206.60582342047005
+"Saint-Boniface Population Center, QC, Canada",0.05283018434871374,117.18979239432679
+"Saint-Polycarpe Population Center, QC, Canada",0.04994880766412463,47.701760025367044
+"Shilo CFB-BFC Population Center, MB, Canada",0.048753518293661674,370.2347427769027
+"L'Orignal Population Center, ON, Canada",0.03507411010084547,48.6155450673465
+"Port Rowan Population Center, ON, Canada",0.05273954642119553,182.37844228869517
+"Saint-Charles Population Center, QC, Canada",0.04245066561372087,65.52534147363892
+"Logan Lake Population Center, BC, Canada",0.08286026307908509,1100.5384374029734
+"Macamic Population Center, QC, Canada",0.037015842365988545,280.26490860028935
+"Nelson House 170 Population Center, MB, Canada",0.025158353650963458,248.57200345026948
+"Langham Population Center, SK, Canada",0.037346574859104795,514.5407883911557
+"Daveluyville Population Center, QC, Canada",0.035795292441752266,87.92683493087806
+"Innerkip Population Center, ON, Canada",0.04766289627309066,295.0587999687023
+"Saint-Alexandre Population Center, QC, Canada",0.042722778526252794,58.66094716416921
+"Matagami Population Center, QC, Canada",0.04575989497627562,261.30062491163454
+"Placentia Population Center, NL, Canada",0.08558904440076248,21.713307444121043
+"Hudson Bay Population Center, SK, Canada",0.058780945378160865,361.7547388282133
+"La Broquerie Population Center, MB, Canada",0.06277062509778521,274.28191720275214
+"Grande-Rivière Population Center, QC, Canada",0.02710535808180457,13.981911652294311
+"Shellbrook Population Center, SK, Canada",0.03982907150821025,491.23124232982923
+"Shawville Population Center, QC, Canada",0.06578696707748297,162.6044733721967
+"Lamont Population Center, AB, Canada",0.04694108296973826,649.6215138160127
+"Wemindji Population Center, QC, Canada",0.04385048086005582,15.538465932151652
+"Longlac Population Center, ON, Canada",0.045693813191076155,316.5147787855475
+"Stevensville Population Center, ON, Canada",0.038103942067951736,177.04972383728307
+"Brownsburg Population Center, QC, Canada",0.05575435707239955,105.58013944519341
+"Saint-Cyrille-de-Wendover Population Center, QC, Canada",0.03171099410883081,86.87620675414902
+"Témiscaming Population Center, QC, Canada",0.10983544795401409,234.141670995058
+"St-Pierre-Jolys Population Center, MB, Canada",0.036530097132363236,235.7361891656934
+"Sainte-Thècle Population Center, QC, Canada",0.04543864429221279,160.9363152047597
+"Oka Population Center, QC, Canada",0.022736489545722105,22.41850142285149
+"Chapais Population Center, QC, Canada",0.046206207633653594,399.90851253385284
+"Telkwa Population Center, BC, Canada",0.059134817049376426,533.867425187511
+"Vauxhall Population Center, AB, Canada",0.054395768276087296,772.125084415249
+"Landmark Population Center, MB, Canada",0.05009895962920451,240.3321826105131
+"Valleyview Population Center, AB, Canada",0.05206074290093421,706.1672810073604
+"Arborg Population Center, MB, Canada",0.02627623687702846,225.2585762508367
+"Lanigan Population Center, SK, Canada",0.03643708448022497,531.3026064316263
+"Belmont Population Center, ON, Canada",0.04399308714870187,256.79150065785046
+"Bowden Population Center, AB, Canada",0.047335849660415034,994.187074915989
+"Les Escoumins Population Center, QC, Canada",0.04807354208681996,25.63870013661496
+"Barriere Population Center, BC, Canada",0.0776631516687804,388.4984921094403
+"Lac-Connelly Population Center, QC, Canada",0.06527323843462175,196.97610795172713
+"Red Lake Population Center, ON, Canada",0.06363720299454545,372.66798754935513
+"Wells Population Center, NB, Canada",0.06593726050196015,80.51330618085574
+"Craigleith and Swiss Meadows Population Center, ON, Canada",0.06278624427125368,220.38470351452398
+"Obedjiwan Population Center, QC, Canada",0.03677739332864413,406.4871003467935
+"Lancaster Park Population Center, AB, Canada",0.04864430707667798,696.6100616475115
+"Osler Population Center, SK, Canada",0.06953507341448209,505.58055803511843
+"Parc-Boutin Population Center, QC, Canada",0.0348101517698721,141.280657103959
+"Labelle Population Center, QC, Canada",0.07021865399149568,220.27382632770508
+"Saint-Michel-de-Bellechasse Population Center, QC, Canada",0.023887393003575064,21.828003000065035
+"Powassan Population Center, ON, Canada",0.07975829428152104,256.7870748770409
+"St. Clements Population Center, ON, Canada",0.04295985362944783,372.4298326674527
+"Inverness Population Center, NS, Canada",0.06164467369279653,33.926793848043246
+"Saint-Bernard Population Center, QC, Canada",0.0339912815835267,174.17456829454522
+"Mildmay Population Center, ON, Canada",0.05224519844417673,317.54492656135875
+"Yamachiche Population Center, QC, Canada",0.017286875645748292,10.749328844582552
+"Claremont Population Center, ON, Canada",0.06364540371965603,249.80330388171086
+"Jarvis Population Center, ON, Canada",0.03665843148035332,202.1838014461745
+"Vallée-Jonction Population Center, QC, Canada",0.07494240795918997,174.00323362850872
+"Little Current Population Center, ON, Canada",0.0326500599215695,189.94704008215018
+"Beaumont Population Center, QC, Canada",0.042625929239336134,53.603059844493174
+"Fairwinds Population Center, BC, Canada",0.06576691515886304,24.1360202595335
+"Notre-Dame-du-Lac Population Center, QC, Canada",0.07715190513387951,196.7575538763591
+"Markdale Population Center, ON, Canada",0.06124773669180971,430.35896020355796
+"Saint-Damien-de-Buckland Population Center, QC, Canada",0.06825547899547983,341.3669316659921
+"Carleton Population Center, QC, Canada",0.029320617692057304,9.16952356825928
+"Creemore Population Center, ON, Canada",0.04972578379766374,256.51916487598373
+"Swan Hills Population Center, AB, Canada",0.05752640849772218,1145.2688037678392
+"Bassano Population Center, AB, Canada",0.035334304725115166,791.0851003526625
+"LeBlanc Population Center, QC, Canada",0.028539705306551887,79.19929194911059
+"Puntledge Population Center, BC, Canada",0.06163807840877718,69.46192091867087
+"Ashcroft Population Center, BC, Canada",0.12242070061600875,307.2020303357086
+"Athabasca Population Center, AB, Canada",0.0659577527871423,560.9782405497657
+"Burgeo Population Center, NL, Canada",0.025656698833801853,5.18574733459939
+"Bourget Population Center, ON, Canada",0.036966568540184236,58.60928375771005
+"New Dundee Population Center, ON, Canada",0.07073994674260302,320.0253202857449
+"Mayerthorpe Population Center, AB, Canada",0.04495681381979357,710.762283689977
+"Saint-Chrysostome Population Center, QC, Canada",0.050802471509176675,55.483245747908065
+"Cultus Lake Population Center, BC, Canada",0.08639993920559955,79.618276643582
+"Legal Population Center, AB, Canada",0.04688676535095286,704.1230430211256
+"Chemawawin 2 Population Center, MB, Canada",0.028992716197115558,259.9556010718774
+"Cap-Saint-Ignace Population Center, QC, Canada",0.041326303811107586,29.31696016261994
+"Centreville Population Center, NS, Canada",0.049414332782009365,26.694409902284626
+"Lucknow Population Center, ON, Canada",0.05197402989239301,279.5062182674493
+"Saint-Elzéar Population Center, QC, Canada",0.04187179470710866,263.9556193969048
+"Eganville Population Center, ON, Canada",0.07378491835565078,173.23489552297576
+"Notre-Dame-du-Bon-Conseil Population Center, QC, Canada",0.04820916086762787,84.9817705638348
+"Thessalon Population Center, ON, Canada",0.04000243569679369,180.05429715305726
+"Munster Population Center, ON, Canada",0.03252521198355397,127.44100488878827
+"Saint-Pacôme Population Center, QC, Canada",0.08466613168362865,57.417660643119866
+"Chapleau Population Center, ON, Canada",0.060117456330185774,421.52710537199374
+"Golden Population Center, ON, Canada",0.06036897447717252,366.1097555590188
+"Salmo Population Center, BC, Canada",0.06384133524132947,669.0771239940711
+"Saint-Damase Population Center, QC, Canada",0.025913155993562573,33.73637671843779
+"Irricana Population Center, AB, Canada",0.04389254224281351,936.0023206442334
+"Lac-Simon Population Center, QC, Canada",0.05023649214228836,316.4402247778015
+"Stirling Population Center, AB, Canada",0.03770714337039593,927.1336673118923
+"Le Bic Population Center, QC, Canada",0.075389788066621,59.09326719028829
+"Horseshoe Valley Population Center, ON, Canada",0.08658647259915549,385.42045271174896
+"Wadena Population Center, SK, Canada",0.05425027948919942,534.9490147037187
+"Hensall Population Center, ON, Canada",0.03490816597942167,274.6236513030713
+"Notre-Dame-du-Mont-Carmel Population Center, QC, Canada",0.040466432641693965,113.79865942040104
+"Papineauville Population Center, QC, Canada",0.036245898380120746,52.262952356062705
+"Carnduff Population Center, SK, Canada",0.030182883861386005,523.0819208592004
+"Wilkie Population Center, SK, Canada",0.038225379661126796,661.7377918811274
+"Saint-Jean-de-Matha Population Center, QC, Canada",0.09092986390099085,203.68012174514962
+"Luceville Population Center, QC, Canada",0.03507414367550328,47.439047473981
+"Welcome Beach Population Center, BC, Canada",0.07025453928446415,64.82094211777543
+"Waldheim Population Center, SK, Canada",0.041787610231052555,532.4174910615898
+"Nakusp Population Center, BC, Canada",0.060207867104629345,457.97719128754414
+"Gjoa Haven Population Center, NU, Canada",0.02653363751867049,10.486657170525932
+"Palgrave Population Center, ON, Canada",0.07594618042295659,288.57850579948024
+"Salluit Population Center, QC, Canada",0.07638947116378855,28.699510054043945
+"Howie Centre Population Center, NS, Canada",0.032177125278618865,19.292388297363978
+"Saint-Michel-des-Saints Population Center, QC, Canada",0.03753875638114269,360.92956732886705
+"Orono Population Center, ON, Canada",0.07331136142690446,155.1926187413281
+"Sandy Bay - Wapaskokimaw 202 Population Center, SK, Canada",0.05264802768371126,304.5528763056806
+"Alberta Beach - Val Quentin Population Center, AB, Canada",0.05271534046313539,725.0937499310357
+"Macklin Population Center, SK, Canada",0.0397286137217224,662.9422368049766
+"Carriage Lane Estates Population Center, AB, Canada",0.04275313073206386,673.7281175233503
+"Saint-Raphaël Population Center, QC, Canada",0.029965672597246248,148.12107345550496
+"Dawson Population Center, YT, Canada",0.16246234407679988,344.4437056528562
+"Wabana Population Center, NL, Canada",0.04675079173904209,69.80105765866334
+"Barraute Population Center, QC, Canada",0.064797560304304,300.5564555610842
+"Ayer's Cliff Population Center, QC, Canada",0.06074050182972975,176.24042278888808
+"Teulon Population Center, MB, Canada",0.03132959524924557,258.89229557514307
+"Alfred Population Center, ON, Canada",0.046494019589149685,61.17707876273508
+"Barry's Bay Population Center, ON, Canada",0.05513963867956777,293.51741908551946
+"St. Theresa Point Population Center, MB, Canada",0.03292612072186823,237.3833715740648
+"Sainte-Justine Population Center, QC, Canada",0.050335747481121663,429.1159738581365
+"Haliburton Village Population Center, ON, Canada",0.09383871281535337,357.107023026079
+"Foam Lake Population Center, SK, Canada",0.041625277278995454,553.141523873252
+"Saint-Prime Population Center, QC, Canada",0.033280676019035206,108.42323063366271
+"Venise-en-Québec Population Center, QC, Canada",0.01758398980354574,30.58700270620579
+"Saint-Fabien Population Center, QC, Canada",0.06323633926937938,126.9565154643167
+"Birch Hills Population Center, SK, Canada",0.03276378088151068,474.35916090469476
+"Tiny Beaches North Population Center, ON, Canada",0.04223290791467479,184.1736260647889
+"Lac du Bonnet Population Center, MB, Canada",0.041195820801340315,254.98666840195884
+"Chalk River Population Center, ON, Canada",0.057049941319433105,156.10408163503726
+"Paisley Population Center, ON, Canada",0.052893229754880984,225.87057042758002
+"Kasabonika Lake Population Center, ON, Canada",0.048346906578294935,190.2849908447284
+"Omemee Population Center, ON, Canada",0.04314321261568921,245.5095259543596
+"Burford Population Center, ON, Canada",0.052594669111685886,251.37919693911476
+"Havelock Population Center, ON, Canada",0.05281720420529682,210.61996873157642
+"Oxbow Population Center, SK, Canada",0.039075116447785975,575.373971722662
+"Sheshatshiu Population Center, NL, Canada",0.04601371374803096,16.625779174953887
+"Saint-Denis Population Center, QC, Canada",0.024196932820340102,16.051951878603244
+"Thornton Population Center, ON, Canada",0.05987493951935475,292.6174611830145
+"Rivière-au-Renard Population Center, QC, Canada",0.05701852015302068,18.47456982285977
+"Hayes Subdivision Population Center, NS, Canada",0.04631764192279752,40.209616007903804
+"Mile 108 Recreational Ranch Population Center, BC, Canada",0.06329212671550327,914.9700129273195
+"St. Leonard Population Center, NB, Canada",0.057542832892394105,154.8947262342321
+"Roxton Falls Population Center, QC, Canada",0.04731452756221835,112.19467096151453
+"Montagnac Population Center, QC, Canada",0.07049658620289116,304.1626574323436
+"Davidson Population Center, SK, Canada",0.03696917066907449,616.7087308851774
+"Stephenville Crossing Population Center, NL, Canada",0.013373524472681229,3.1259720524289407
+"Merrickville Population Center, ON, Canada",0.043899474830747465,108.4573233335116
+"Cardiff Population Center, AB, Canada",0.03603629523472024,706.3798762127377
+"Saint-Roch-de-Richelieu Population Center, QC, Canada",0.04406030550167538,19.57203841709008
+"Port Williams Population Center, NS, Canada",0.04314587986267171,14.937896238694087
+"Manning Population Center, AB, Canada",0.05456969446872553,468.51283594205125
+"Delisle Population Center, SK, Canada",0.08662034103786778,530.208152884109
+"Mont-Saint-Grégoire Population Center, QC, Canada",0.030832197155869635,44.009831267791974
+"Causapscal Population Center, QC, Canada",0.09271264332833888,150.20212124456776
+"Naramata Population Center, BC, Canada",0.09482276233396966,446.26313038942004
+"Caronport Population Center, SK, Canada",0.03917082821912319,568.3007810819591
+"St. Andrews Population Center, MB, Canada",0.03273339441756401,228.5836431498216

@@ -1,0 +1,156 @@
+longname,PW Mean PM2.5 Pollution
+"Toronto CMA, ON, Canada",7.01167933170957
+"Montréal CMA, QC, Canada",7.538342242196457
+"Vancouver CMA, BC, Canada",5.530045698379601
+"Ottawa - Gatineau CMA, QC-ON, Canada",6.082012697858695
+"Calgary CMA, AB, Canada",8.83778228593723
+"Edmonton CMA, AB, Canada",8.090576877952923
+"Québec CMA, QC, Canada",6.189052276837211
+"Winnipeg CMA, MB, Canada",5.69525116380134
+"Hamilton CMA, ON, Canada",6.873249876348199
+"Kitchener - Cambridge - Waterloo CMA, ON, Canada",6.53426446797843
+"London CMA, ON, Canada",6.570271715780313
+"Halifax CMA, NS, Canada",4.5018708814717066
+"St. Catharines - Niagara CMA, ON, Canada",6.425115872179807
+"Windsor CMA, ON, Canada",8.12634502605637
+"Oshawa CMA, ON, Canada",6.203357109618099
+"Victoria CMA, BC, Canada",4.968405431428292
+"Saskatoon CMA, SK, Canada",5.8139203754629465
+"Regina CMA, SK, Canada",5.430209518505668
+"Sherbrooke CMA, QC, Canada",5.788900779592741
+"Kelowna CMA, BC, Canada",9.323420802596166
+"Barrie CMA, ON, Canada",5.879689366219901
+"St. John's CMA, NL, Canada",4.709261949659204
+"Abbotsford - Mission CMA, BC, Canada",5.60788941652957
+"Kingston CMA, ON, Canada",5.54435994419321
+"Greater Sudbury / Grand Sudbury CMA, ON, Canada",4.532884261488269
+"Guelph CMA, ON, Canada",6.672018271343722
+"Trois-Rivières CMA, QC, Canada",6.490217703169471
+"Saguenay CMA, QC, Canada",4.92343496002306
+"Moncton CMA, NB, Canada",4.018982528705282
+"Brantford CMA, ON, Canada",6.655324102690718
+"Saint John CMA, NB, Canada",3.92751624136005
+"Peterborough CMA, ON, Canada",5.680287174841674
+"Lethbridge CMA, AB, Canada",5.684817197936784
+"Thunder Bay CMA, ON, Canada",4.542343290684669
+"Nanaimo CMA, BC, Canada",4.77791479603796
+"Kamloops CMA, BC, Canada",9.810689579307638
+"Chilliwack CMA, BC, Canada",5.858903044838714
+"Belleville - Quinte West CMA, ON, Canada",5.649791397406512
+"Fredericton CMA, NB, Canada",4.032258663500843
+"Chatham-Kent CMA, ON, Canada",6.90940853014121
+"Drummondville CMA, QC, Canada",6.55202193733433
+"Red Deer CMA, AB, Canada",7.482623387126733
+"Cape Breton CMA, NS, Canada",4.244883061514517
+"Sarnia CMA, ON, Canada",6.943984188239219
+"Granby CMA, QC, Canada",6.435074781113487
+"Prince George CMA, BC, Canada",9.71267534575723
+"Kawartha Lakes CMA, ON, Canada",5.565902550556062
+"Charlottetown CMA, PE, Canada",4.032079571942909
+"Sault Ste. Marie CMA, ON, Canada",4.488660892183825
+"Medicine Hat CMA, AB, Canada",5.357889117407558
+"Wood Buffalo CMA, AB, Canada",5.863791067208096
+"North Bay CMA, ON, Canada",4.6064921203863145
+"Vernon CMA, BC, Canada",9.499119958552093
+"Norfolk CMA, ON, Canada",6.294551841578032
+"Grande Prairie CMA, AB, Canada",6.082935469080992
+"Courtenay CMA, BC, Canada",4.677508187014962
+"Cornwall CMA, ON, Canada",5.797412667626978
+"Saint-Hyacinthe CMA, QC, Canada",7.007897998634819
+"Brandon CMA, MB, Canada",4.9303815677848615
+"Rimouski CMA, QC, Canada",3.9897931631576458
+"Victoriaville CMA, QC, Canada",5.71378617381992
+"Joliette CMA, QC, Canada",6.530813132140104
+"Shawinigan CMA, QC, Canada",5.79384352078356
+"Duncan CMA, BC, Canada",5.05880795983992
+"Penticton CMA, BC, Canada",8.654869874276589
+"Woodstock CMA, ON, Canada",6.450963688956117
+"Truro CMA, NS, Canada",3.9843539609730034
+"Prince Albert CMA, SK, Canada",5.836821592348819
+"Salaberry-de-Valleyfield CMA, QC, Canada",6.673728941000917
+"Rouyn-Noranda CMA, QC, Canada",4.128880710783101
+"Sorel-Tracy CMA, QC, Canada",6.664377958971161
+"Timmins CMA, ON, Canada",4.523880250414704
+"Campbell River CMA, BC, Canada",4.557724441782385
+"Moose Jaw CMA, SK, Canada",5.227149782292769
+"Saint-Georges CMA, QC, Canada",4.7299806290387165
+"New Glasgow CMA, NS, Canada",3.9649303763340003
+"Val-d'Or CMA, QC, Canada",4.191024340177774
+"Orillia CMA, ON, Canada",5.682456291124574
+"Stratford CMA, ON, Canada",6.167867189901166
+"Owen Sound CMA, ON, Canada",4.930811017300094
+"Winkler CMA, MB, Canada",4.819460193273982
+"Whitehorse CMA, YT, Canada",4.164640116993274
+"Brockville CMA, ON, Canada",5.642970541335209
+"Bathurst CMA, NB, Canada",4.1256096965686675
+"Centre Wellington CMA, ON, Canada",6.190954233747356
+"Parksville CMA, BC, Canada",4.650430195287803
+"Okotoks CMA, AB, Canada",7.352837572293336
+"Alma CMA, QC, Canada",4.656411167756676
+"Rivière-du-Loup CMA, QC, Canada",4.408421472346215
+"Corner Brook CMA, NL, Canada",3.5398921129571073
+"Fort St. John CMA, BC, Canada",6.421142625550843
+"Thetford Mines CMA, QC, Canada",4.753437777158043
+"Midland CMA, ON, Canada",5.364579151761508
+"Sept-Îles CMA, QC, Canada",3.699286081013152
+"Miramichi CMA, NB, Canada",3.979662606573463
+"Cranbrook CMA, BC, Canada",8.016310420797517
+"Kentville CMA, NS, Canada",3.940772170165661
+"Baie-Comeau CMA, QC, Canada",3.962046298611771
+"Port Alberni CMA, BC, Canada",4.54993440881682
+"Wasaga Beach CMA, ON, Canada",5.609241051455782
+"Collingwood CMA, ON, Canada",5.295861885590315
+"Squamish CMA, BC, Canada",5.241121293025617
+"Pembroke CMA, ON, Canada",4.83735881503969
+"Williams Lake CMA, BC, Canada",8.132362502308458
+"Quesnel CMA, BC, Canada",10.812844806195429
+"Essa CMA, ON, Canada",5.91376669536607
+"Edmundston CMA, NB, Canada",3.9249864716610134
+"Cobourg CMA, ON, Canada",5.733218707214099
+"Yellowknife CMA, NT, Canada",3.9874884202564633
+"Sainte-Agathe-des-Monts CMA, QC, Canada",5.067046487413813
+"Yorkton CMA, SK, Canada",5.304257570128907
+"Lloydminster (Alberta part / partie de l'Alberta) CMA, AB, Canada",5.999168567132291
+"Salmon Arm CMA, BC, Canada",9.121252265908508
+"Terrace CMA, BC, Canada",4.7159281080069455
+"North Battleford CMA, SK, Canada",6.145084467648848
+"Nelson CMA, BC, Canada",8.194941867045008
+"Amos CMA, QC, Canada",4.087218313066997
+"Camrose CMA, AB, Canada",6.484756902211373
+"Swift Current CMA, SK, Canada",4.799650696812759
+"Tillsonburg CMA, ON, Canada",6.266034342398467
+"Matane CMA, QC, Canada",3.768985072761455
+"Petawawa CMA, ON, Canada",4.763606427829898
+"Summerside CMA, PE, Canada",3.9234876855188476
+"Dawson Creek CMA, BC, Canada",6.020828427494881
+"Powell River CMA, BC, Canada",4.405304238904463
+"Steinbach CMA, MB, Canada",5.089220299060629
+"Port Hope CMA, ON, Canada",5.794507724775463
+"Lloydminster (Saskatchewan part / partie de la Saskatchewan) CMA, SK, Canada",6.027980836022072
+"Sylvan Lake CMA, AB, Canada",7.461440481468879
+"Canmore CMA, AB, Canada",5.819903474747604
+"Ladysmith CMA, BC, Canada",4.798999508514426
+"Dolbeau-Mistassini CMA, QC, Canada",4.36609900688017
+"Cowansville CMA, QC, Canada",6.191462513815242
+"Kenora CMA, ON, Canada",5.950223416214169
+"Brooks CMA, AB, Canada",5.7880042691225295
+"Strathmore CMA, AB, Canada",7.291608593250391
+"High River CMA, AB, Canada",6.995859587287736
+"Trail CMA, BC, Canada",7.8996153366741515
+"Lachute CMA, QC, Canada",6.257516395116041
+"Grand Falls-Windsor CMA, NL, Canada",3.5257644598549835
+"Ingersoll CMA, ON, Canada",6.351474551074454
+"Prince Rupert CMA, BC, Canada",3.357054401132615
+"Gander CMA, NL, Canada",3.573811756848057
+"Lacombe CMA, AB, Canada",7.145523067137809
+"Portage la Prairie CMA, MB, Canada",4.966623217792499
+"Sainte-Marie CMA, QC, Canada",5.30714087504409
+"Thompson CMA, MB, Canada",4.525876449987609
+"Estevan CMA, SK, Canada",5.073872011429671
+"Wetaskiwin CMA, AB, Canada",6.666332063779942
+"Weyburn CMA, SK, Canada",5.043259078765569
+"Campbellton (New Brunswick part / partie du Nouveau-Brunswick) CMA, NB, Canada",3.8879939844005973
+"Elliot Lake CMA, ON, Canada",4.172809656959166
+"Hawkesbury (Ontario part / partie de l'Ontario) CMA, ON, Canada",6.154917688667177
+"Hawkesbury (partie du Québec / Quebec part) CMA, QC, Canada",6.187615837256481
+"Campbellton (partie du Québec / Quebec part) CMA, QC, Canada",3.979159928891962
